@@ -1,0 +1,231 @@
+; spellchk: acqulesce -> acquiesce
+001065 old <><P>{@Acqulesce,@} {%v. i.%} {#anuman#} 4 A, {#anujJA#} 9 U,
+001065 new <><P>{@Acquiesce,@} {%v. i.%} {#anuman#} 4 A, {#anujJA#} 9 U,
+; spellchk: aduitery -> adultery
+001356 old <><P>{@Aduitery,@} {%s.%} {#vyabhicAraH; pAravAryaM, parabhAryA-
+001356 new <><P>{@Adultery,@} {%s.%} {#vyabhicAraH; pAravAryaM, parabhAryA-
+; spellchk: affillate -> affiliate
+001505 old <><P>{@Affillate,@} {%v. t.%} {#saMzliS#} c., {#saMyuj#} 10.
+001505 new <><P>{@Affiliate,@} {%v. t.%} {#saMzliS#} c., {#saMyuj#} 10.
+; spellchk: agends -> agenda
+001635 old <><P>{@Agends,@} {%s.%} {#kAryakramapatra.#}
+001635 new <><P>{@Agenda,@} {%s.%} {#kAryakramapatra.#}
+; spellchk: alibl -> alibi
+001861 old <><P>{@Alibl,@} {%s.%} {#anyasthAnavartitvaM.#}
+001861 new <><P>{@Alibi,@} {%s.%} {#anyasthAnavartitvaM.#}
+; spellchk: anthor -> author
+003797 old <><P>{@Anthor,@} {%s.%} {#kAraH-kRt#} in comp.; ‘a. of Ga-
+003797 new <><P>{@Author,@} {%s.%} {#kAraH-kRt#} in comp.; ‘a. of Ga-
+; spellchk: bllithe -> blithe
+005513 old <><P>{@Bllithe, Blithesome,@} {%a.%} {#hRSTa, pramudita, mA-
+005513 new <><P>{@Blithe, Blithesome,@} {%a.%} {#hRSTa, pramudita, mA-
+; spellchk: calcarecus -> calcareous
+006841 old <><P>{@Calcarecus,@} {%a.%} {#zArkarIya.#} {@2@} {#cUrNamaya-guNa.#}
+006841 new <><P>{@Calcareous,@} {%a.%} {#zArkarIya.#} {@2@} {#cUrNamaya-guNa.#}
+; spellchk: captaln -> captain
+007183 old <><P>{@Captaln,@} {%s.%} {#sainAnIH, gulmapatiH, daMDanAyakaH.#}
+007183 new <><P>{@Captain,@} {%s.%} {#sainAnIH, gulmapatiH, daMDanAyakaH.#}
+; spellchk: caterpiliar -> caterpillar
+007581 old <><P>{@Caterpiliar,@} {%s.%} {#koSakAraH-vAsin#} {%m.%}
+007581 new <><P>{@Caterpillar,@} {%s.%} {#koSakAraH-vAsin#} {%m.%}
+; spellchk: catholie -> catholic
+007591 old <><P>{@Catholie,@} {%a.%} {#sarvasAmAnya, sAdhAraNa#} ({#NI#} {%f.%}),
+007591 new <><P>{@Catholic,@} {%a.%} {#sarvasAmAnya, sAdhAraNa#} ({#NI#} {%f.%}),
+; spellchk: cephaiagy -> cephalagy
+007789 old <><P>{@Cephaiagy,@} {%s.%} {#zirovedanA.#}
+007789 new <><P>{@Cephalagy,@} {%s.%} {#zirovedanA.#}
+; spellchk: circumiuse -> circumfuse
+008551 old <><P>{@Circumiuse,@} {%v. t.%} {#pari-samA-pla-#} c., {#samAkram#}
+008551 new <><P>{@Circumfuse,@} {%v. t.%} {#pari-samA-pla-#} c., {#samAkram#}
+; spellchk: compatrlot -> compatriot
+009834 old <><P>{@Compatrlot,@} {%s.%} {#svadezajaH, ekadezanivA-
+009834 new <><P>{@Compatriot,@} {%s.%} {#svadezajaH, ekadezanivA-
+; spellchk: condult -> conduit
+010353 old <><P>{@Condult,@} {%s.%} {#praNAlI, jalanigamaH.#} {@2@} {#kulyA.#}
+010353 new <><P>{@Conduit,@} {%s.%} {#praNAlI, jalanigamaH.#} {@2@} {#kulyA.#}
+; spellchk: congenlte -> congenite
+010554 old <><P>{@Congenlte,@} {%a.%} {#sahaja, ekakAlotpanna.#}
+010554 new <><P>{@Congenite,@} {%a.%} {#sahaja, ekakAlotpanna.#}
+; spellchk: cosistory -> consistory
+010836 old <><P>{@Cosistory,@} {%s.%} {#purohitasabhA.#}
+010836 new <><P>{@Consistory,@} {%s.%} {#purohitasabhA.#}
+; spellchk: conterntinous -> conterminous
+011090 old <><P>{@Conterntinous,@} {%a.%} {#sImAvAsin, samIpa-
+011090 new <><P>{@Conterminous,@} {%a.%} {#sImAvAsin, samIpa-
+; spellchk: contlnent -> continent
+011117 old <><P>{@Contlnent,@} {%a.%} {#jiteMdriya, saMyata, saMyamin, yata-
+011117 new <><P>{@Continent,@} {%a.%} {#jiteMdriya, saMyata, saMyamin, yata-
+; spellchk: cosmlcal -> cosmical
+011730 old <><P>{@Cosmlcal,@} {%a.%} {#jagatsaMbaMdhin.#}
+011730 new <><P>{@Cosmical,@} {%a.%} {#jagatsaMbaMdhin.#}
+; spellchk: credlble -> credible
+012233 old <><P>{@Credlble,@} {%a.%} {#vizvasanIya, zraddheya, vizvAsya,
+012233 new <><P>{@Credible,@} {%a.%} {#vizvasanIya, zraddheya, vizvAsya,
+; spellchk: debonalr -> debonair
+013288 old <><P>{@Debonalr,@} {%a.%} {#sabhya, ziSTa, suzIla, suvinIla,
+013288 new <><P>{@Debonair,@} {%a.%} {#sabhya, ziSTa, suzIla, suvinIla,
+; spellchk: decilne -> decline
+013424 old <><P>{@Decilne,@} {%v. i.%} {#kSayaM, -hAsaM-yA-i#} 2 P, or {#gam#}
+013424 new <><P>{@Decline,@} {%v. i.%} {#kSayaM, -hAsaM-yA-i#} 2 P, or {#gam#}
+; spellchk: daity -> deity
+013776 old <><P>{@Daity,@} {%s.%} {#devatA, daivataM, devaH;#} {%See%} {@God.@}
+013776 new <><P>{@Deity,@} {%s.%} {#devatA, daivataM, devaH;#} {%See%} {@God.@}
+; spellchk: demobillze -> demobilize
+014007 old <><P>{@Demobillze,@} {%v. t. See%} {@‘Disband.’@}
+014007 new <><P>{@Demobilize,@} {%v. t. See%} {@‘Disband.’@}
+; spellchk: depalnt -> depaint
+014142 old <><P>{@Depalnt,@} {%See%} {@Paint.@}
+014142 new <><P>{@Depaint,@} {%See%} {@Paint.@}
+; spellchk: darelict -> derelict
+014323 old <><P>{@Darelict,@} {%a%} {#tyakta, utsRSTha, parityakta#} {@-ion,@} {%s.%}
+014323 new <><P>{@Derelict,@} {%a%} {#tyakta, utsRSTha, parityakta#} {@-ion,@} {%s.%}
+; spellchk: despole -> despoil
+014548 old <><P>{@Despole,@} {%v. t.%} {#hR#} 1 P, {#apahR;#} {%See%} {@Deprive;@}
+014548 new <><P>{@Despoil,@} {%v. t.%} {#hR#} 1 P, {#apahR;#} {%See%} {@Deprive;@}
+; spellchk: dimlty -> dimity
+015202 old <><P>{@Dimlty,@} {%s.%} {#dRDhaM kArpAsavastraM.#}
+015202 new <><P>{@Dimity,@} {%s.%} {#dRDhaM kArpAsavastraM.#}
+; spellchk: disqulet -> disquiet
+016159 old <><P>{@Disqulet,@} {%v. t.%} {#AkulIkR#} 8 U, {#bAdh#} 1 A,
+016159 new <><P>{@Disquiet,@} {%v. t.%} {#AkulIkR#} 8 U, {#bAdh#} 1 A,
+; spellchk: diurual -> diurnal
+016467 old <><P>{@Diurual,@} {%a.%} {#Ahnika dainika#} ({#kI#} {%f.%}), {#dainaM-
+016467 new <><P>{@Diurnal,@} {%a.%} {#Ahnika dainika#} ({#kI#} {%f.%}), {#dainaM-
+; spellchk: duicet -> dulcet
+017398 old <><P>{@Duicet,@} {%a.%} {#surasa, svAdu, madhura, miSTa;#} ‘d. to
+017398 new <><P>{@Dulcet,@} {%a.%} {#surasa, svAdu, madhura, miSTa;#} ‘d. to
+; spellchk: electic -> eclectic
+017776 old <><P>{@Electic,@} {%a.%} {#uddhAraka.#}
+017776 new <><P>{@Eclectic,@} {%a.%} {#uddhAraka.#}
+; spellchk: ellcit -> elicit
+018162 old <><P>{@Ellcit,@} {%v. t.%} {#nirgam#} c. ({#gamayati#}), {#niSkRS#} 1 P,
+018162 new <><P>{@Elicit,@} {%v. t.%} {#nirgam#} c. ({#gamayati#}), {#niSkRS#} 1 P,
+; spellchk: endeavonr -> endeavour
+018713 old <><P>{@Endeavonr,@} {%v. i.%} {#pra-, yat#} 1 A, {#ghaT#} 1 A,
+018713 new <><P>{@Endeavour,@} {%v. i.%} {#pra-, yat#} 1 A, {#ghaT#} 1 A,
+; spellchk: enuciate -> enunciate
+019166 old <><P>{@Enuciate,@} {%v. t.%} {#lakSaNaM-svarUpaM-kath#} or {#varN#}
+019166 new <><P>{@Enunciate,@} {%v. t.%} {#lakSaNaM-svarUpaM-kath#} or {#varN#}
+; spellchk: exequres -> exequies
+020203 old <><P>{@Exequres,@} {%See%} {@Obsequies.@}
+020203 new <><P>{@Exequies,@} {%See%} {@Obsequies.@}
+; spellchk: exerclse -> exercise
+020205 old <><P>{@Exerclse,@} {%s.%} {#prayogaH, vyApAraH anuSThAna
+020205 new <><P>{@Exercise,@} {%s.%} {#prayogaH, vyApAraH anuSThAna
+; spellchk: humbing -> humbug
+028442 old <><P>{@Humbing,@} {%v. t.%} {#pratRR#} c., {#vaMc#} 10; {%See%}
+028442 new <><P>{@Humbug,@} {%v. t.%} {#pratRR#} c., {#vaMc#} 10; {%See%}
+; spellchk: inclnerate -> incinerate
+029904 old <><P>{@Inclnerate,@} {%v. t.%} {#bhasmasAtkR#} 8 U, {#bhasmIkR.#}
+029904 new <><P>{@Incinerate,@} {%v. t.%} {#bhasmasAtkR#} 8 U, {#bhasmIkR.#}
+; spellchk: inexperlence -> inexperience
+030615 old <><P>{@Inexperlence,@} {%s.%} {#ananubhavaH, apakvabuddhitvaM,
+030615 new <><P>{@Inexperience,@} {%s.%} {#ananubhavaH, apakvabuddhitvaM,
+; spellchk: inantry -> infantry
+030662 old <><P>{@Inantry,@} {%s.%} {#pattayaH, padAtayaH, padAMtikAH#}
+030662 new <><P>{@Infantry,@} {%s.%} {#pattayaH, padAtayaH, padAMtikAH#}
+; spellchk: ingredlent -> ingredient
+030946 old <><P>{@Ingredlent,@} {%s.%} {#aMmaM, sAdhanaM, bhAgaH, aMzaH,
+030946 new <><P>{@Ingredient,@} {%s.%} {#aMmaM, sAdhanaM, bhAgaH, aMzaH,
+; spellchk: inoflensive -> inoffensive
+031177 old <><P>{@Inoflensive,@} {%a.%} {#aklezada, anupadravin, a-
+031177 new <><P>{@Inoffensive,@} {%a.%} {#aklezada, anupadravin, a-
+; spellchk: interiocution -> interlocution
+031926 old <><P>{@Interiocution,@} {%s.%} {#saMlApaH, saMvAdaH, saM-
+031926 new <><P>{@Interlocution,@} {%s.%} {#saMlApaH, saMvAdaH, saM-
+; spellchk: insterstellar -> interstellar
+032055 old <><P>{@Insterstellar,@} {%a.%} {#tArAgaNamadhyavartin.#}
+032055 new <><P>{@Interstellar,@} {%a.%} {#tArAgaNamadhyavartin.#}
+; spellchk: jecose -> jocose
+032934 old <><P>{@Jecose, Jocular,@} {%a.%} {#hAsyakara (rI#} {%f.%}),
+032934 new <><P>{@Jocose, Jocular,@} {%a.%} {#hAsyakara (rI#} {%f.%}),
+; spellchk: lambeat -> lambent
+033807 old <><P>{@Lambeat,@} {%a.%} {#itastaH vepamAna, lola, kaMpa-
+033807 new <><P>{@Lambent,@} {%a.%} {#itastaH vepamAna, lola, kaMpa-
+; spellchk: miliet -> millet
+038743 old <><P>{@Miliet,@} {%s.%} {#aNuH, priyaMguH.#}
+038743 new <><P>{@Millet,@} {%s.%} {#aNuH, priyaMguH.#}
+; spellchk: mordacions -> mordacious
+039785 old <><P>{@Mordacions,@} {%a.%} {#daMzaka.#} {@-Mordacity,@} {%s.%}
+039785 new <><P>{@Mordacious,@} {%a.%} {#daMzaka.#} {@-Mordacity,@} {%s.%}
+; spellchk: omnlfarious -> omnifarious
+042551 old <><P>{@Omnlfarious,@} {%a.%} {#sarvavidha-prakAra.#}
+042551 new <><P>{@Omnifarious,@} {%a.%} {#sarvavidha-prakAra.#}
+; spellchk: outrlder -> outrider
+043318 old <><P>{@Outrlder,@} {%s.%} {#azvArUDhaH paricaraH.#}
+043318 new <><P>{@Outrider,@} {%s.%} {#azvArUDhaH paricaraH.#}
+; spellchk: pannler -> pannier
+044093 old <><P>{@Pannler,@} {%s.%} {#kaMDolaH, piTaH, pe(pi)TakaH,
+044093 new <><P>{@Pannier,@} {%s.%} {#kaMDolaH, piTaH, pe(pi)TakaH,
+; spellchk: pecullar -> peculiar
+044938 old <><P>{@Pecullar,@} {%a.%} {#vizeSa#} in comp.; {#viziSTa,
+044938 new <><P>{@Peculiar,@} {%a.%} {#vizeSa#} in comp.; {#viziSTa,
+; spellchk: pedsstal -> pedestal
+044964 old <><P>{@Pedsstal,@} {%s.%} ({#staMbhAdeH#}) {#pAdaH, AdhAraH; staMbha-
+044964 new <><P>{@Pedestal,@} {%s.%} ({#staMbhAdeH#}) {#pAdaH, AdhAraH; staMbha-
+; spellchk: pharmacopaela -> pharmacopaeia
+045724 old <><P>{@Pharmacopæla,@} {%s.%} {#auSadhatattvazAstraM, bheSaja-
+045724 new <><P>{@Pharmacopæia,@} {%s.%} {#auSadhatattvazAstraM, bheSaja-
+; spellchk: precogltate -> precogitate
+047533 old <><P>{@Precogltate,@} {%v. i.%} {#pUrvaM-agre ciMt#} 10 or
+047533 new <><P>{@Precogitate,@} {%v. i.%} {#pUrvaM-agre ciMt#} 10 or
+; spellchk: pralopse -> prolapse
+048648 old <><P>{@Pralopse, Prolapsus,@} {%s.%} {#bhraMzaH.#} {%-v. i.%} {#bhraMz#}
+048648 new <><P>{@Prolapse, Prolapsus,@} {%s.%} {#bhraMzaH.#} {%-v. i.%} {#bhraMz#}
+; spellchk: purlleu -> purlieu
+049491 old <><P>{@Purlleu,@} {%s. See%} {@Border.@}
+049491 new <><P>{@Purlieu,@} {%s. See%} {@Border.@}
+; spellchk: quadrenmal -> quadrennial
+049701 old <><P>{@Quadrenmal,@} {%a.%} {#cAturvArSika#} ({#kI#} {%f.%}).
+049701 new <><P>{@Quadrennial,@} {%a.%} {#cAturvArSika#} ({#kI#} {%f.%}).
+; spellchk: rellct -> relict
+051636 old <><P>{@Rellct,@} {%s. See%} {@Widow.@}
+051636 new <><P>{@Relict,@} {%s. See%} {@Widow.@}
+; spellchk: ruflian -> ruffian
+053604 old <><P>{@Ruflian,@} {%s.%} {#AtatAyin#} {%m.,%} {#sAhasikaH,
+053604 new <><P>{@Ruffian,@} {%s.%} {#AtatAyin#} {%m.,%} {#sAhasikaH,
+; spellchk: seeptre -> sceptre
+054522 old <><P>{@Seeptre,@} {%s.%} {#daMDaH, rAjadaMDaH-vetraM-yaSTi#} {%f.%} {@2@} {#rA-
+054522 new <><P>{@Sceptre,@} {%s.%} {#daMDaH, rAjadaMDaH-vetraM-yaSTi#} {%f.%} {@2@} {#rA-
+; spellchk: siudge -> sludge
+057181 old <><P>{@Siudge,@} {%s.%} {#paMkaH.#}
+057181 new <><P>{@Sludge,@} {%s.%} {#paMkaH.#}
+; spellchk: striete -> striate
+059635 old <><P>{@Striete,@} {%a.%} {#rekhAMkita.#}
+059635 new <><P>{@Striate,@} {%a.%} {#rekhAMkita.#}
+; spellchk: subterrsnean -> subterranean
+060135 old <><P>{@Subterrsnean,@} {%a.%} {#AMtarbhauma#} ({#mI#} {%f.%}), {#bhUmi#}
+060135 new <><P>{@Subterranean,@} {%a.%} {#AMtarbhauma#} ({#mI#} {%f.%}), {#bhUmi#}
+; spellchk: subuib -> suburb
+060156 old <><P>{@Subuib,@} {%s.%} ({#nagara-#}) {#parisaraH, upakaMThaM, paryaMta-
+060156 new <><P>{@Suburb,@} {%s.%} ({#nagara-#}) {#parisaraH, upakaMThaM, paryaMta-
+; spellchk: tranqull -> tranquil
+062793 old <><P>{@Tranqull,@} {%a.%} {#pra-, zAMta, stimita, nizcala, svastha,
+062793 new <><P>{@Tranquil,@} {%a.%} {#pra-, zAMta, stimita, nizcala, svastha,
+; spellchk: troly -> trolly
+063183 old <><P>{@Troly@} ({@ey@}) {#hastavAhyaM yAnaM.#}
+063183 new <><P>{@Trolly@} ({@ey@}) {#hastavAhyaM yAnaM.#}
+; spellchk: tynpanum -> tympanum
+063570 old <><P>{@Tynpanum,@} {%s.%} {#karNodaraM, karNaduMdubhiH.#}
+063570 new <><P>{@Tympanum,@} {%s.%} {#karNodaraM, karNaduMdubhiH.#}
+; spellchk: unceremonlous -> unceremonious
+063695 old <><P>{@Unceremonlous,@} {%a.%} {#anAdara, maMdAdara.#} {@-ly,@}
+063695 new <><P>{@Unceremonious,@} {%a.%} {#anAdara, maMdAdara.#} {@-ly,@}
+; spellchk: untll -> until
+064109 old <><P>{@Untll,@} {%prep. See%} {@Till.@}
+064109 new <><P>{@Until,@} {%prep. See%} {@Till.@}
+; spellchk: utoplan -> utopian
+064297 old <><P>{@Utoplan,@} {%a.%} {#kAlpanika#} ({#kI#} {%f.%}), {#manaHsRSTa;#}
+064297 new <><P>{@Utopian,@} {%a.%} {#kAlpanika#} ({#kI#} {%f.%}), {#manaHsRSTa;#}
+; spellchk: valld -> valid
+064373 old <><P>{@Valld,@} {%a.%} {#sacala, prabala, sapramANa; sayuktika.#}
+064373 new <><P>{@Valid,@} {%a.%} {#sacala, prabala, sapramANa; sayuktika.#}
+; spellchk: verisimillitude -> verisimilitude
+064624 old <><P>{@Verisimillitude,@} {%s%} {#saMbhavaH.#} {@2@} {#sAdRzyaM.#}
+064624 new <><P>{@Verisimilitude,@} {%s%} {#saMbhavaH.#} {@2@} {#sAdRzyaM.#}
+; spellchk: walve -> waive
+065168 old <><P>{@Walve,@} {%v. t.%} {#pari-tyaj#} 1 P; {%See%} {@Abandon.@}
+065168 new <><P>{@Waive,@} {%v. t.%} {#pari-tyaj#} 1 P; {%See%} {@Abandon.@}
+; spellchk: wednescay -> wednesday
+065543 old <><P>{@Wednescay,@} {%s.%} {#budhavAsaraH.#}
+065543 new <><P>{@Wednesday,@} {%s.%} {#budhavAsaraH.#}

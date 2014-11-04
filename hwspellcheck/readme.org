@@ -1,0 +1,79 @@
+0research/ae/hwspellcheck/readme.txt
+
+Nov 2, 2014
+
+Use the English Dictionary shipped with PyEnchant to
+do a spell check of the headwords in Apte English-Sanskrit Dictionary.
+
+Use aehw2.txt as source of AE headwords.
+In last step (prep1), use ae.txt.
+Both of these obtainable from downloads at
+http://www.sanskrit-lexicon.uni-koeln.de/scans/AEScan/2014/web/webtc/download.html
+
+* Establish PyEnchant virtualenv for python
+In Emacs shell,
+Originally, the pyenchant virtualenv was made in the folder:
+C:\ejf\pdfs\TM2013\0research\ccs\german
+That folder is where the pyenchant virtualenv must be activated.
+So, To activate the pyenchant virtualenv (in an Emacs shell):
+cd c:/ejf/pdfs/TM2013/ccs/research/german/pyenchant/Scripts
+activate.bat
+
+Then cd back here and run python.
+
+cd to 0research/ccs/german/pyenchant/Scripts
+activate.bat
+
+Then cd back to this directory
+
+
+* check1.py
+These are xspell dictionaries, used in check1.py via pyenchant;
+They come with pyenchant.
+
+en_GB  515kb
+en_US  680kb
+en_AU  502kb not used
+python check1.py aehw2.txt aehw2_spellchk.txt
+
+python check1.py aehw2.txt aehw2_spellchk.txt
+ALL 11363
+OK=en_GB 9690
+OK=en_US 111
+X 1562
+
+* Using google docs for those 1562 cases
+Many of these (like abbacy) are valid words (available 
+from Google searches as define: abbacy).
+It is believed that Google Docs spell-checking uses the same
+source of words.
+
+So,
+Select all the 1562 X lines, Change :X to :OK=Google,
+and paste into a Google Docs file.
+Those that have an underlining are spelling errors acc. to Google. 
+(like acqulesce)
+ Change them back to :X
+Those without an underline are not spelling errors, acc. to Google.
+wednescay
+
+
+https://docs.google.com/document/d/1TAGNa6prlzhV4MnekWgRB_SS_XRxvVriWMc6dLtscxc/edit
+
+* Nov 3, 2014: aehw2_spellchk_google_edit.txt
+Select the 281 records from the edit file that Google says are spelling errors.
+Put in file aehw2_spellchk_google_edit.txt.
+Manually change the 'status' field, by examining the scans of each one.
+Recode the status field as
+ S == Scan checked, and odd spelling agrees with scan
+ SP=phrase   'word' is a phrase  (Scan checked)
+ E=corrected
+
+Those marked ':E' need to be corrected; there are 77 of them
+Save this subset into aehw2_error.txt.
+Sample record:
+492:wednescay:65543,65544:E=wednesday
+
+* construct prototypes of update transactions frrom aehw2_errot.txt
+Also uses ae.txt
+python prep1.py aehw2_error.txt ae.txt spellchkLine.txt
