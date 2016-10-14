@@ -25,7 +25,7 @@ def init_hwnorm1(filein=None):
  if filein == None:
   import os
   dir_path = os.path.dirname(os.path.realpath(__file__))
-  filein = os.path.join(dir_path,"hwnorm1_v1c.txt")
+  filein = os.path.join(dir_path,"hwnorm1c.txt")
  with open(filein,"r") as f:
   recs = [HWnorm1rec(line) for line in f]
  print len(recs),"read from",filein
