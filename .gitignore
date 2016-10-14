@@ -1,0 +1,6 @@
+# emacs backups
+*~
+# python byte code
+*.pyc
+# temporary files
+temp*
