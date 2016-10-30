@@ -7,6 +7,7 @@ import sys
 sys.path.append('hwnorm1')
 import hwnorm1
 from ngram import get_ngrams
+import re
 
 class Invert2(object):
  def __init__(self,line):
@@ -27,6 +28,17 @@ def init_invert2recs(filein=None):
  print len(recs),"records read from",filein
  return recs
 
+def local_normalize(key):
+ """ For our purposes, some further spelling changes before finding
+    ngrams
+ """
+ key1 = re.sub(r'EH$','a',key)
+ key1 = re.sub(r'iM','i',key1)
+ key1 = re.sub(r'IM','I',key1)
+ key1 = re.sub(r'AH$','A',key1)
+ key1 = re.sub(r'osmi$','asmi',key1) # pracakitosmi -> pracakitaH asmi
+ return key1
+
 def rec_ngrams(rec):
  word = rec.word
  # if word is hyphenated, do NOT look for ngrams that
@@ -37,7 +49,11 @@ def rec_ngrams(rec):
  for word in parts:
   # normalize in the hwnorm1 way
   key = hwnorm1.normalize_key(word)
-  ngrams = ngrams + get_ngrams(key,ngramlen)
+  key1 = local_normalize(key)
+  key_ngrams = get_ngrams(key1,ngramlen)
+  # allow for logic to change last ngram
+  key_ngrams_adjusted = key_ngrams
+  ngrams = ngrams + key_ngrams_adjusted
  # are all ngrams in the dictionary ngramsd ?
  unknown_ngrams=[]
  for ngram in ngrams:
@@ -45,6 +61,11 @@ def rec_ngrams(rec):
    unknown_ngrams.append(ngram)
  rec.unknown_ngrams = unknown_ngrams
  rec.found = (len(unknown_ngrams) == 0)
+ rec.sortkey = ''
+ if not rec.found:
+  #rec.sortkey = ','.join(rec.unknown_ngrams)
+  temp = unknown_ngrams[0] # just first 1, if there are multiple
+  rec.sortkey = temp[-2:]  # just last 2 characters
 
 def filter(ngramlen,ngramsd,recs,fileout,fileout1):
  fout = open(fileout,"w")
@@ -54,7 +75,9 @@ def filter(ngramlen,ngramsd,recs,fileout,fileout1):
  # generate output
  n = 0
  n1 = 0
- for rec in recs:
+ # sort records
+ recs1 = sorted(recs,key=lambda rec: rec.sortkey)
+ for rec in recs1:
   if rec.found:
    out = "%s" %(rec.line)
    fout.write(out + "\n")

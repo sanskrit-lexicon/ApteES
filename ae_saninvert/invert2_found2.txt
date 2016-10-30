@@ -462,7 +462,7 @@ apa-vi-svaraH:001:note,7160,309##apa+vi+svara
 apa-vi-hA:001:except,3736,144##apa+vi+hA
 apa-vipra-karzaH:001:reduce,8716,383##apa+vipra+karza
 apa-vyapa-Uh:001:remove,8806,389##apa+vyapa+Uh
-apa-vyapa-diS:007:designate,2784,103;dissemble,3076,116;evade,3702,142;excuse,3755,146;prevaricate,8279,359;sham,9380,421;shirk,9418,423##apa+vyapa+diS
+apa-vyapa-diS:008:designate,2784,103;dissemble,3076,116;evade,3702,142;excuse,3755,146;pretend,8271,359;prevaricate,8279,359;sham,9380,421;shirk,9418,423##apa+vyapa+diS
 apa-vyapa-deSaH:015:colour,1950,064;cover,2346,084;device,2825,105;equivocate,3635,140;evade,3702,142;excuse,3755,146;just,5913,245;mask,6529,279;pretend,8271,359;quibble,8541,373;shift,9411,422;shuffle,9449,425;stratagem,9935,449;subterfuge,10018,454;trick,10581,475##apa+vyapa+deSa
 apa-vyay:002:misuse,6798,293;squander,9801,442##apa+vyay
 apa-vyA-mfj:002:delete,2679,098;rub,9026,403##apa+vyA+mfj
@@ -2260,6 +2260,7 @@ carma-tvacaM-saMkuc:001:wrinkle,11314,499##carma+tvaca+saNkuc
 carma-pawaH-patraM:001:vellum,10973,485##carma+pawa+patra
 carma-maMjuzA-pewakaH:001:valise,10939,484##carma+maYjuzA+pewaka
 carmakIlaH-laM:001:wart,11155,491##carmakIla+la
+carmapawwaH-baMDaH:001:strap,9934,449##carmapawwa+banDa
 cal-gam:001:walk,11133,490##cal+gam
 cal-car:005:flaunt,4086,164;go,4572,185;lag,6010,250;pass,7691,332;perambulate,7812,337##cal+car
 cal-maMdaM:001:creep,2395,086##cal+manda
@@ -2679,7 +2680,7 @@ daSana-radana-CadaH:001:lip,6242,263##daSana+radana+Cada
 daSanaH-naM:001:fang,3895,154##daSana+na
 daSA-vasti:001:skirt,9526,429##daSA+vasti
 daSA-viparyAsaH:001:beyond,987,034##daSA+viparyAsa
-dAMBika-CAdmika:001:false,3884,153##dAmBika+CAdmika
+dAMBika-CAdmika:002:charlatan,1640,055;false,3884,153##dAmBika+CAdmika
 dAna-tyAga-SIla:003:beneficent,925,032;bounteous,1159,040;munificent,6970,300##dAna+tyAga+SIla
 dAna-SatruH-vimuKaH:001:miser,6754,291##dAna+Satru+vimuKa
 dAraparigrahaH-kriyA:001:wife,11244,495##dAraparigraha+kriyA
@@ -3079,7 +3080,7 @@ ni-A-deSaH:003:instruct,5617,233;law,6089,253;ordinance,7372,321##ni+A+deSa
 ni-A-DA:005:impose,5225,218;prefix,8229,356;put,8488,371;repose,8838,391;reposit,8839,391##ni+A+DA
 ni-A-DAnaM:001:receive,8667,380##ni+A+DAna
 ni-A-pra-viS:001:insert,5576,231##ni+A+pra+viS
-ni-A-maMtr:001:cail,1377,046##ni+A+mantr
+ni-A-maMtr:001:call,1377,046##ni+A+mantr
 ni-A-ruh:001:settle,9362,420##ni+A+ruh
 ni-A-layaH:003:house,5016,208;lodge,6293,266;seat,9274,413##ni+A+laya
 ni-A-vAsaH:002:dwell,3285,126;lodge,6293,266##ni+A+vAsa
@@ -3708,7 +3709,7 @@ pUrvaM-puraH-agre-sf:001:forerun,4203,169##pUrva+pura+agre+sf
 pUrvaM-vad:001:protest,8394,367##pUrva+vad
 pUrvajYAnaM-boDaH:002:precognition,8208,355;preknowledge,8235,356##pUrvajYAna+boDa
 pUrvaBava-BUta:001:preexist,8225,356##pUrvaBava+BUta
-pUrvalakzaRaM-cihnaM:001:presage,8259,357##pUrvalakzaRa+cihna
+pUrvalakzaRaM-cihnaM:002:omen,7312,317;presage,8259,357##pUrvalakzaRa+cihna
 pUrvalakzaRaM-cihnaM-liMgaM:002:foretoken,4212,170;precursor,8210,355##pUrvalakzaRa+cihna+liNga
 pUrvalakzaRaM-darSanaM:001:prefigure,8228,356##pUrvalakzaRa+darSana
 pUrvavftta-gata:001:previous,8281,359##pUrvavfta+gata
@@ -4231,7 +4232,7 @@ bala-tejo-vfdDi:001:invigorate,5755,239##bala+tejo+vfdDi
 bala-Sakti-hIna:001:weak,11167,492##bala+Sakti+hIna
 balaM-DEryaM:001:nerve,7074,306##bala+DErya
 balaM-sattvaM:002:recruit,8698,382;refresh,8734,384##bala+sattva
-balaM-satvaM-vfD:001:rejuvenate,8773,387##bala+satva+vfD
+balaM-sattvaM-vfD:001:rejuvenate,8773,387##bala+sattva+vfD
 balAt-anyAyena:001:extort,3829,150##balAt+anyAya
 balADyakzaH-nAyakaH:001:general,4458,180##balADyakza+nAyaka
 balena-tAqanena-praviS:001:hammer,4768,195##bala+tAqana+praviS
@@ -4501,6 +4502,7 @@ mati-budDi-BraMSaH:001:mad,6394,273##mati+budDi+BraMSa
 mati-budDi-BramaH:001:lunatic,6359,271##mati+budDi+Brama
 mati-budDi-mat:002:sense,9322,416;wise,11262,496##mati+budDi+mat
 mati-budDi-vilAsaH:001:fly,4151,166##mati+budDi+vilAsa
+mati-budDi-vyutpatti:001:reason,8655,380##mati+budDi+vyutpatti
 mati-budDi-hIna:001:sense,9322,416##mati+budDi+hIna
 mati-BraMSaH:001:sense,9322,416##mati+BraMSa
 mati-viBavaH:001:strong,9962,451##mati+viBava
@@ -4586,6 +4588,7 @@ mallayudDaM-bAhuyudDaM-kf:001:wrestle,11310,499##mallayudDa+bAhuyudDa+kf
 masi-sI:001:ink,5525,229##masi+sI
 masikUpI-BAjanaM-DAnI:001:ink,5525,229##masikUpI+BAjana+DAnI
 mastaka-SiraH-pfzWaM:001:occiput,7263,315##mastaka+Sira+pfzWa
+mastaka-saMKyA:001:capitation,1440,048##mastaka+saNKyA
 mastakaH-kaM:001:head,4829,199##mastaka+ka
 maha-kArin-kft:001:colaborator,1920,063##maha+kArin+kft
 mahA-ati-pAtakin:001:nefarious,7058,305##mahA+ati+pAtakin
@@ -4889,7 +4892,7 @@ rada-daMta-CadaH:001:lip,6242,263##rada+danta+Cada
 raBasaH-saM:001:haste,4808,198##raBasa+sa
 raBasA-javena:001:dart,2561,092##raBasA+java
 ram-mud:001:please,8022,346##ram+mud
-ravivAraH-vAsaraH:001:zun,10062,456##ravivAra+vAsara
+ravivAraH-vAsaraH:001:sun,10062,456##ravivAra+vAsara
 raSmi-aMSu-jAlaM:001:blaze,1057,036##raSmi+aMSu+jAla
 ras-raw:001:howl,5023,209##ras+raw
 rasa-DAriRI:001:drip,3226,123##rasa+DAriRI
@@ -4904,7 +4907,6 @@ rahas-miTaH-aMtaH:001:private,8303,361##rahas+miTa+anta
 rahasya-BedakaH:001:blab,1042,035##rahasya+Bedaka
 rahasyA-BedaH-pAlanaM:001:secret,9278,414##rahasyA+Beda+pAlana
 rahita-hIna:001:exclude,3744,145##rahita+hIna
-rA-mArgaH-paTaH:001:street,9942,449##rA+mArga+paTa
 rAkzasa-parimARa:001:giant,4493,182##rAkzasa+parimARa
 rAkzasa-vikawa-BIma-SarIraH-vigrahaH:001:monster,6865,295##rAkzasa+vikawa+BIma+SarIra+vigraha
 rAga-janitaM:001:pity,7989,344##rAga+janita
@@ -4917,6 +4919,7 @@ rAja-nfpa:001:royal,9025,403##rAja+nfpa
 rAja-nfpa-hIna:001:king,5948,247##rAja+nfpa+hIna
 rAja-parijanaH-paribarhaH-parivAraH:001:court,2341,084##rAja+parijana+paribarha+parivAra
 rAja-mahiman:001:royal,9025,403##rAja+mahiman
+rAja-mArgaH-paTaH:001:street,9942,449##rAja+mArga+paTa
 rAja-vaMSaja:001:spring,9781,442##rAja+vaMSaja
 rAjagfhaM-maMdiraM:001:court,2341,084##rAjagfha+mandira
 rAjadaMqaH-vetraM-yazwi:001:sceptre,9198,410##rAjadaRqa+vetra+yazwi
@@ -5286,7 +5289,7 @@ vi-parA:001:subdue,9992,452##vi+parA
 vi-parA-kamaH:001:valor,10942,484##vi+parA+kama
 vi-parA-ji:002:conquer,2128,074;triumph,10608,476##vi+parA+ji
 vi-parA-vft:001:recoil,8681,381##vi+parA+vft
-vi-parAN-muKa:003:disincline,3012,113;loath,6278,265;unfavourable,10790,481##vi+parAN+muKa
+vi-parAN-muKa:004:disincline,3012,113;loath,6278,265;reluctant,8789,388;unfavourable,10790,481##vi+parAN+muKa
 vi-pari:006:mature,6553,281;omit,7313,317;open,7338,318;pure,8469,370;revolve,8929,397;solve,9665,435##vi+pari
 vi-pari-pAkaH:001:digest,2876,107##vi+pari+pAka
 vi-pari-vfj:001:avoid,696,025##vi+pari+vfj
@@ -5709,6 +5712,7 @@ Sabd-Dvani-kara:001:sonorous,9676,435##Sabd+Dvani+kara
 Sabda-graMTa-cOraH:001:plagiarism,7995,345##Sabda+granTa+cOra
 Sabda-nAma:001:nominal,7131,308##Sabda+nAma
 Sabda-nAma-mAtreRa:001:nominal,7131,308##Sabda+nAma+mAtra
+Sabda-pada-lAlityaM:001:speak,9719,438##Sabda+pada+lAlitya
 Sabda-pAMqityaM:001:rant,8610,377##Sabda+pARqitya
 SabdasaMgrahaH-koSaH:001:glossary,4553,185##SabdasaNgraha+koSa
 Sama-yati:003:put,8488,371;settle,9362,420;tranquil,10522,473##Sama+yati
@@ -5973,6 +5977,7 @@ saM-upa-pari-kzayaH:002:fall,3880,153;lose,6320,268##sa+upa+pari+kzaya
 saM-upa-viS:001:recline,8678,381##sa+upa+viS
 saM-Uh:001:muster,6989,301##sa+Uh
 saM-f:002:increase,5356,222;sacrifice,9079,405##sa+f
+saM-fD:001:flourish,4134,165##sa+fD
 saM-graMT:004:patch,7704,334;put,8488,371;string,9954,450;tie,10414,469##sa+granT
 saM-tAnaH-naM:001:family,3888,154##sa+tAna+na
 saM-Di-kzuB:001:excite,3742,145##sa+Di+kzuB
@@ -6174,6 +6179,7 @@ satfRa-harita-sTalaM:001:lawn,6090,253##satfRa+harita+sTala
 satkAra-AtiTya-pUrvaM:001:hospitable,5001,208##satkAra+AtiTya+pUrva
 satkAra-dvezin:001:inhospitable,5512,229##satkAra+dvezin
 satkAra-SIla:001:hospitable,5001,208##satkAra+SIla
+sattva-bala-varDana:001:restore,8886,394##sattva+bala+varDana
 sattva-rasa-hIna:001:life,6200,259##sattva+rasa+hIna
 satpaTa-BraMSaH-tyAgaH:001:oblique,7234,313##satpaTa+BraMSa+tyAga
 satya-pAlita-saMgaraH:001:word,11290,497##satya+pAlita+saNgara
@@ -6184,8 +6190,6 @@ satyasaMkASa-ABAsa-sanniBa:001:specious,9724,438##satyasaNkASa+ABAsa+sanniBa
 satyA-BAsa:001:seem,9297,415##satyA+BAsa
 satyApanaM-nA:001:earnest,3299,127##satyApana+nA
 satyApayati-draQayati:001:sanction,9119,407##satyApayati+draQayati
-satva-bala-varDana:001:restore,8886,394##satva+bala+varDana
-satva-sAra:001:rich,8942,398##satva+sAra
 satvaraM-ASu-gam:001:haste,4808,198##satvara+ASu+gam
 satvaraM-laGu-saMpad:001:knock,5975,248##satvara+laGu+sampad
 sadarpaM-udDataM-vikawaM-parikram:001:flaunt,4086,164##sadarpa+udData+vikawa+parikram
@@ -6334,7 +6338,7 @@ sAMpradAyika-pOrARika:001:tradition,10510,473##sAmpradAyika+pOrARika
 sAMvatsarika-vArzika:001:anniversary,394,015##sAMvatsarika+vArzika
 sAMsArika-Ehika:001:flesh,4098,164##sAMsArika+Ehika
 sAkzAt-mUrtimAn-DarmaH:001:person,7864,339##sAkzAt+mUrtimAn+Darma
-sAkzi-RaM:001:cail,1377,046##sAkzi+Ra
+sAkzi-RaM:001:call,1377,046##sAkzi+Ra
 sAci-tiryak-vilok:001:leer,6120,256##sAci+tiryak+vilok
 sAcI-karaRaM:001:pervert,7878,341##sAcI+karaRa
 sAwopaM-udDataM-DIrodDataM-parikram:001:strut,9967,451##sAwopa+udData+DIrodData+parikram

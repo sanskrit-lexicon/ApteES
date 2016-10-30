@@ -1,8 +1,6 @@
-a-kiMcitkrara:001:trifle,10586,476
 a-gata-BartfkA:001:widow,11242,495
 a-grasUcaka:001:prognostic,8340,363
 a-ciMtitapUrva:001:unexpected,10786,481
-a-tarjAta:001:nature,7032,303
 a-tiSaya-ekAMta:001:over,7463,324
 a-tItya-atikramya-gam:001:press,8266,358
 a-tyutsargaH:001:lavish,6088,253
@@ -135,7 +133,6 @@ aMtaraMrva-rtin:001:inner,5538,229
 aMtarAcCAdanaM:001:line,6226,262
 aMtarAtmanM:001:inmost,5534,229
 aMtarAtmA:002:ease,3301,127;internal,5684,236
-aMtarAyaHBU:001:prevent,8280,359
 aMtarAyo:001:lie,6193,259
 aMtarAlokanaM:001:introspection,5724,238
 aMtarIkzavidyA:001:meteor,6662,287
@@ -207,6 +204,7 @@ aMSaBAgI:001:share,9389,421
 aMSaBAgmavet:001:share,9389,421
 aMSaBAjaH:001:entitle,3569,138
 aMSaSaH:001:part,7681,331
+aMSahIna:001:portion,8131,351
 aMSA-DikAriRaH:001:entitle,3569,138
 aMSAMSataH:001:instalment,5605,232
 aMSAMSAn:001:subdivide,9991,452
@@ -223,7 +221,6 @@ aka-smAt-savegaM-kzip:001:jerk,5860,243
 aka-smAduBUta:001:emerge,3443,132
 akakaSa:001:soft,9649,434
 akapada:001:frank,4261,172
-akama:001:reluctant,8789,388
 akaraRarUpa:001:negative,7059,305
 akarkaSAtA:001:euphony,3698,142
 akartari:001:depone,2748,101
@@ -321,7 +318,6 @@ agfhIte:001:take,10209,461
 agelena:001:bar,781,028
 agORatA:001:insubordinate,5619,233
 agOraDeRa:001:insignificant,5582,231
-agQa:001:open,7338,318
 agna-purogaH-gAmin:001:harbinger,4785,196
 agna-hana:001:waste,11159,491
 agnaM:006:capital,1439,048;head,4829,199;high,4921,203;top,10473,471;van,10946,484;vertex,11013,486
@@ -338,7 +334,7 @@ agnaBUmi:001:vantage,10950,484
 agnAnIkaM:001:van,10946,484
 agnAhaka:001:insusceptible,5633,234
 agnAhya:001:incomprehensible,5330,221
-agniM:004:cail,1377,046;fire,4046,161;present,8262,357;take,10209,461
+agniM:004:call,1377,046;fire,4046,161;present,8262,357;take,10209,461
 agniMvarRa:001:red,8708,383
 agnikIqA:001:fire,4046,161
 agnigrAvan:001:flint,4107,164
@@ -469,7 +465,6 @@ atikleSaka:001:mortal,6892,297
 atikleSArta:001:misery,6755,291
 atigaRanA:001:overestimate,7479,325
 atigarhaRIyaH:001:stupefy,9980,452
-atigpta:001:cool,2230,080
 atiGoratA:001:nefarious,7058,305
 aticarcaka:001:inquisitor,5559,230
 aticarcayA:001:inquisitor,5559,230
@@ -480,7 +475,6 @@ atijanAkIrRa:001:overpeopled,7502,325
 atitfptiM:001:cloy,1847,062
 atitfptiM-sOhityaM-utpad:001:satiate,9148,408
 atitfzRAkula:001:greed,4651,190
-atitekaH:001:glut,4561,185
 atitejasA:005:glare,4529,184;gorgeous,4593,187;magnificent,6405,273;noble,7115,308;radiate,8576,375
 atitejasvina:001:awe,704,026
 atiTyanAdaraH-AtiTyavimuKatA:001:inhospitable,5512,229
@@ -715,8 +709,7 @@ aduvaha:001:hand,4772,195
 adUSya:001:disappear,2928,109
 adUzaRIya:001:irreprehensible,5793,241
 adf-hAsaM:001:laugh,6082,252
-adfAlaH:001:garret,4425,179
-adfH:003:attic,639,024;garret,4425,179;tower,10499,472
+adfH:002:attic,639,024;tower,10499,472
 adfQatA:001:loose,6312,268
 adfQasaMDi:001:loose,6312,268
 adfya-yanaviSrAmaH-tivftti:001:vacant,10924,484
@@ -926,7 +919,7 @@ anamyasta:001:new,7086,306
 anarA-rAlanAlanalinI:001:straight,9927,449
 anargalatA:001:fluent,4140,166
 anarGa-Grya:001:price,8284,359
-anarGa-rDza:001:inestimable,5442,225
+anarGa-rGya:001:inestimable,5442,225
 anarTakakaTA:001:rigmarole,8958,399
 anarTakapralApaH:001:stuff,9973,451
 anarTakavAsanA-kft:001:fancy,3893,154
@@ -992,7 +985,6 @@ anicCannapi:001:reluctant,8789,388
 anicCayA:004:consent,2137,075;grudge,4691,192;involuntary,5763,239;reluctant,8789,388
 anicCApUrva:001:involuntary,5763,239
 aniRPala:001:certain,1586,053
-aniDkreya:001:irredeemable,5782,240
 anibiqa:001:sparse,9712,438
 aniBU:001:contract,2190,078
 animepalocano:001:twinkle,10692,478
@@ -1011,6 +1003,7 @@ anivizwacitta:001:inattentive,5278,220
 aniSvayaH:003:shillyshally,9412,423;vacillate,10927,484;vague,10932,484
 aniSvAyaka:001:inconclusive,5331,221
 aniSvita:001:contingency,2185,078
+anizkreya:001:irredeemable,5782,240
 anizwaKyApanaM-prakASanaM:001:denounce,2723,100
 anizwapAtaH:002:ill,5122,213;misfortune,6757,291
 anizwaSaMsi-sUcaka:001:bode,1101,038
@@ -1116,7 +1109,7 @@ anumAdanaM:001:consent,2137,075
 anumAnika-AnuzaMgika:001:infer,5464,226
 anumIyate:001:bestow,960,033
 anuyAsyan:001:about,34,002
-anuyujU:001:cail,1377,046
+anuyujU:001:call,1377,046
 anuyo-gADInatA:001:respond,8881,394
 anuyogataH:001:interrogate,5691,236
 anuyogADIna:002:liable,6175,258;respond,8881,394
@@ -1279,7 +1272,6 @@ apa-BAv:001:rail,8586,375
 apa-yAi:001:recede,8666,380
 apa-rADe:001:offend,7290,316
 apa-vi-rUya:001:strange,9931,449
-apa-vyapa-diSM:001:pretend,8271,359
 apa-vyayakArin:001:squander,9801,442
 apa-zyA-Bf:001:strike,9953,450
 apa-haraRabudDi:001:rapacious,8612,377
@@ -1572,7 +1564,7 @@ aBi-vApaye:001:hail,4750,194
 aBi-vi-dro-hin:001:mutiny,6993,301
 aBi-zekaH-zecanaM:001:anoint,404,015
 aBiMtrita:001:initiate,5519,229
-aBiMhita:001:cail,1377,046
+aBiMhita:001:call,1377,046
 aBigaganaM:001:heaven,4842,200
 aBigfhaM:001:home,4969,206
 aBicAravid:001:sorcery,9684,436
@@ -1612,7 +1604,6 @@ aBiBavecCu:001:rival,8978,400
 aBiBAzakaH:001:plea,8021,346
 aBiBU-bAv:001:shake,9378,421
 aBiBUM:001:humiliate,5042,210
-aBiBta:001:mortify,6896,297
 aBimaM:001:incantation,5286,220
 aBimayaH:001:affect,173,008
 aBimAnAvekzA:001:jealous,5855,242
@@ -1628,7 +1619,6 @@ aBiyovatf:001:plaint,7998,345
 aBirUpa-BUyizWA:001:consist,2143,075
 aBirUpaBUyizWA:001:most,6904,297
 aBilav:001:desire,2785,103
-aBilAzH:001:relish,8788,388
 aBiliKf:001:interpolate,5687,236
 aBiligv:001:list,6252,263
 aBilisvita:001:inscribe,5568,230
@@ -1656,7 +1646,6 @@ aButra:001:world,11292,498
 aBudayakAle:001:prosper,8389,366
 aBUyizwa:001:scarce,9185,409
 aBedyasAra:001:stern,9879,446
-aBDA:001:cail,1377,046
 aByaMtarakAlaH:001:intervene,5700,237
 aByaMtarAt:001:from,4305,174
 aByaMtarAvakASaH:001:space,9702,437
@@ -1665,6 +1654,7 @@ aByaMtare:006:amid,336,013;among,342,013;between,978,034;inside,5578,231;interme
 aByajanaM:001:lubric,6336,270
 aByatare:001:inward,5766,239
 aByarTanAleKaH:001:memory,6612,285
+aByastatA:001:exercise,3761,146
 aByA:001:practice,8181,353
 aByAsakzama:001:practice,8181,353
 aByAsaja:001:habit,4740,194
@@ -1709,7 +1699,7 @@ amADAraRa:001:peculiar,7752,335
 amAyitA:001:art,552,020
 amArzwavya:001:indelible,5385,223
 amAva:001:moon,6869,296
-amigam:001:cail,1377,046
+amigam:001:call,1377,046
 amitatA:002:extravagant,3837,150;immense,5156,215
 amitaBogin:001:intemperate,5641,234
 amitavyaya:001:extravagant,3837,150
@@ -1743,7 +1733,6 @@ amozaM:001:succeed,10025,454
 amnaM:001:food,4175,167
 amnavAhi:001:esophagus,3662,141
 ampas:001:practice,8181,353
-ampastatA:001:exercise,3761,146
 amyaMtaraM:003:bowels,1165,040;inside,5578,231;kernel,5930,246
 amyaMtare:001:line,6226,262
 amyakta:001:lubric,6336,270
@@ -1764,7 +1753,6 @@ amyAhana:001:press,8266,358
 amyukzaRaM:001:irrigate,5805,241
 amyudayaH:001:improve,5245,218
 amyupa-gam:002:assent,583,022;fall,3880,153
-amyupa-gamaH:001:comply,2023,069
 amyupagamaH:001:assent,583,022
 amyupagamaleKaH:001:receive,8667,380
 amla-zukta-tA:001:acid,97,005
@@ -1793,7 +1781,7 @@ ayanI:001:divest,3124,118
 ayamaTaH:001:refer,8724,384
 ayamaparo:001:add,116,006
 ayamarTastvadAyattaH:001:dispose,3058,115
-ayamarTo:001:cail,1377,046
+ayamarTo:001:call,1377,046
 ayamarTove-kzAmahati:001:demand,2698,099
 ayamasmi:001:here,4883,202
 ayamAcaratyavinayaM:001:act,109,005
@@ -1987,7 +1975,7 @@ alpajYAnaM:001:smatter,9587,431
 alpatama:001:least,6108,255
 alpadfS:001:myope,6999,302
 alpadfSvan:001:inexperience,5448,226
-alpadrabTaM:001:cadge,1350,046
+alpadravyaM:001:cadge,1350,046
 alpaDIH:002:ninny,7108,307;noodle,7148,309
 alpapari-mARa:001:narrow,7022,303
 alpaparimARa:001:modest,6816,294
@@ -2057,7 +2045,6 @@ avaguMw:001:roll,8999,401
 avaguMWu:001:envelop,3585,138
 avagDvA:001:without,11274,497
 avagra:001:drought,3237,124
-avacCiw:001:plash,8009,345
 avacCida:001:retrench,8906,396
 avajYAM:001:sneer,9614,433
 avajYAM-DikkAraM-sUc:001:hoot,4985,207
@@ -2125,7 +2112,6 @@ avartaMta:001:get,4487,182
 avartata:001:imminent,5160,215
 avarDatAsya:001:the,10341,466
 avarDizRu:001:station,9853,445
-avalaMtrM:001:colour,1950,064
 avalaMbanArTaM:001:crutch,2453,088
 avalaMyaH-banaM:001:rely,8790,388
 avalaMv:002:catch,1528,051;peg,7771,336
@@ -2275,7 +2261,6 @@ avEkralpika:001:positive,8138,351
 avESyakArya:001:indispensable,5409,224
 avogaBin:001:descend,2773,102
 avogamanaM:001:descension,2774,102
-avcapAtaH:001:decadence,2592,094
 avyaktakarmA:001:mystery,7004,302
 avyaktagirA:001:mumble,6962,300
 avyaktaBAzaRaM:001:mutter,6994,301
@@ -2539,7 +2524,6 @@ asavaH:001:breathe,1202,041
 asahajo:001:accident,65,003
 asahasA:002:deliberate,2681,098;gingerly,4508,183
 asahiRRu:001:intolerant,5709,237
-asahivRu:001:vindictive,11050,487
 asAMtvanIya:001:implacable,5213,217
 asAMdigDa:001:decide,2605,094
 asAMsArika-alOkika:001:spirit,9751,440
@@ -2717,7 +2701,7 @@ A-karzaH-rzaRaM:001:magnet,6404,273
 A-kasmikapratpavaBAsAM:001:inspire,5600,232
 A-cAraptOjanyaM:001:gentle,4473,181
 A-cAralopaH:001:disuse,3110,118
-A-tapAkrAMta:001:zun,10062,456
+A-tapAkrAMta:001:sun,10062,456
 A-DAtaM:001:inspire,5600,232
 A-DyApanaM:001:lecture,6114,256
 A-naMw:001:please,8022,346
@@ -2935,20 +2919,19 @@ AqaMyaraH:001:eclat,3315,128
 AQatya-garBa:001:pregnant,8230,356
 AQatyaH:001:lord,6316,268
 AQaraH:001:revere,8919,396
-AQtya:001:overflood,7481,325
 AtaMkraH:001:torment,10481,472
 AtatA:001:string,9954,450
 AtatApin:001:despair,2789,103
 AtatAyitvaM:001:rapacious,8612,377
-Atapa-laMGanAt:001:zun,10062,456
+Atapa-laMGanAt:001:sun,10062,456
 Ataparahita:001:shade,9375,420
 AtapalaM-GanaM:001:strike,9953,450
 AtapalaMGanaM:001:expose,3808,148
-AtapavyApta:001:zun,10062,456
+AtapavyApta:001:sun,10062,456
 AtapAkAMta:002:hot,5008,208;warm,11149,490
 AtapAkrAMta:002:arid,523,019;scorch,9219,411
-AtapAyojijYataM:001:zun,10062,456
-Atape:002:expose,3808,148;zun,10062,456
+AtapAyojijYataM:001:sun,10062,456
+Atape:002:expose,3808,148;sun,10062,456
 AtayaH:001:kindred,5945,247
 AtAvfkzaH:001:apple,476,017
 Atikram:001:sweep,10144,459
@@ -3097,7 +3080,6 @@ Anali:001:fuscous,4364,177
 AnItadravyARi:001:import,5223,217
 Anukramika:003:grade,4611,188;progress,8342,363;succeed,10025,454
 AnupU-vyerRa:001:chronology,1720,057
-AnupUfvyaRa:001:succeed,10025,454
 AnupUrvI-rvyaM:002:method,6665,287;series,9348,418
 AnupUrvyaM-rvI:002:degree,2668,097;order,7370,320
 AnurUyyaM:001:congenial,2103,073
@@ -3126,7 +3108,6 @@ ApAMquvarRa:001:grizzle,4671,191
 ApAtato:001:time,10422,470
 ApAtaramaRIya:004:glance,4526,183;moment,6833,294;specious,9724,438;time,10422,470
 ApAtaramyA:001:current,2501,090
-ApAsaH:001:exercise,3761,146
 ApIqatya:001:press,8266,358
 Apuz:001:compromise,2033,069
 ApUrRaSca:001:scarce,9185,409
@@ -3151,7 +3132,6 @@ AbadDaDAramaSru:001:gush,4724,193
 AbartaH:001:whirl,11222,494
 ABaraRasaM-yogAH:001:set,9360,419
 ABAptaH:001:delude,2693,099
-ABAsaMHdfS:001:shade,9375,420
 ABi:001:record,8688,382
 ABi-niveSaH:001:attend,636,023
 ABi-niveSena:001:persevere,7862,339
@@ -3270,7 +3250,7 @@ AlabaH:001:boister,1114,038
 AlasyaSIla:003:lazy,6095,254;lethargy,6158,257;siug,9576,431
 AlasyaSIlaH:002:drone,3232,124;siug,9576,431
 AlAc:001:augur,655,024
-AlAtapaH:001:zun,10062,456
+AlAtapaH:001:sun,10062,456
 AlApavirakta:001:shy,9453,425
 AlApavizaya:001:colloquy,1942,064
 AlApAH:001:about,34,002
@@ -3389,9 +3369,7 @@ AsamnamftyuH:001:near,7046,304
 Asasna:001:verge,10998,486
 AsiTata:001:practice,8181,353
 AsIdASaMsA:001:hope,4987,207
-AseDdf:001:bailiff,740,027
 AsE:001:come,1962,065
-AsRdaM:001:situate,9508,428
 AstAM:001:let,6156,257
 AstAM-tizwatu-tAvat:001:mention,6627,285
 AstAM-tizWatu:001:lay,6092,253
@@ -3558,7 +3536,6 @@ ihavAsaH:001:life,6200,259
 ihavfttaM:001:local,6283,265
 I-zacCIta:001:chill,1682,056
 IkzaRaM-RA:001:eye,3850,151
-IkzaRMaM:001:regard,8745,385
 IkzyU:001:view,11040,487
 Iqga:001:praise,8183,354
 IdfSa-ste:001:fate,3919,156
@@ -3642,7 +3619,6 @@ IzadvihAraH:001:turn,10667,477
 IzadvfdDa:001:old,7303,317
 IzannIla:001:slight,9558,430
 IzASA:001:shaft,9376,421
-IzdUna:001:rather,8627,378
 IzyeyA:001:despite,2793,103
 IzyoM-asUyA-kara:001:invidious,5754,239
 IzvaraBakti:001:god,4580,186
@@ -3690,7 +3666,7 @@ ucitasADanaM:001:convenience,2211,079
 ucitAvasara:001:well,11192,493
 ucitezu:001:occupy,7266,315
 ucitta:001:judge,5890,244
-ucEH:003:cail,1377,046;hoop,4984,207;hoot,4985,207
+ucEH:003:call,1377,046;hoop,4984,207;hoot,4985,207
 ucEH-tArasvareRa:001:bawl,831,029
 ucEH-svan-nad:001:shout,9430,424
 ucErA-kroSaH:001:boisterous,1110,038
@@ -3720,7 +3696,6 @@ ucceH:001:clamour,1789,059
 uccEH-tArasvareRa-Gus:001:cry,2454,088
 uccErhAsaH:002:burst,1312,045;laugh,6082,252
 uccEstarAM:001:loud,6326,269
-uccGamanaM:001:anhelation,382,014
 ucCaMKala:001:licentious,6188,259
 ucCaMdaH:001:subvert,10023,454
 ucCayaH:001:lift,6201,260
@@ -3742,9 +3717,6 @@ ucCedakaH:003:demolish,2710,099;ravage,8635,378;spoil,9760,441
 ucCedyatAmasya:001:off,7288,316
 ucCErGozaH:001:loud,6326,269
 ucCozita:001:parch,7649,330
-ucCGas:001:pant,7613,329
-ucCcva-sitaM:001:sigh,9465,425
-ucCbas:001:breathe,1202,041
 ucCraMsvala:001:irregular,5786,240
 ucCvAsim:001:sigh,9465,425
 ucCvfs:001:exhale,3764,146
@@ -3834,7 +3806,6 @@ utta-rokta:001:latter,6079,252
 uttaMBaya:001:apply,477,017
 uttagaH:001:desert,2778,102
 uttana:001:eminent,3448,133
-uttaBM:001:maintain,6414,274
 uttama-parama-padaBAj:001:high,4921,203
 uttamatAM:001:prime,8291,360
 uttamadaSA:001:prime,8291,360
@@ -4119,7 +4090,6 @@ udvozaH:001:blare,1052,036
 udvozaRena:001:cant,1416,048
 uD:001:burn,1308,044
 uDf:003:decimal,2607,094;deduct,2633,095;disembroil,2989,112
-uDhf:001:disenchant,2990,112
 unnatapadaM:001:station,9853,445
 unnataBUH:001:high,4921,203
 unnataBUBAgaH:005:barrow,801,028;high,4921,203;hill,4923,204;knap,5963,247;knoll,5976,248
@@ -4225,7 +4195,6 @@ upakramopakArin:001:prepare,8249,356
 upakroSamalImasa:001:stamp,9836,444
 upakroSamalImasEH:001:stain,9825,443
 upaklUp:001:coal,1862,062
-upaklRp:001:accommodate,68,004
 upakzapAtin:001:disinterested,3018,113
 upakzipta:001:carpet,1488,050
 upakzipto:001:throw,10396,468
@@ -4239,7 +4208,7 @@ upaGAraH:001:outrage,7441,323
 upacaturAH:001:about,34,002
 upacAyyAH:001:sacrifice,9079,405
 upacArasADya:001:medicable,6581,283
-upacArA-tikamaM:001:atone,623,023
+upacArA-tikramaM:001:atone,623,023
 upacArikA:001:nurse,7204,311
 upacitagAtra:001:muscle,6978,300
 upacitavAkra:001:word,11290,497
@@ -4257,7 +4226,6 @@ upadeSarUpa:001:monitor,6846,295
 upadeSavacanaM:001:exhort,3768,147
 upadeSAdeva:001:mere,6636,286
 upadeSo:001:lead,6097,254
-upadezF:001:counsel,2313,083
 upadehadravyaM:001:embrocate,3436,132
 upadr:001:maraud,6493,278
 upadra-vina:001:maraud,6493,278
@@ -4410,7 +4378,6 @@ uyayAtti:001:demonstrate,2712,099
 uragamaH:001:reptile,8850,391
 uraRI:001:ewe,3723,143
 uraBranAdaH:001:bleat,1062,036
-urusatva:001:indomitable,5421,225
 urosTi:001:sternum,9880,446
 urRAyuH:002:flannel,4077,163;ram,8593,376
 urDvaM:001:mount,6919,298
@@ -4439,7 +4406,6 @@ uva-yogaH:001:subserve,10009,453
 uva-sTA:001:stand,9840,444
 uval:001:kindle,5944,247
 uvAda:001:offer,7291,316
-uvca:001:sonorous,9676,435
 uvyam:001:lay,6092,253
 uzaHkAlaH:001:break,1200,041
 uzakaraRIBU:001:handle,4773,195
@@ -4460,7 +4426,6 @@ usamA:001:woman,11282,497
 usaraM:001:north,7154,309
 usaravAdin:001:plea,8021,346
 usejitakroDaH:001:lash,6063,251
-UurujaH:001:husband,5059,211
 UDvarBUmi:001:table,10195,461
 UnAvayava:001:imperfect,5197,216
 Uno:001:miss,6782,292
@@ -4474,9 +4439,8 @@ UrRanABajAlataMtu:001:gossamer,4598,187
 UrRAM:001:card,1461,049
 UrRAmArjanI:001:card,1461,049
 UrRAvastraM:001:camlet,1391,047
-UrDkaM:001:upward,10901,483
-UrDwapAdalaMGanaM:001:somersault,9668,435
 UrDvakAyapratimA-pratikfti:001:bust,1318,045
+UrDvapAdalaMGanaM:001:somersault,9668,435
 UrDvabadDa:001:high,4921,203
 UrDvaSu:001:shank,9385,421
 UrDvAt:001:from,4305,174
@@ -4627,7 +4591,6 @@ ekU:001:single,9491,427
 eke:001:some,9667,435
 ekE-kaSaH:002:enumerate,3582,138;particular,7685,332
 ekEkaSaH:011:another,408,015;apiece,452,016;by,1334,045;capitation,1440,048;each,3293,126;every,3712,143;individual,5416,225;one,7325,318;particular,7685,332;single,9491,427;species,9722,438
-ekEkaSaHnirdeSaH:001:particular,7685,332
 eko:003:merge,6638,286;miss,6782,292;tenacious,10291,464
 ekonaSataM:001:minus,6719,290
 ekOkaH:001:each,3293,126
@@ -4752,7 +4715,6 @@ OzaDopacAraH:001:physic,7926,342
 OzaDyogavid:001:compound,2028,069
 MuktAgAraM:001:pearl,7741,335
 H:001:first,4049,162
-HyajYa:001:sacrifice,9079,405
 ka-WiRa:001:hard,4787,196
 ka-TanenAnugrAhyamAtmAnamicCAmi:001:favour,3927,156
 ka-potIya:001:columbarium,1953,065
@@ -4907,7 +4869,6 @@ kaTAvirAkti:001:taciturn,10199,461
 kaTAsaMbaM-Din:001:narrate,7021,303
 kaTit:001:relate,8775,387
 kaTU:001:speak,9719,438
-kaTM:001:bode,1101,038
 kaTyate:002:indescribable,5390,223;pending,7787,336
 kadannaBojanaM:001:live,6266,264
 kadalIPalaM:001:plantain,8007,345
@@ -4998,7 +4959,7 @@ kayin:001:buy,1331,045
 karaMdaH:001:sea,9268,413
 karakarman:001:savage,9160,408
 karakAnipAtaH:001:hail,4750,194
-karakisalayatAlErBugTayA:001:time,10422,470
+karakisalayatAlErmugDayA:001:time,10422,470
 karakIkftaBUpAlaH:001:reduce,8716,383
 karagrAhakaH:002:collect,1930,064;gather,4438,180
 karacaraRavEdyaH:001:chiropodist,1696,057
@@ -5082,13 +5043,12 @@ karRavEdya:001:aurist,661,024
 karRaSazkuli:001:alveary,307,012
 karRAgocara:001:inaudible,5279,220
 karRikavetanaM:001:pilot,7960,343
-karRIgTaH:001:carry,1490,050
 karRe:002:slander,9536,429;whisper,11225,494
 karRe-upakarRaM:001:auricle,659,024
 karRevAdaH:001:whisper,11225,494
 karREH:001:intent,5644,234
 karRodaraM:002:drum,3245,124;tympanum,10699,479
-kartabyA:001:cail,1377,046
+kartabyA:001:call,1377,046
 kartarItyasya:001:except,3736,144
 kartavyanirdeSaH:001:propose,8378,366
 kartavyAni:002:disburden,2941,110;relieve,8784,387
@@ -5491,7 +5451,6 @@ kAryopakzepasya:001:develop,2822,105
 kAryopayukta:001:efficient,3342,129
 kAryopAtta:001:occasion,7261,314
 kArligaM:001:water,11161,491
-kArSMrya:001:debilitate,2587,094
 kArzIH:001:liberty,6183,259
 kAla-dErDyaM:001:long,6305,266
 kAla-samaya-varziRaH:001:time,10422,470
@@ -5574,7 +5533,6 @@ kAzpodgArin:001:reek,8721,383
 kAzyaM:001:verse,11009,486
 kAsImaM:001:vitriol,11076,488
 ki-yatA:001:fetch,3984,159
-kiFM:001:deposit,2752,101
 kiM-kiRIravaH-SabdaH-nAdaH:001:ding,2897,108
 kiM-bahunA:001:more,6882,296
 kiMkaradvayaM:001:replace,8832,390
@@ -5754,7 +5712,7 @@ kukkuwaSAvaH:002:chicken,1676,056;pullet,8444,369
 kukkuwISAvaH:001:chuck,1726,057
 kukkuravat:001:dog,3142,119
 kukkuraSAvaH-SiSuH:001:puppy,8466,370
-kukkurasaMDaH:001:pack,7548,327
+kukkurasaMGaH:001:pack,7548,327
 kukkurasvaBAva:001:snap,9609,432
 kukvuwA-disTAnaM:001:poultry,8172,352
 kukziM:002:cram,2366,085;gorge,4592,187
@@ -5963,7 +5921,7 @@ kUwapraSnaH:001:riddle,8947,398
 kUwayukti:001:intrigue,5720,237
 kUwaleKyakAraH:001:counterfeit,2325,083
 kUwaSapaTakArin:001:perjure,7848,339
-kUwasaMviw:001:collude,1943,064
+kUwasaMvid:001:collude,1943,064
 kUwasaMvidaM:001:complot,2022,069
 kUwasamayaH-saMvid:001:covin,2350,084
 kUwasahAya:001:complot,2022,069
@@ -6037,7 +5995,7 @@ kftanepaTya:001:dress,3220,123
 kftapalAyanaH:001:fugitive,4326,176
 kftapArikamane:001:dress,3220,123
 kftapraveSa:001:initiate,5519,229
-kftamiti:001:cail,1377,046
+kftamiti:001:call,1377,046
 kftamudra:002:seal,9269,413;stamp,9836,444
 kftametAdfSena:001:absurd,54,003
 kftarI:001:dagger,2534,091
@@ -6046,7 +6004,6 @@ kftarTatA:001:bless,1067,036
 kftavid:001:grateful,4633,189
 kftavidyo-pakrama:001:initiate,5519,229
 kftaveditvaM:001:sense,9322,416
-kftavna:001:thank,10337,466
 kftavyAvfttayaH:001:except,3736,144
 kftaSastraparicayaH:001:train,10515,473
 kftasaMDAnamiva:001:unite,10818,481
@@ -6127,7 +6084,6 @@ kfzRavezaH:001:sable,9067,405
 kfzRasAre:001:cast,1508,050
 kfzyAjIva:001:live,6266,264
 kxpU:001:contrive,2201,079
-kxy:001:innovate,5543,230
 kXp:001:scheme,9200,410
 keMdrABimuKIBavati:001:tend,10293,464
 kekABistirayati:001:drown,3239,124
@@ -6867,7 +6823,7 @@ gativegaH-kramaH:001:pace,7545,327
 gativEkalyaM:001:lame,6020,250
 gatiSAstra:001:kinematics,5947,247
 gatI-rtaH:001:ditch,3111,118
-gate:001:zun,10062,456
+gate:001:sun,10062,456
 gato-taH:001:delve,2695,099
 gatoyamarTaH:001:transpire,10541,474
 gatosi:001:master,6536,280
@@ -6957,7 +6913,7 @@ galanizpI-qanena:001:throttle,10394,468
 galapIqanaM:001:strangle,9932,449
 galasrotas:001:gullet,4714,193
 galahastayati:002:strangle,9932,449;throttle,10394,468
-galAkaM:001:zun,10062,456
+galAkaM:001:sun,10062,456
 galAna:001:jade,5836,242
 galAvezwanaM:001:neck,7052,305
 galE:001:jade,5836,242
@@ -7214,11 +7170,11 @@ gfhaBU-BUmi:001:floor,4121,165
 gfhaBedakaH:001:house,5016,208
 gfhamAgatena:001:must,6986,301
 gfhamUlaM:002:floor,4121,165;found,4244,172
-gfhamTa-sAmAnya-janavargaH:001:lay,6092,253
 gfhavirahArta:001:home,4969,206
 gfhavfkzAdi-racanA:001:scene,9195,410
 gfhasAmagnI-dravyARi-BAdfti:001:stuff,9973,451
 gfhasAmagrI:001:house,5016,208
+gfhasTa-sAmAnya-janavargaH:001:lay,6092,253
 gfhasTita:001:door,3169,120
 gfhasTin:001:lay,6092,253
 gfhasTURA:001:rafter,8582,375
@@ -7318,8 +7274,6 @@ gOravavftti:001:sedate,9287,414
 gOravAnvita:001:honor,4978,206
 gOravAspadaM:001:prefer,8227,356
 gOstasya:001:fall,3880,153
-gKanna:001:exhaust,3765,146
-gQa:001:knot,5977,248
 gDayoH:001:index,5394,223
 gnah:001:grasp,4630,189
 gnAmya:002:gross,4679,191;vulgar,11112,489
@@ -7480,10 +7434,8 @@ GanAgAraM:001:bursar,1311,045
 GanAgraM:001:butt,1324,045
 GanAdi:001:plunder,8053,348
 GanIkaraRaM:004:concrete,2062,071;condense,2068,071;congeal,2101,073;consolidate,2147,075
-GanImU:001:consolidate,2147,075
 GaBAgaH:001:crust,2452,088
 GaBUva:001:compound,2028,069
-GamaM:001:obtund,7257,314
 GayarAyamARa:001:stertorous,9882,446
 GayojyezWa:001:elder,3371,130
 GarapAH:001:wall,11134,490
@@ -7561,7 +7513,6 @@ GozaRApatraM:001:placard,7991,344
 GozaRApUrvaM:002:hawk,4823,198;proscribe,8383,366
 Gozamu-pEti:001:noise,7126,308
 GozamupOti:001:empty,3467,133
-GwwaH:001:hithe,4941,204
 GyatyastaBujaH:001:cross,2431,087
 GyaD:001:shock,9422,423
 Gyava-hAraM:001:accustom,89,004
@@ -7642,7 +7593,7 @@ cacala:001:giddy,4498,182
 catanatvaM:001:vital,11073,488
 catuHpatrakaM:001:quarto,8525,373
 catuHpArSva:001:quadrilateral,8505,372
-catura-kzSoeBi:001:proportion,8377,365
+catura-SraSoBi:001:proportion,8377,365
 caturavaM:001:tetragon,10331,465
 caturastra:001:symmetry,10170,460
 caturasrIya:001:quadratic,8502,372
@@ -7714,7 +7665,6 @@ carmanizka-rzaRaM:001:flay,4090,164
 carmanizkarzakaH:001:flay,4090,164
 carmapawaH-patraM:001:parchment,7650,330
 carmapawwana:001:strap,9934,449
-carmapawwH-baMDaH:001:strap,9934,449
 carmapadikA-kIqA:001:back,727,026
 carmapadf-SAri-krIqA:001:gammon,4401,179
 carmaBUta:001:skin,9522,428
@@ -7754,6 +7704,7 @@ cAwu-vacanEH:001:fawn,3928,156
 cAwukAraH-paduH:001:sycophant,10163,460
 cAwukAritvaM:001:sycophant,10163,460
 cAwuvAdin:001:flatter,4083,163
+cAwUktyA:001:coax,1868,062
 cAwUklyA:001:flatter,4083,163
 cAwUni:001:flatter,4083,163
 cARena:001:by,1334,045
@@ -7768,13 +7719,12 @@ cAduvacanaM:002:coax,1868,062;fawn,3928,156
 cAduvacanEH-stutyA-sAMtv:001:flatter,4083,163
 cAduvAdaH:001:flatter,4083,163
 cAdU-ktyA:001:inveigle,5745,238
-cAdUfyA:001:coax,1868,062
 cAdUkti:001:bland,1049,036
 cAdUktiBiH:004:bland,1049,036;butter,1325,045;fawn,3928,156;wheedle,11205,493
 cAdUktyA:002:affable,171,008;fawn,3928,156
 cAdvakti:001:adulate,150,007
 cAdvaktipUrRa:001:adulate,150,007
-cADAya:001:cail,1377,046
+cADAya:001:call,1377,046
 cApalAya:001:drive,3227,123
 cApalpamudyogitAM:001:take,10209,461
 cApalyAt:001:pert,7870,340
@@ -8022,7 +7972,6 @@ ckraMH:001:knot,5977,248
 ctayazwiM:001:lean,6102,255
 cyavanAya:001:compliment,2021,069
 cyuta-garBA:001:miscarry,6739,291
-czyaM:001:suck,10031,454
 Ca-gnan:001:counterfeit,2325,083
 CaMdaHSAstrajYaH:001:prosody,8387,366
 CaMdAM:001:spoil,9760,441
@@ -8034,10 +7983,6 @@ CaMdonuvartin:002:indulge,5426,225;obsequious,7244,313
 CaMdonuvft:001:temporize,10287,464
 Cagnan:001:insincere,5583,231
 Caw:001:enshroud,3548,137
-Cawna:001:pretend,8271,359
-Cawnan:001:colour,1950,064
-CawnanA:001:colour,1950,064
-CawnavEdyaH:001:charlatan,1640,055
 CatracAmarAdi:001:paraphernalia,7642,330
 CatraBrazwaH:001:throne,10392,468
 CadaH-danaM:001:lid,6192,259
@@ -8047,23 +7992,22 @@ Cadna:002:hypocrite,5091,211;pseudo,8421,368
 Cadna-kapawa:001:hypocrite,5091,211
 Cadna-CalaM-kf:001:shuffle,9449,425
 CadnatApasaH:001:hypocrite,5091,211
-Cadnan:003:charlatan,1640,055;cloak,1831,061;imposture,5227,218
+Cadnan:002:cloak,1831,061;imposture,5227,218
 Cadnana:002:hypocrite,5091,211;stratagem,9935,449
 Cadma-kapawa-veSaDAraRaM:001:masquerade,6531,280
 CadmajI:001:cadge,1350,046
-CadmanA:004:deceive,2600,094;feign,3948,158;guile,4706,193;palm,7583,328
+CadmanA:006:cadge,1350,046;colour,1950,064;deceive,2600,094;feign,3948,158;guile,4706,193;palm,7583,328
 Cadmapara:001:wile,11248,495
 CadmavAdaH:001:prevaricate,8279,359
 CadmaveSaM:002:masquerade,6531,280;unmask,10833,482
 CadmaveSaknIqA:001:masquerade,6531,280
 CadmaveSaDArin:001:masquerade,6531,280
-CadmavEdyaH:002:medicaster,6584,283;quack,8498,372
+CadmavEdyaH:003:charlatan,1640,055;medicaster,6584,283;quack,8498,372
 Cadya-kapawa-vfttiH:001:shuffle,9449,425
 Canna-kUzaH:001:pit,7984,344
 CannatA:001:private,8303,361
 CannapaTaH-mArgaH:001:gallery,4390,178
 CannamArgaH:001:trap,10546,474
-Cabnin:001:charlatan,1640,055
 Carw:001:puke,8440,369
 Cardi-rdI:001:sick,9456,425
 CalAnvita:001:evade,3702,142
@@ -8073,7 +8017,7 @@ Cahna:001:counterfeit,2325,083
 Cahna-kapawaM-kf:001:counterfeit,2325,083
 Cahna-muKena:001:mask,6529,279
 Cahnan:003:blind,1069,036;cover,2346,084;mask,6529,279
-CahnanA:002:cadge,1350,046;counterfeit,2325,083
+CahnanA:001:counterfeit,2325,083
 CahnaveSaH:001:counterfeit,2325,083
 CahmaveSaH:001:mummer,6963,300
 CahmaveSin:001:mummer,6963,300
@@ -8084,7 +8028,6 @@ CAtrapaMkti:001:form,4220,170
 CAtrasamUhaH:001:class,1801,059
 CAtrottamaH:001:dux,3283,126
 CAdnika:001:hypocrite,5091,211
-CAdnikaH:001:charlatan,1640,055
 CAdnikata:001:hypocrite,5091,211
 CAdyaMte:001:eclipse,3317,128
 CAptraH:001:scholar,9202,410
@@ -8102,6 +8045,7 @@ CiMdDi:001:spare,9708,438
 Ciw:005:carve,1499,050;circumcise,1755,058;pierce,7943,343;pluck,8045,347;poll,8081,349
 CitramAMsaM:001:mince,6705,289
 Cidyate:001:lose,6320,268
+CidrapUr:001:chink,1690,056
 CidrapUrRa:001:leak,6101,254
 CidravyAsaH:001:calibre,1371,046
 CidrA:001:hypercritic,5088,211
@@ -8361,7 +8305,6 @@ jalastaMBanI-baMDanI:001:lock,6285,265
 jalasTalAtmaka:001:terraqueous,10312,465
 jalasrotasA:001:drift,3223,123
 jalAQatya:002:irriguous,5806,241;marsh,6518,279
-jalAQtya:001:plash,8009,345
 jalAdAnArTaM:001:scramble,9233,411
 jalAdi:001:pump,8451,369
 jalAplAvita:001:inundate,5734,238
@@ -8374,7 +8317,6 @@ jaliH:001:fold,4165,167
 jalIBUta:001:liquid,6247,263
 jalenABedya:001:prove,8400,367
 jalEkAyatta:001:entire,3568,138
-jalocCGAsaH:001:draught,3210,122
 jalotkzepaH:001:jet,5864,243
 jalotkzepaRaM:001:pump,8451,369
 jalopacAraH:001:hydropathy,5076,211
@@ -8414,8 +8356,6 @@ jAqatyaM:007:idiot,5108,212;indolent,5420,225;insensible,5574,231;languid,6035,2
 jAqatyena:001:lazy,6095,254
 jAqayaM:001:stupefy,9980,452
 jAqiman:002:insensible,5574,231;stupefy,9980,452
-jAqtyaM:006:dumb,3263,125;inert,5441,225;numb,7189,311;obtund,7257,314;paralysis,7638,330;phlegm,7917,342
-jAqtyena:001:obtund,7257,314
 jAt:001:sex,9368,420
 jAtaKada:001:weary,11173,492
 jAtaKeda:001:repent,8828,390
@@ -8533,7 +8473,7 @@ jIrRIkU:001:wear,11172,492
 jIvagrAhamagrahIzaM:001:alive,261,011
 jIvanavfttAMtaH:002:biography,1023,035;life,6200,259
 jIvanasAGanaM:001:corn,2254,081
-jIvanasADanaM:002:cail,1377,046;nourish,7169,310
+jIvanasADanaM:002:call,1377,046;nourish,7169,310
 jIvanasADanaM-upAyaH:001:occupy,7266,315
 jIvanasADanAni:001:art,552,020
 jIvanArTaH:001:live,6266,264
@@ -8634,7 +8574,6 @@ jYAyaMte:001:name,7015,302
 jYAyatAM:001:petition,7884,341
 jYeyAH:001:least,6108,255
 jpAM:001:unstring,10868,482
-jPuraRaM:001:twitch,10696,479
 jyAM:002:string,9954,450;twang,10682,478
 jyAmiti:001:geometry,4480,181
 jyezWaputro:001:devolve,2831,105
@@ -8756,9 +8695,8 @@ Rehika-dfzwi-budDi:001:world,11292,498
 RkacittIBUya:001:voice,11091,488
 RkAMtataH:001:whole,11233,494
 RtAvatA:001:whole,11233,494
-RDa:001:very,11017,486
 Rrigrah:001:include,5314,221
-Rva:002:very,11017,486;worse,11295,498
+Rva:001:worse,11295,498
 Rva-meva:001:yes,11337,500
 RvaM:003:whole,11233,494;why,11237,494;yes,11337,500
 RvABivartate:001:wend,11196,493
@@ -8955,11 +8893,10 @@ tamaScCit:001:remove,8806,389
 tamasi:001:grope,4678,191
 tamA-tmajanmAnamajaM:001:name,7015,302
 tamAKunAlI:001:cigar,1740,058
-tameva:001:cail,1377,046
+tameva:001:call,1377,046
 tamovft:001:benight,929,032
 tamovfta-mebAcCanna:001:low,6333,270
 tamovftti:001:dark,2558,092
-tamna:001:exhaust,3765,146
 tayA:002:good,4587,186;want,11142,490
 tayAlu:001:liable,6175,258
 tayoH:001:like,6209,261
@@ -9053,7 +8990,7 @@ tasya:067:admit,139,007;affect,173,008;against,195,009;agent,200,009;arrange,540
 tasyA:007:admit,139,007;like,6209,261;matter,6550,281;proportion,8377,365;taste,10250,463;thrill,10387,468;worse,11295,498
 tasyA-deSamanuvartamAnA:001:command,1972,066
 tasyAMto:001:doom,3168,120
-tasyAH:004:cail,1377,046;dash,2562,092;describe,2775,102;sure,10103,458
+tasyAH:004:call,1377,046;dash,2562,092;describe,2775,102;sure,10103,458
 tasyAkasmikaviBUteH:001:trace,10503,472
 tasyAkfpApAtraM-kopAspadaM-baBUva:001:fall,3880,153
 tasyAkzRoH:001:break,1200,041
@@ -9073,7 +9010,7 @@ tasyotsAhaBaMgaM:001:damp,2547,091
 tasyopadeSena:001:at,615,023
 tasvAla-mezA:001:suffice,10037,455
 tah:002:bob,1098,038;castigate,1510,051
-tAM:004:cail,1377,046;draw,3211,122;escort,3659,141;predict,8218,355
+tAM:004:call,1377,046;draw,3211,122;escort,3659,141;predict,8218,355
 tAMrkzyaH:001:garuda,4430,179
 tAH:001:convince,2221,080
 tAqaRaM:001:push,8484,371
@@ -9263,8 +9200,8 @@ tumularaveRa:002:obstreperous,7252,314;riot,8968,399
 tumulaSabdena:001:riot,8968,399
 tumulasaMkzoBakArin:001:riot,8968,399
 tumulotptavaH:001:carnival,1480,050
-tumulotmavaH:001:riot,8968,399
 tumulotsava-kArin:001:riot,8968,399
+tumulotsavaH:001:riot,8968,399
 turaMgasTaH:001:horse,4997,207
 turyAMSaH:001:four,4247,172
 tulanayA:001:compare,1999,067
@@ -9280,7 +9217,7 @@ tulpa:001:par,7625,329
 tulya-samAna-praBapa:001:cognate,1902,063
 tulyacaturBujaH:001:rhombus,8935,398
 tulyatayA:001:match,6539,280
-tulyadravBaM-vastu:001:equivalent,3633,140
+tulyadravyaM-vastu:001:equivalent,3633,140
 tulyapadatvaM:001:coequal,1890,063
 tulyapadaBAj:001:equal,3616,139
 tulyapadasTaH:001:fellow,3953,158
@@ -9419,7 +9356,6 @@ ttA:001:incarnate,5293,220
 ttika:001:nature,7032,303
 ttita:001:narrow,7022,303
 ttvaBAvaja:001:innate,5536,229
-ttvayakzaM-svamataM-dfqaM:001:colour,1950,064
 tTiti:001:position,8137,351
 tpUnatA:001:demerit,2702,099
 tmaka:001:solemn,9659,434
@@ -9570,7 +9506,6 @@ tvAgvi-dArakaH:001:flay,4090,164
 tvAmahaM:001:beat,846,030
 tvAmuwwiSya:001:drop,3234,124
 tvAmevAmI:001:look,6308,267
-tvM:001:console,2146,075
 tsanaM:001:expel,3792,148
 tsarubaMDanaM:001:sword,10161,460
 tsA:003:child,1681,056;duck,3251,125;treat,10560,475
@@ -9640,8 +9575,7 @@ daMqADikArin:001:police,8077,349
 daMqABAvaH:002:exempt,3759,146;impunity,5252,219
 daMqArha:002:liable,6175,258;penal,7781,336
 daMqe:002:default,2642,096;rest,8882,394
-daMqtya:001:penal,7781,336
-daMqtyAn:001:order,7370,320
+daMqyAn:001:order,7370,320
 daMQa:001:punish,8461,370
 daMQaH:001:wand,11139,490
 daMtacCurikA-kartarikA:001:rake,8591,376
@@ -9661,7 +9595,7 @@ daMtEMrdatAn:001:gnash,4567,185
 daMtEMrdatAnnizpizya:001:grind,4664,191
 daMtEH:002:knab,5960,247;snap,9609,432
 daMtErdaMtAn:002:grate,4632,189;rub,9026,403
-daMtErdaMtAnnivpIqaca:001:chatter,1653,055
+daMtErdaMtAnnizpIqaya:001:chatter,1653,055
 daMtErnizpiz:001:crunch,2447,088
 daMtErmahAKaMqaM:001:bite,1037,035
 daMto:001:labiodental,5984,249
@@ -9838,7 +9772,6 @@ dA-rAn:001:intermarry,5674,236
 dA-ridyaM:001:beg,874,031
 dA-socita:001:serve,9357,418
 dAMpatyaviSlezaH:001:repudiate,8852,391
-dAMBika-CAdnika:001:charlatan,1640,055
 dAMBikatayA:001:cant,1416,048
 dAMBikatA:001:hypocrite,5091,211
 dAMBikavacanaM:001:cant,1416,048
@@ -9890,7 +9823,6 @@ dArusIvanaM:002:dove,3185,121;mortise,6897,297
 dArusvaMqaH:001:fagot,3871,152
 dArErapi:001:sacrifice,9079,405
 dArQatyaM:001:pertinacious,7872,340
-dArQtyena:001:peremptory,7824,337
 dArdDuzyaM:001:interest,5657,235
 dAsakarman:001:menial,6618,285
 dAsavikrayaH:001:slave,9543,429
@@ -10386,7 +10318,6 @@ dfzwivizayaH:001:spectacle,9726,439
 dfzwisUkzmatA:001:perspicacious,7866,340
 dfzwihArin:001:show,9433,424
 dfzwyA:002:eye,3850,151;good,4587,186
-dfzWi:001:regard,8745,385
 dfzWiM:001:juggle,5893,244
 dfzWipaTaH-vizayaH-gocaraH:001:see,9294,415
 dfzyaM:001:tabernacle,10192,461
@@ -10640,8 +10571,7 @@ dravyApaharaRasya:001:danger,2553,092
 dravyEH:001:freight,4275,173
 drazwa:002:behold,888,031;witness,11276,497
 drazwAraH:001:reveal,8914,396
-drazwuM:001:visit,11070,488
-drazduM:001:cail,1377,046
+drazwuM:002:call,1377,046;visit,11070,488
 drah:001:machinate,6389,272
 drAkzAH:001:vine,11051,487
 drAkzAkzetraM-vAwikA:001:vine,11051,487
@@ -10814,7 +10744,6 @@ DanAgAraM:001:bank,773,028
 DanAgArapatiH:001:bank,773,028
 DanAQatya:001:money,6841,295
 DanAQaya:001:rich,8942,398
-DanAQtya:001:opulent,7358,320
 DanAdinA:001:entire,3568,138
 DanAdeH:001:sack,9076,405
 DanADikAriRI:001:heir,4858,201
@@ -10849,7 +10778,6 @@ Dara-RIpfzWe:001:random,8603,376
 DarAtalaM:001:plane,8002,345
 DarApIWaM:001:surface,10105,458
 Darin-Bft:001:contain,2172,077
-DarMa-nizWa:001:pious,7972,343
 Dartpara:001:devote,2832,105
 DarDate:001:worse,11295,498
 DarDita-sattva:001:recruit,8698,382
@@ -10928,7 +10856,7 @@ DarmAMtarasvIkAraH:001:proselyte,8386,366
 DarmAGyakzaH:001:ordinary,7373,321
 DarmAcaraRaM:001:virtue,11062,487
 DarmAcaraRena:001:pious,7972,343
-DarmAcAMra:001:pious,7972,343
+DarmAcAra:001:pious,7972,343
 DarmAcArin:001:religion,8785,388
 DarmAd-AnArAd-BfaMS:001:demoralize,2713,099
 DarmADipatyaM:001:magistrate,6401,273
@@ -11304,7 +11232,6 @@ narakavAsin:001:infernal,5466,227
 narakIya:001:hell,4861,201
 narakoya:001:infernal,5466,227
 narajIvaH:001:piece,7940,342
-naraRSuH:001:human,5036,209
 naraBojin:001:man,6454,276
 naravaraH-SAdUlaH-pfgavaH-fzaBaH:001:man,6454,276
 naraviSezaH:001:exact,3726,143
@@ -11485,7 +11412,7 @@ nAnAvipaya-saMgrahaH:001:miscellaneous,6740,291
 nAnAvizaya:001:discursive,2975,112
 nAnAvizayasaMbadDaM:001:magazine,6398,273
 nAnASAkAdisaM-miSraReM:001:hotchpotch,5009,208
-nAnuH:001:zun,10062,456
+nAnuH:001:sun,10062,456
 nAntikamataM:001:theory,10351,466
 nAnya:001:none,7140,309
 nAnyat:001:nothing,7161,310
@@ -11502,11 +11429,11 @@ nABO:001:spoke,9761,441
 nAByAMvartaH:001:navel,7040,304
 nAByAsakramamI-kzate:001:practice,8181,353
 nAByuttizWaMti:001:rise,8974,400
-nAma-DAmascakaM:001:direct,2910,109
+nAma-DAmasUcakaM:001:direct,2910,109
 nAma-veyataH:001:name,7015,302
 nAma-saMjYAM-kf:001:nominate,7132,308
 nAmakft-nAmadAtf:001:denominate,2720,100
-nAmagrAhamAhve:001:cail,1377,046
+nAmagrAhamAhve:001:call,1377,046
 nAmaDayaM:001:name,7015,302
 nAmaDAmaviSezAH:001:address,119,006
 nAmarahita:001:innominate,5542,230
@@ -11578,7 +11505,7 @@ ni-kftanaM:001:prune,8416,368
 ni-grahra:001:repress,8842,391
 ni-GaMduH:001:index,5394,223
 ni-GarzaRakriyayA:001:polish,8079,349
-ni-pogaH:001:cail,1377,046
+ni-pogaH:001:call,1377,046
 ni-ptaM-pIq:001:squeeze,9807,443
 ni-pra-grahra:001:rein,8765,386
 ni-prati-ziG:001:check,1657,055
@@ -11602,7 +11529,6 @@ ni-vini:001:prevent,8280,359
 ni-vini-grah:001:control,2202,079
 ni-vini-yam:001:rule,9043,403
 ni-vini-vAr:001:hinder,4927,204
-ni-vkas:001:cast,1508,050
 ni-zkarzaRI:001:draw,3211,122
 ni-zWatyA:001:devote,2832,105
 ni-sa-Rm:001:bridle,1214,042
@@ -11614,9 +11540,8 @@ ni-hnotf:001:deny,2734,100
 nii:001:clear,1809,060
 nii-a:001:clear,1809,060
 nii-ava-nij:001:cleanse,1808,060
-niMiDyAsati:001:ruminate,9046,404
 niMu:001:insult,5625,233
-niMw:003:calumniate,1385,047;carp,1486,050;rate,8626,377
+niMw:002:carp,1486,050;rate,8626,377
 niMwU:001:decry,2627,095
 niMdA-tmaka:001:opprobrium,7351,320
 niMdA-tmakavacaH:001:abuse,55,003
@@ -11652,7 +11577,6 @@ niMrbaDaH:001:obstinate,7250,314
 niMrbaDaSIlaM:001:obstinate,7250,314
 niMrviSaMkaM:001:confide,2085,072
 niMrvft:001:bring,1226,042
-niMzapaRaM:001:exercise,3761,146
 niMsAvaH:001:efflux,3347,129
 niH-SabdatA:001:silent,9469,426
 niH-SezIkf:002:clear,1809,060;finish,4043,161
@@ -11675,7 +11599,6 @@ niHSrayasaM:001:summumbonum,10058,456
 niHSru:001:emit,3450,133
 niHsaMjYatA:001:carus,1498,050
 niHsaMDAnaM:001:random,8603,376
-niHsatvatA:001:die,2868,106
 niHsatvI-kf:001:empty,3467,133
 niHsadeha:001:clear,1809,060
 niHsu:001:exorcise,3780,147
@@ -11745,8 +11668,6 @@ niRkram:001:come,1962,065
 niRpatti:001:conclude,2056,070
 niRpad-samAp:001:close,1836,061
 niRpravARi:001:cloth,1840,061
-niRPalaM-nirguRaM-baBUtra:001:come,1962,065
-niRPalA:001:child,1681,056
 nitaMvaH:001:hip,4930,204
 nitakf:001:repudiate,8852,391
 nitapataM:001:deliver,2691,098
@@ -11790,7 +11711,7 @@ nidarSanapatraM:001:certify,1588,053
 nidAGamaDyaM:001:mid,6681,287
 nidAGasamayaH:001:heat,4838,200
 nidArza:001:correct,2273,081
-nidArzaM:001:clear,1809,060
+nidiDyAsati:001:ruminate,9046,404
 niduh:001:draw,3211,122
 nidft:001:come,1962,065
 nide:001:inhuman,5513,229
@@ -11925,7 +11846,6 @@ niya-mAtikrAmin:001:law,6089,253
 niyaMtumudyamAt:001:dissuade,3090,116
 niyaMtra:001:smother,9599,432
 niyaMtraRA:001:control,2202,079
-niyaMtraRM:001:suppress,10098,457
 niyaMtri-tAsmi:001:tight,10417,469
 niyaMtritavAk:001:constrain,2160,076
 niyaMha:001:suppress,10098,457
@@ -11986,7 +11906,7 @@ niyo-jayati:001:make,6418,274
 niyogamanuzWA:001:part,7681,331
 niyogasaMbaMDin:001:minister,6713,289
 niyogahIna:001:out,7414,322
-niyogAH:001:cail,1377,046
+niyogAH:001:call,1377,046
 niyogigaRaH:001:depute,2762,101
 niyogipadaM:001:minister,6713,289
 niyogivargaH:001:mission,6785,292
@@ -12067,7 +11987,6 @@ niru:002:compose,2026,069;restrict,8888,395
 niru-dDAra:001:clear,1809,060
 niruMp:001:discover,2969,111
 niruG:001:hem,4866,201
-nirucCbAsa:001:breathe,1202,041
 nirutara:001:cogent,1899,063
 nirutAraH:001:ransom,8609,377
 niruttaratayA:001:final,4034,161
@@ -12118,7 +12037,6 @@ nirguRo:001:plea,8021,346
 nirGarzaRI:001:scrape,9235,411
 nirGfv:001:excoriate,3747,145
 nirGezaH:001:mutter,6994,301
-nirGozH:001:rumble,9045,404
 nircita:001:ease,3301,127
 nirjagAma:003:break,1200,041;each,3293,126;reluctant,8789,388
 nirjana-vitrikta-sTAnaM:001:retire,8901,395
@@ -12351,6 +12269,7 @@ niveSanasTAnaM:001:camp,1392,047
 niveSasTAMnaM:001:halt,4763,195
 niveSitamudAharaRaM:001:commit,1985,066
 niveSitalesvaH:001:interpolate,5687,236
+nivezaRaM:001:exercise,3761,146
 nivyalIkaM:001:honest,4976,206
 nivyalIkatA:001:candid,1402,047
 nivyApAra:001:leisure,6135,256
@@ -12371,7 +12290,6 @@ niScalI-stabDI-BU:001:strike,9953,450
 niSciMtohaM:001:relieve,8784,387
 niSce-zwatA:001:passive,7694,333
 niScezWatA:001:rest,8882,394
-niSDidra:001:interstice,5696,236
 niSrayi:001:ladder,6004,249
 niSreRyA:001:escalade,3655,140
 niSvayaH:003:certain,1586,053;confide,2085,072;sentence,9325,417
@@ -12491,10 +12409,9 @@ nizpramARa:002:invalid,5740,238;prove,8400,367
 nizprayojana-drazyaM:001:lumber,6353,271
 nizprayojanadrayyaM:001:frippery,4294,174
 nizpravAha:001:stagnant,9823,443
-nizpz:001:squeeze,9807,443
+nizPalaM-nirguRaM-baBUva:001:come,1962,065
 nizPalacezwA:001:mock,6811,293
 nizPalI-moDI-kf:001:effect,3337,129
-nizbaBatvaM:001:gloom,4550,184
 nizva:001:expel,3792,148
 nisargajAtiH:001:position,8137,351
 nisargataH:002:innate,5536,229;nature,7032,303
@@ -12939,7 +12856,6 @@ pakzO:003:flicker,4103,164;flutter,4148,166;pinion,7967,343
 pakzmasaMkocaH:001:wink,11257,496
 pagA:001:river,8980,400
 pagrIvaM:001:substitute,10015,453
-pagsiMKyA:001:add,116,006
 paNaM:001:abbreviate,9,001
 pacagu:001:barter,802,028
 pacanasTAnaM:001:brick,1210,042
@@ -13115,7 +13031,7 @@ padnaKaMqaH:001:lotus,6325,269
 padnabIjaM:001:lotus,6325,269
 padBati:001:cut,2518,091
 padBaryAM:001:go,4572,185
-padByAM:004:ford,4187,169;on,7323,318;stand,9840,444;trudge,10631,476
+padByAM:005:foot,4177,168;ford,4187,169;on,7323,318;stand,9840,444;trudge,10631,476
 padyaMrUpeRa:001:poet,8069,348
 padyarUpa:001:metre,6667,287
 padyaSAstraM:001:poet,8069,348
@@ -13181,7 +13097,7 @@ parapAre:001:over,7463,324
 parapuruza-vya-BicAra-jAra-SaMkita:001:jealous,5855,242
 parapuruzasaMgati:001:adultery,153,007
 parapratyaya-neyabudDiH:001:lead,6097,254
-parapratyayaneyavudDiH:001:influence,5480,227
+parapratyayaneyabudDiH:001:influence,5480,227
 paraBAryA-laMGanaM:001:adultery,153,007
 paraBUmAvaDikAraH:001:easement,3303,127
 paraBUmiM:001:tenant,10292,464
@@ -13421,8 +13337,7 @@ paritozikaM:001:meed,6594,284
 parityaktanartano:001:leave,6110,255
 parityaktavya:001:void,11092,488
 parityajati:001:certain,1586,053
-paritrayaDvaM:001:rescue,8861,392
-paritrAyaDvaM:001:help,4864,201
+paritrAyaDvaM:002:help,4864,201;rescue,8861,392
 paridaDat:001:cloth,1840,061
 paridavakaH:001:lament,6022,250
 paridiva:001:mourn,6922,298
@@ -13682,7 +13597,7 @@ paSvAdavagAQAM:001:depress,2759,101
 paSvAdBAgaH:001:hind,4926,204
 paSvima:001:hind,4926,204
 paSvimaBAgaH:001:hind,4926,204
-pazan:001:zun,10062,456
+pazan:001:sun,10062,456
 pazWaBAge-deSe:001:back,727,026
 pasaMkalpAH:001:dark,2558,092
 pasakta:001:constant,2155,076
@@ -13908,8 +13823,8 @@ pArizadyapada:001:fellow,3953,158
 pArecCinna:001:peremptory,7824,337
 pArRiMRa:001:heel,4851,201
 pArRRi:001:heel,4851,201
-pArva-tIti:001:cail,1377,046
-pArvatIti:001:cail,1377,046
+pArva-tIti:001:call,1377,046
+pArvatIti:001:call,1377,046
 pArSvaMgaM:001:flank,4076,163
 pArSvaH-rSvaM:001:flank,4076,163
 pArSvadalaM:001:wing,11256,496
@@ -14291,7 +14206,6 @@ pustakADAraH:001:sachel,9074,405
 pustakAlayaH:002:depot,2753,101;library,6186,259
 pustakAlayADikftaH:001:library,6186,259
 pusskf:001:advance,156,007
-pUi:001:chink,1690,056
 pUca-srAvin:001:purulent,8480,371
 pUjArTaH-pUjAparaH-pUjAvAcI:001:mean,6571,282
 pUjArhe:001:offend,7290,316
@@ -14393,7 +14307,6 @@ pUrvaboDaka:001:premonish,8246,356
 pUrvaBogaH:001:prepossess,8254,357
 pUrvamava:001:anticipate,424,016
 pUrvameva:003:before,871,031;long,6305,266;precaution,8194,354
-pUrvalakzaRaM-ciHnaM:001:omen,7312,317
 pUrvalakzaRajYaH:002:augur,655,024;prognostic,8340,363
 pUrvava-dBUta:001:reduce,8716,383
 pUrvavatkaraRaM:001:renew,8814,389
@@ -14473,7 +14386,6 @@ pfzWasaMbaMDin:001:dorsal,3173,120
 pfzWAni:001:turn,10667,477
 pfzWenAgatya:001:behind,887,031
 pfzWeBiliKeddatvA:001:endorse,3504,135
-pfzWySvaH:001:pack,7548,327
 peyanizakaH:001:libation,6178,258
 peyOzaDaM:001:potion,8166,352
 pelavatA:001:delicate,2682,098
@@ -14552,7 +14464,6 @@ ptataUrDvaM:001:after,193,009
 ptadodagra:001:mad,6394,273
 ptaDye:001:during,3279,125
 ptaPalaM:001:lucre,6343,271
-ptaBAra:001:mass,6532,280
 ptamIkzya:001:circumspect,1765,058
 ptamyakrtayA:001:satisfy,9151,408
 ptAD:001:mend,6615,285
@@ -14618,7 +14529,6 @@ praMktiBojinaH:001:mess,6648,287
 praMSizyaH:001:scholar,9202,410
 praMsavinI:001:mother,6907,298
 praMsKal:001:stagger,9822,443
-praHhikA:001:diarrhoea,2857,106
 prakawayaMti:001:betray,973,033
 prakawitASayaH:001:intend,5642,234
 prakawI-prasidDI-kf:001:public,8426,368
@@ -15141,7 +15051,6 @@ praPull:001:blossom,1079,037
 praPullacitta:001:light,6204,260
 praPullatayA:002:gay,4445,180;live,6266,264
 praPullatA:005:flush,4145,166;live,6266,264;spirit,9751,440;sprightly,9780,441;vivacious,11078,488
-praPlalla:001:vivacious,11078,488
 prabaMGakalpanA:001:fable,3852,151
 prabaRaH:001:porch,8118,350
 prabala-pipAsAvasannAni:001:sink,9494,427
@@ -15151,7 +15060,7 @@ prabalIm:001:strong,9962,451
 prabud:001:suggest,10043,455
 prabudDamanasaH-saMskAravaMtaH-janAH:001:cultivate,2480,089
 prabum:001:explain,3799,148
-prabuv:001:cail,1377,046
+prabuv:001:call,1377,046
 prabo:001:prompt,8360,364
 prabo-Daya:001:cudgel,2465,089
 praboGakaH:001:exhort,3768,147
@@ -15207,7 +15116,7 @@ pramAdAt:002:due,3256,125;slop,9567,430
 pramAdina:001:blunder,1087,037
 pramAnnanaM:001:condone,2075,071
 pramArzwi-lopayati:001:redeem,8710,383
-pramArzdumayamasmAkamAraMBaH:001:atone,623,023
+pramArzwumayamasmAkamAraMBaH:001:atone,623,023
 pramAvaH:001:main,6413,274
 pramAviSezodayadurnirIkzyaH:001:dazzle,2574,093
 pramu-dito:001:to,10449,471
@@ -15365,7 +15274,6 @@ praSnArTarUpeRa:001:interrogate,5691,236
 praSnASayA:001:foot,4177,168
 praSrayavAc:001:compliment,2021,069
 prazaRa:001:mind,6706,289
-prazala:001:influence,5480,227
 prazAmaH:001:bow,1164,040
 prazwa:001:question,8540,373
 prazwaM:001:comfort,1968,065
@@ -15491,7 +15399,6 @@ prAMtayati:003:edge,3326,128;fringe,4293,174;skirt,9526,429
 prAMtavartin:001:margin,6498,278
 prAkawatyaM:001:manifest,6471,277
 prAkawtyaM:001:open,7338,318
-prAkaytyaM:001:light,6205,261
 prAkAracCidraM:001:embrasure,3435,132
 prAkArapariKAdi:001:fortify,4232,171
 prAkAramUlaM:001:plinth,8041,347
@@ -15628,7 +15535,6 @@ prAmoti:001:follow,4170,167
 prAya-ScittAgAraM:001:penitent,7793,337
 prAyaSaH:014:almost,285,012;custom,2517,090;familiar,3887,154;frequent,4278,173;general,4458,180;just,5913,245;like,6209,261;most,6904,297;near,7046,304;ordinary,7373,321;part,7681,331;pretty,8277,359;probable,8309,361;usual,10912,483
 prAyaSvalaM:001:vary,10957,484
-prAyaSvittaM:001:atone,623,023
 prAyaSvittAkzama:001:inexpiable,5450,226
 prAyastena:001:like,6209,261
 prAyeppa:001:near,7046,304
@@ -15803,8 +15709,6 @@ Pasva:001:low,6333,270
 PAladaMtaH:002:colter,1952,065;coulter,2311,083
 PAlgunacEtraM:001:march,6496,278
 PU:004:entwine,3580,138;snort,9624,433;sob,9636,433;wreath,11307,499
-Pft:001:incise,5309,221
-Pfmi-rogaH:001:worm,11293,498
 Petila:001:effervesce,3339,129
 PenapawalaM:001:foam,4153,166
 PenapawalEH:001:mistake,6791,292
@@ -15926,7 +15830,7 @@ bastideSaH:001:pelvis,7779,336
 bastraM:001:vest,11021,486
 bahalAmodaH:001:rich,8942,398
 bahalIBUta:001:public,8426,368
-bahavo:002:cail,1377,046;precede,8195,354
+bahavo:002:call,1377,046;precede,8195,354
 bahiHpradeSaH:001:outside,7449,324
 bahiHpradeSakfta:001:out,7414,322
 bahiRkf:001:turn,10667,477
@@ -16162,7 +16066,6 @@ biSizwa:001:paramount,7639,330
 biSizwADikArapatraM:001:patent,7706,334
 biSrAmaH:001:pause,7730,334
 bizAdaH:001:pensive,7798,337
-bistArarUpa:001:paraphrase,7643,330
 bI-BatsatayA:001:horror,4995,207
 bIkzaRaM:001:peep,7767,336
 bIjakavacaH-puwaM:001:nut,7206,311
@@ -16203,7 +16106,7 @@ budDivikala:002:craze,2383,085;drivel,3228,123
 budDivilAsAH:001:sally,9101,406
 budDivizayaka:001:intellect,5639,234
 budDivEka-lyaM:001:dote,3176,120
-budDivEbkalyaM:001:craze,2383,085
+budDivEkalyaM:001:craze,2383,085
 budDisUkzmatA:001:keen,5922,245
 budDihInatA:001:irrational,5779,240
 budDO:002:mind,6706,289;occur,7267,315
@@ -16284,6 +16187,7 @@ BaktatyA:001:pious,7972,343
 BaktayA:001:revere,8919,396
 Baktavat:001:duty,3282,126
 BaktigItaM:001:carol,1484,050
+BaktipuraHsara:001:devout,2834,106
 BaktipuraHsaraM:001:revere,8919,396
 BaktipUrva:001:revere,8919,396
 BaktipUrvaM:001:faith,3876,153
@@ -16461,9 +16365,6 @@ BAMqasamudAyaH:001:goods,4588,187
 BAMqAni:003:goods,4588,187;merchant,6633,286;smuggle,9603,432
 BAMqe:002:case,1501,050;incase,5294,220
 BAMsasnehaH-sAraH:001:grease,4648,190
-BAkti:002:devote,2832,105;devout,2834,106
-BAktiH:001:enthusiasm,3565,138
-BAktipuraHptara:001:devout,2834,106
 BAgakalpanaM:002:dispense,3047,114;portion,8131,351
 BAgataH:002:instalment,5605,232;part,7681,331
 BAgaSaH:003:member,6608,284;part,7681,331;piece,7940,342
@@ -16481,11 +16382,11 @@ BAcCAdanaM:001:awning,709,026
 BAwakena-mUlyadAnena-grahra:001:rent,8818,390
 BARya-kft:001:comment,1977,066
 BARyaM:001:comment,1977,066
-BAtapaH:001:zun,10062,456
+BAtapaH:001:sun,10062,456
 BAtazAtin:001:fratricide,4267,172
 BAdrapadASvinaM:001:september,9331,418
 BAnukaH:001:tamarix,10219,462
-BAnuvAsaraH:001:zun,10062,456
+BAnuvAsaraH:001:sun,10062,456
 BApayate:001:affright,184,008
 BApayate-BIzayate:001:fright,4291,174
 BAptura:001:beam,841,029
@@ -16550,7 +16451,7 @@ BAzAvijYAnaM-tattvaM:001:philology,7911,341
 BAzAsaraRi-padDati:001:language,6034,250
 BAzAsaraRiH:004:antiquated,432,016;colloquy,1942,064;ease,3301,127;style,9985,452
 BAsnf-stF:001:board,1095,038
-BAsvata:001:zun,10062,456
+BAsvata:001:sun,10062,456
 Bi-BI:001:eaves,3306,128
 BiMdi:001:sling,9561,430
 BiH:001:deplete,2744,101
@@ -16572,7 +16473,6 @@ BittyaMtarvartin:001:intramural,5714,237
 BiTyA-kalpanaM:001:interpolate,5687,236
 BiduratA:001:fragile,4254,172
 Bidolima:001:lithe,6256,264
-BidM-BaMj:001:burst,1312,045
 BiDIyate-Ahvayate:001:after,193,009
 BinaMdAmi:001:approve,489,018
 Binna-gatyA:001:mince,6705,289
@@ -17026,7 +16926,6 @@ matApaH:001:courage,2338,083
 matABimAnin:001:positive,8138,351
 matABimAnena:001:positive,8138,351
 mati-dudDi-BramaH:001:mad,6394,273
-mati-budDi-vbutpatti:001:reason,8655,380
 mati-bUdDi:001:purpose,8475,370
 matiM:001:think,10365,467
 matiM-budDiM-kf:001:resolve,8872,393
@@ -17055,7 +16954,6 @@ mattvaM:001:pith,7987,344
 matpurataH:001:hold,4963,205
 matyaparipAkaH:001:raw,8641,378
 matyutkarzaH:001:able,22,002
-matrin:001:counsel,2313,083
 matsaMBAvanAyAM:001:cold,1923,063
 matsarasya:002:room,9005,401;subject,9994,452
 matsarAvaha:001:invidious,5754,239
@@ -17154,7 +17052,6 @@ maDurIkf:004:disembitter,2984,112;dulcet,3260,125;honey,4977,206;sweet,10145,459
 maDurIBU:001:sweet,10145,459
 maDurosya:001:smell,9589,431
 maDusvana:001:canorous,1415,048
-maDpa:001:mid,6681,287
 maDya-malaMkaroti:001:high,4921,203
 maDya-mUla-BUni:001:main,6413,274
 maDyaH-dfyaM:001:waist,11129,489
@@ -17227,7 +17124,7 @@ manAMlOlyaM:001:humour,5044,210
 manAMhara-rama:001:delight,2684,098
 manAgapi:006:all,263,011;at,615,023;least,6108,255;none,7140,309;nothing,7161,310;whit,11227,494
 manAgapi-kiMcidapi-sto-kamapi:001:slight,9558,430
-manisi:001:cail,1377,046
+manisi:001:call,1377,046
 manistaraM:001:diffuse,2874,107
 manuzpApahAraH:001:man,6454,276
 manuzyaguRAropaH:001:person,7864,339
@@ -17318,7 +17215,7 @@ mamopari:001:toward,10497,472
 mamopAyanAni:001:please,8022,346
 mamohata:001:discourage,2966,111
 mamdaBAgyatayA:001:unfortunate,10796,481
-mayAdya:001:cail,1377,046
+mayAdya:001:call,1377,046
 mayApyasmin:001:sleep,9549,430
 mayAvaSyaM:002:can,1396,047;help,4864,201
 mayi:009:allege,265,011;coin,1914,063;condescend,2069,071;deign,2670,097;oblige,7233,313;toward,10497,472;troth,10618,476;turn,10667,477;wanton,11143,490
@@ -17429,7 +17326,6 @@ masUrI-rikA:002:small,9584,431;variola,10954,484
 masUropama:001:lenticular,6143,257
 masfRatA:001:soft,9649,434
 masta-kAGAtena:001:knock,5975,248
-mastaka-saMKzA:001:capitation,1440,048
 mastakatvac:001:scalp,9174,409
 mastakatvacaM:001:scalp,9174,409
 mastakahIna:001:head,4829,199
@@ -17462,7 +17358,7 @@ maharaRaM:001:depilation,2742,101
 maharAjaH:001:worship,11296,498
 maharzaRa:001:thrill,10387,468
 mahasA:001:illapse,5123,213
-mahasra:001:zun,10062,456
+mahasra:001:sun,10062,456
 mahA-ati-vAttaH:001:storm,9920,448
 mahAkAMkzA:001:aspire,574,021
 mahAkAyatA:001:large,6055,251
@@ -18030,7 +17926,7 @@ mUlarUpaM:001:archetype,512,019
 mUlalABaH:001:evolve,3721,143
 mUlavastu:002:element,3383,130;essence,3673,141
 mUlavastu-dravyaM:001:rudiment,9035,403
-mUlaSabdavistAraH-viva-sRaM:001:paraphrase,7643,330
+mUlaSabdavistAraH-viva-raRaM:001:paraphrase,7643,330
 mUlahetuH:001:prime,8291,360
 mUlAMgaM:001:rudiment,9035,403
 mUlAMgaM-dravyaM:001:principle,8297,361
@@ -18040,7 +17936,6 @@ mUlAnanbayena:001:parenthesis,7656,330
 mUlAnanvita:001:parenthesis,7656,330
 mUlArTaH:003:literal,6254,264;prime,8291,360;root,9007,401
 mUlArTAnusAreRa:001:literal,6254,264
-mUlTena:001:cost,2297,082
 mUlyaM-DanaM-datvA:001:ransom,8609,377
 mUlyaKyApanaM:001:bid,996,034
 mUlyadAnena:001:buy,1331,045
@@ -18107,10 +18002,10 @@ mftyuvaSa:001:mortal,6892,297
 mftyuvaSaH:001:mortal,6892,297
 mftyuvedanABiBUta:001:agony,215,010
 mftyusamaye:001:bequeath,933,032
+mftyUttara:001:postmortem,8149,352
 mftyUttarajAta:001:posthumous,8147,352
 mftyena:001:do,3131,119
 mftyormuKe:001:grasp,4630,189
-mftyttara:001:postmortem,8149,352
 mfdu-komala-KaBAvaH:001:mild,6687,288
 mfdukArin:001:mollient,6830,294
 mfdugIH:001:soft,9649,434
@@ -18226,12 +18121,7 @@ mOrKyavilasitaM:001:betise,971,033
 mOrvIkiRAMkaH:001:mark,6506,278
 mOvI:001:string,9954,450
 mOhU-taka:001:hora,4988,207
-mQaH:001:influence,5480,227
 mtaraH:001:stratum,9937,449
-mTalaM:001:station,9853,445
-mTAnaM:001:post,8141,352
-mTiti:001:institute,5616,233
-mTyA:001:calumniate,1385,047
 mnI:001:bless,1067,036
 mnotovahA:001:river,8980,400
 mpaMdanaM:001:palpitate,7589,328
@@ -18325,7 +18215,6 @@ yaTAkamaM:005:arrange,540,019;file,4022,160;grade,4611,188;norm,7153,309;seriati
 yaTAkAMmaM:001:wanton,11143,490
 yaTAkAlaM-yaTAsamayaM-vyavahf:001:temporize,10287,464
 yaTAkramaM-yaTAvargaM:001:sort,9689,436
-yaTAkramM:001:chronicle,1719,057
 yaTAkzaraM:001:spell,9733,439
 yaTAcAraM:001:custom,2517,090
 yaTAjYaM:001:obey,7226,312
@@ -18454,7 +18343,6 @@ yAMti:001:anxiety,439,016
 yAMtyevaM:001:position,8137,351
 yAMpayati:001:throw,10396,468
 yAguRacayaH:001:stretch,9946,450
-yAcU:001:cail,1377,046
 yActrA:001:mendicant,6617,285
 yAja-kIya:001:sacerdotal,9073,405
 yAjakIya:003:clergy,1814,060;levitical,6170,258;priest,8288,360
@@ -18792,7 +18680,6 @@ raTasya:001:slack,9533,429
 raTAnAt:001:then,10346,466
 raTAyin:001:duration,3278,125
 raTe:001:harness,4795,197
-raTMyA:001:street,9942,449
 radgaH:001:tooth,10472,471
 radvAjaH:001:lark,6057,251
 ranA:001:steep,9868,446
@@ -18807,7 +18694,7 @@ ramyAloka:001:present,8262,357
 rayapaTaH:002:basin,806,029;bed,856,030
 ravikiraRasahizRu:001:season,9273,413
 ravimaBitaH-tejomaMqalaM-mukuwAkAraM:001:corona,2261,081
-ravO:001:zun,10062,456
+ravO:001:sun,10062,456
 raSIkf:001:lump,6356,271
 raSmayaH:001:draw,3211,122
 raSmiBiH:001:bridle,1214,042
@@ -19028,10 +18915,10 @@ rAtryutsavaH:001:orgy,7380,321
 rAdBAMtaH:001:conclude,2056,070
 rAdratA:001:grim,4660,191
 rAmagAmI:001:apply,477,017
-rAmanAmA:002:cail,1377,046;name,7015,302
+rAmanAmA:002:call,1377,046;name,7015,302
 rAmaBadramanu-harati:001:resemble,8863,392
 rAmavivA-sanAt:001:short,9427,423
-rAmasaMjYaH:002:cail,1377,046;name,7015,302
+rAmasaMjYaH:002:call,1377,046;name,7015,302
 rAmasyAkftirasmin:001:image,5137,214
 rAmasyApi:001:irony,5777,240
 rAmahaste:001:with,11268,496
@@ -19039,10 +18926,9 @@ rAmAt:001:precede,8195,354
 rAmAtpacatitarAM:001:better,977,034
 rAmAyaRa-kaTApuruzAH:001:hero,4894,202
 rAme:003:capable,1428,048;govern,4605,187;reign,8763,386
-rAmo:003:cail,1377,046;cure,2496,090;name,7015,302
+rAmo:003:call,1377,046;cure,2496,090;name,7015,302
 rASinakzavaM:001:constellation,2156,076
 rASimaMqalaM:001:baldrick,747,027
-rAzdrIkA:001:night,7103,307
 rAhormuKaM:001:scarce,9185,409
 riM:001:serve,9357,418
 rikA:003:babe,720,026;maid,6410,273;thieve,10360,467
@@ -19411,6 +19297,7 @@ lapsIzWAH:001:bless,1067,036
 labanaM:001:parallax,7635,330
 labUkaraRaM:001:extenuate,3821,149
 labUkf:001:degrade,2667,097
+labDa-pratizWanarARAM:001:influence,5480,227
 labDa-maMjYa-cetana:001:recover,8692,382
 labDakIrtimudraH:001:medal,6577,283
 labDakzaRa:002:disengage,2992,112;leisure,6135,256
@@ -19449,8 +19336,6 @@ lavitf:001:reap,8653,379
 lavu:001:trip,10598,476
 lavu-sahasA:001:jerk,5860,243
 lavUkaraRaM:001:detract,2816,105
-lavDa:001:possess,8139,351
-lavDa-pratizWanarARAM:001:influence,5480,227
 lavvarTa:001:trifle,10586,476
 lazvAhAraH:001:lunch,6360,271
 laharISCi-dana:001:swim,10151,460
@@ -19471,7 +19356,6 @@ lAkzArasen:001:lacker,5995,249
 lAgaladaMqaH:001:plough,8044,347
 lAGavaguRopeta:001:sentence,9325,417
 lAGavayukta:001:sentence,9325,417
-lADavaM:001:expert,3796,148
 lAnI:001:maternal,6542,281
 lAbu-bU:001:gourd,4601,187
 lABa-dfzwatyA:001:mercenary,6631,285
@@ -19529,8 +19413,7 @@ lInavftti:001:trance,10521,473
 lIlaMyA:001:sport,9770,441
 lIlayA:003:ease,3301,127;play,8020,346;sport,9770,441
 lIlAparatA:001:play,8020,346
-luMw-W:003:pillage,7956,343;pirate,7977,344;plunder,8053,348
-luMw-Wra:001:depredate,2757,101
+luMw-W:004:depredate,2757,101;pillage,7956,343;pirate,7977,344;plunder,8053,348
 luMWanArTaM:001:way,11166,491
 luMd-Wa:001:rob,8987,401
 luwaMnaM:001:booty,1138,039
@@ -19837,7 +19720,7 @@ vacastasya:001:affect,173,008
 vacasya-vasite:001:conclude,2056,070
 vacasyavasite:001:when,11209,494
 vacAraSIla:001:deliberate,2681,098
-vacU:001:cail,1377,046
+vacU:001:call,1377,046
 vacovinyAsaH:002:diction,2863,106;language,6034,250
 vajraH-jraM:003:adamant,114,005;diamond,2851,106;thunder,10402,469
 vajraniGerzaH:001:clap,1795,059
@@ -19899,13 +19782,12 @@ vaDirayaMtaH:001:deaf,2576,093
 vaDiravat:001:deaf,2576,093
 vaDirIkf:001:deaf,2576,093
 vaDirIkftAH:001:stun,9978,452
-vaDujanaH:001:cail,1377,046
+vaDujanaH:001:call,1377,046
 vaDUvara-rO:001:bride,1212,042
 vaDUvarO:001:couple,2336,083
 vaDo:001:doom,3168,120
 vaDoM-dyataH:001:fuffian,9037,403
 vaDOzin:001:murder,6974,300
-vaDH:001:daughter,2567,093
 vaDyakAzWaM-SilA:001:gibbet,4495,182
 vaDyatAmasO:002:execute,3757,146;sentence,9325,417
 vaDyasTalaM:001:gallows,4394,178
@@ -20044,8 +19926,8 @@ valAtkAreRa:001:detain,2806,104
 valipUrRa:001:shrivel,9444,424
 valIBftaH:001:crisp,2418,087
 valkaH-lkaM:002:rind,8964,399;scale,9171,409
-valkavn:001:scale,9171,409
 valkAvfta:001:scale,9171,409
+valkin:001:scale,9171,409
 valgAsanATa:001:bridle,1214,042
 valyaM:001:tone,10464,471
 vallasi:001:moon,6869,296
@@ -20411,7 +20293,6 @@ vi-nfzRa:001:content,2178,077
 vi-nodokti:001:jest,5863,243
 vi-pa-Bimna:001:differ,2870,107
 vi-padABiBU:001:come,1962,065
-vi-parANU-muKa:001:reluctant,8789,388
 vi-pari-saM-Suv:001:correct,2273,081
 vi-pra-ptArin:001:diffuse,2874,107
 vi-pra-BUtIya:001:early,3297,126
@@ -20523,13 +20404,14 @@ vigrahamupadiSaMti:001:for,4179,168
 viGad:003:break,1200,041;dissolve,3088,116;separate,9328,417
 viGadf:001:gnash,4567,185
 viGi-kArin:001:legislate,6132,256
+viGf:001:confess,2084,072
 viGozaRA:001:announce,396,015
 viGnAn:003:deobstruct,2735,100;facile,3858,151;free,4273,173
 viGnAna-panI:001:clear,1809,060
 vicakrame:001:step,9875,446
 vicakzaRatayA:001:efficient,3342,129
 vicakzaRatA:001:discreet,2971,111
-vicA-raRAmarhati:001:cail,1377,046
+vicA-raRAmarhati:001:call,1377,046
 vicApkaH:001:investigate,5752,239
 vicAra-Dane-saBA:001:judge,5890,244
 vicAra-marhati:001:worth,11299,498
@@ -20539,7 +20421,7 @@ vicAraH-raRaM-raRA:001:deliberate,2681,098
 vicAraH-raRA:008:counsel,2313,083;discern,2945,110;discuss,2977,112;distinguish,3099,117;doom,3168,120;inquest,5554,230;inquire,5556,230;question,8540,373
 vicAraH-raRA-RaM:001:investigate,5752,239
 vicAraRaM-RA:001:discriminate,2974,111
-vicAraRayA:001:cail,1377,046
+vicAraRayA:001:call,1377,046
 vicAraRASakti:001:reason,8655,380
 vicAradinaM:001:judge,5890,244
 vicAranimagnaH:001:amid,336,013
@@ -20615,7 +20497,6 @@ vidagDatayA:003:craft,2364,085;cunning,2486,089;sagacious,9087,406
 vidagDaprayogaH:001:manoeuvre,6478,277
 vidagDavat:001:shrewd,9437,424
 vidagDAlApAH:001:sally,9101,406
-vidagDtA:001:expert,3796,148
 vidaDAti:001:both,1149,039
 vidaDe:001:recommend,8683,381
 vidAMkurvaMtu:001:know,5978,248
@@ -20730,7 +20611,7 @@ viDyanusArin:002:constitute,2159,076;law,6089,253
 viDyanusAreRa:002:constitute,2159,076;law,6089,253
 viDyapeta:001:law,6089,253
 vinaY:001:crumble,2444,088
-vinapAtiH:001:zun,10062,456
+vinapAtiH:001:sun,10062,456
 vinayaH-yanaM:001:train,10515,473
 vinayapramATaH:001:ill,5122,213
 vinayarIti:001:etiquette,3692,142
@@ -20806,7 +20687,7 @@ vipamIBU:001:stumble,9976,451
 viparatitA:001:contradistinguish,2192,078
 vipari:001:mature,6553,281
 vipariRamayeyuH:001:translate,10535,474
-viparivartamAnatDAt:001:revolve,8929,397
+viparivartamAnatvAt:001:revolve,8929,397
 viparI-tamarTaM:001:turn,10667,477
 viparI-tArTaboDaH:001:misconceive,6744,291
 viparItakrama:001:preposterous,8255,357
@@ -20908,7 +20789,6 @@ viraktI-vimuKI-kf:001:wean,11170,492
 viraj:001:dislike,3022,113
 viraB:001:lull,6351,271
 viramAti-prasaMgAt:001:truce,10627,476
-viramM:001:hold,4963,205
 viralakarma:001:chain,1600,053
 viralatayA:001:fine,4037,161
 viralayati:001:thin,10363,467
@@ -20983,7 +20863,6 @@ viliKyaMte:001:implant,5214,217
 viligv:001:implant,5214,217
 vilIyaMte:001:resolve,8872,393
 vilIyate:001:dissolve,3088,116
-vilxp:001:hover,5019,209
 vilocanAni:001:fix,4061,162
 viloBayati:001:captivate,1451,049
 vilomatvaM:001:pervert,7878,341
@@ -21051,7 +20930,7 @@ vivAhavyavahAraH:001:intermarry,5674,236
 vivAhasaMpaMDatyAgaH:001:repudiate,8852,391
 vivAhasaMyaMDaM:001:engage,3514,135
 vivAhasamayaBaMgaH:001:infidel,5469,227
-vivAhasAkzye:001:cail,1377,046
+vivAhasAkzye:001:call,1377,046
 vivAhADizWAtrA:001:hymen,5083,211
 vivAhArTin:002:suit,10045,455;woo,11286,497
 vivAhIya:001:hymen,5083,211
@@ -21081,7 +20960,6 @@ vivekaSUnya:002:ill,5122,213;unconscionable,10748,480
 vivekahIna-SUnya:001:indiscreet,5407,224
 vivekina:001:prudent,8415,368
 vivecanapidyA:001:casuist,1516,051
-vivGf:001:confess,2084,072
 viSa-sane:001:take,10209,461
 viSaMkatA:001:daunt,2568,093
 viSaMzaRaM:001:designate,2784,103
@@ -21239,6 +21117,7 @@ vizayaSabdaM:001:apply,477,017
 vizayasAraM:001:recapitulate,8665,380
 vizayasuKanirata:001:rake,8591,376
 vizayasuKanirato:001:lead,6097,254
+vizayasuKAti-rekaH:001:riot,8968,399
 vizayasuKAni:001:sense,9322,416
 vizayasuKAsakta:001:sense,9322,416
 vizayasuKecCA:001:lust,6371,271
@@ -21259,7 +21138,6 @@ vizayopaBogaH:001:debauch,2585,094
 vizayopaBogarataH:001:debauch,2585,094
 vizayoparAgaH:001:appetite,474,017
 vizayopasevin:001:carnal,1478,050
-vizaysuKAti-rekaH:001:riot,8968,399
 vizarRIBU:001:fade,3868,152
 vizalipta:001:poison,8073,349
 vizavaH:001:nation,7028,303
@@ -21302,6 +21180,7 @@ vistaraSaH:004:descend,2773,102;diffuse,2874,107;long,6305,266;prolix,8350,364
 vistAraMH:001:diffuse,2874,107
 vistAramicCan:001:develop,2822,105
 vistArayukta:001:branch,1184,041
+vistArarUpa:001:paraphrase,7643,330
 vistIRAM:001:extend,3820,149
 vistIrRavAc:001:word,11290,497
 vistIrRe:001:expand,3784,147
@@ -21368,7 +21247,7 @@ vudDicApalyaM:001:vagary,10930,484
 vur:001:kidnap,5937,246
 vurIRA:001:cattle,1542,051
 vuvUrzati:001:spite,9753,440
-vuz:001:cail,1377,046
+vuz:001:call,1377,046
 vuzwatA:001:wicked,11239,494
 vuhat:001:vat,10962,485
 vUtti:001:live,6266,264
@@ -21585,9 +21464,6 @@ vopagataM:001:receive,8667,380
 vopada:001:rip,8969,399
 vozaRA:001:notify,7163,310
 vOhAsikaH:001:mime,6701,289
-vRr:001:praise,8183,354
-vtayaraRaM:001:exercise,3761,146
-vTalatA:001:mass,6532,280
 vya-BicAraSaMkA:001:jealous,5855,242
 vya-vahArAnurUpa:001:legal,6125,256
 vyaM-goktiH:001:innuendo,5545,230
@@ -21913,13 +21789,12 @@ SaktikzayaH:002:debilitate,2587,094;feeble,3945,157
 SaktitaH:001:proportion,8377,365
 SaktivarDaka:001:aliment,260,011
 SaktihInatA:002:debilitate,2587,094;ineffective,5432,225
-SakteHrahasyaM:001:secret,9278,414
+SakteH:001:secret,9278,414
 SaktyA:001:energy,3509,135
 SaknamaH:001:venture,10989,485
 Saknozi:001:choose,1708,057
 Sakyate:003:capable,1428,048;elude,3404,131;press,8266,358
 SakyopacAra:001:remedy,8795,388
-SagKAbahula:001:ramous,8598,376
 SacyAH:002:inferior,5465,226;yield,11340,500
 SawayAcCAdanaM:001:sheet,9402,422
 SaWavat:002:knave,5965,247;perfidy,7827,338
@@ -22003,7 +21878,7 @@ SabdAMtarasya:001:substitute,10015,453
 SabdAMtareRa:001:paraphrase,7643,330
 SabdADikyaM:001:pleonasm,8034,347
 SabdAn:002:parody,7668,331;word,11290,497
-SabdAyati:001:cail,1377,046
+SabdAyati:001:call,1377,046
 SabdArtiSaMyaH:001:pleonasm,8034,347
 SabdArTAnusArin:001:literal,6254,264
 SabdikaH:001:philology,7911,341
@@ -22120,7 +21995,6 @@ SaSAvizARaM:001:chimera,1684,056
 SaSikaraH-raSimaH:001:moon,6869,296
 SaSinaM:001:bark,790,028
 SazaparaRaM:001:supplement,10092,457
-Sazda-pada-lAlityaM:001:speak,9719,438
 Sastra-yudDa-upajIvI:001:soldier,9656,434
 SastrakriyA-karman:001:operate,7340,319
 SastragfhaM:002:armour,534,019;arsenal,549,020
@@ -22184,6 +22058,7 @@ SAkAdi:001:green,4652,190
 SAkti:002:influence,5480,227;lance,6028,250
 SAKAgata:001:sect,9281,414
 SAKApratiSAKArUpeRa:001:ramify,8595,376
+SAKAbahula:001:ramous,8598,376
 SAKArUpeRa:001:branch,1184,041
 SAKASrita:001:sect,9281,414
 SAKAsanATa:001:branch,1184,041
@@ -22196,8 +22071,6 @@ SAWayaM:001:rogue,8996,401
 SAWayatA:001:craft,2364,085
 SAWayAt:001:rogue,8996,401
 SAWayena:001:treachery,10555,474
-SAWtyaM:001:collude,1943,064
-SAWtyena:001:practice,8181,353
 SARapawaH-vastraM:002:linen,6227,262;sack,9076,405
 SARapuwaH:001:budget,1268,044
 SARayati:001:sharp,9391,421
@@ -22277,7 +22150,6 @@ Si-lApUrRa:001:rock,8990,401
 Si-lAyAmAtmAnaM:001:press,8266,358
 Si-lIkf:001:freeze,4274,173
 Si-SiramaDyaM:001:high,4921,203
-SiiromTi:001:scull,9257,412
 SiMbi-bI:001:pod,8067,348
 SiMraHSUlasparSaM:001:plea,8021,346
 SiMvA:001:pod,8067,348
@@ -22385,7 +22257,7 @@ SizwAcArAn:001:civil,1781,059
 SizwAcArAnurUpa:001:mode,6812,293
 Sizya-vfttyupajIvin:001:bursar,1311,045
 SizyatvakAlaH:001:apprentice,485,018
-SizyadaSA-avamTA:001:pupil,8464,370
+SizyadaSA-avasTA:001:pupil,8464,370
 SizyanAmArhaH:001:worth,11299,498
 Sizyavftti:001:bursar,1311,045
 SizyopadeSaM:001:discredit,2970,111
@@ -22400,12 +22272,11 @@ SIkarAyate:001:drizzle,3229,123
 SIkarAsAraH:002:mizzle,6805,293;rain,8588,375
 SIkarAsAravAhin:001:spray,9777,441
 SIGaM:001:swift,10149,460
-SIGtakopitvaM:001:hot,5008,208
 SIGna-tIkzRa-budDi-mati:001:quick,8542,373
 SIGna-sulaBa-kopin:001:hot,5008,208
 SIGnaM:001:cursory,2506,090
 SIGrakopa:001:fractious,4252,172
-SIGrakopitvaM:001:irritate,5807,241
+SIGrakopitvaM:002:hot,5008,208;irritate,5807,241
 SIGrakzubDa-saMtapta:001:fret,4281,174
 SIGragrAhin:001:quick,8542,373
 SIGrajYAnena:001:sense,9322,416
@@ -22639,12 +22510,9 @@ SOryahIna:001:want,11142,490
 SOryahInaH:001:coward,2352,085
 SOrye:001:advantage,157,007
 SOvalenAnuvidDaM:001:intertwine,5698,237
-SMSahIna:001:portion,8131,351
-SkanIBU:001:freeze,4274,173
 ScatyotaH:001:pour,8175,353
 Scayat:001:pour,8175,353
 ScitraM:001:wonder,11284,497
-StiprAhulyaM:001:glut,4561,185
 Snya:001:bare,787,028
 SpAma:001:blue,1085,037
 SmaSAne:001:bury,1314,045
@@ -22657,6 +22525,7 @@ SyAnakardamaH:001:slime,9560,430
 SyAnatvaM:001:coagulate,1861,062
 SyAnadravyaM:001:concrete,2062,071
 SyAnIkf:001:clam,1785,059
+SyAnIBU:001:freeze,4274,173
 SyAmadehaH:001:negro,7062,305
 SyAmavarRA:001:brunette,1254,043
 SyAmaharita:001:sea,9268,413
@@ -22806,7 +22675,6 @@ SvetAruRa:001:light,6204,260
 SvetAruRaH:001:gridelin,4657,190
 zaM-DyatA:001:sterile,9877,446
 zaMQI-klIbI-kf:001:emasculate,3409,131
-zaMvt:001:hang,4776,196
 zaMSa-kula-krameRa:001:descend,2773,102
 zakza:001:party,7688,332
 zaj:001:confide,2085,072
@@ -22852,14 +22720,12 @@ zwatyUtaM:001:spit,9752,440
 zwiH:001:boar,1094,038
 zwI:002:fist,4055,162;licorice,6191,259
 zwo:001:housing,5017,208
-zwByAM:001:foot,4177,168
 zWaH:001:lip,6242,263
 zWatya:001:labiodental,5984,249
 zWAnaM:001:seat,9274,413
 zWApa-yati:001:dedicate,2631,095
 zWApayati:007:implant,5214,217;instate,5608,232;introduce,5722,238;invest,5751,239;nominate,7132,308;reinstate,8768,386;seat,9274,413
 zWI:001:six,9510,428
-zBO:001:express,3811,149
 zmakaH:001:summer,10055,456
 zmAgamaH:001:summer,10055,456
 zyaM:001:flow,4136,165
@@ -22889,7 +22755,7 @@ zyAvft:002:crinkle,2415,087;wheel,11206,493
 zyAsaH:001:wide,11241,495
 zyAhf:001:repeat,8826,390
 zva:001:aunt,657,024
-zvyavasAyaH:001:cail,1377,046
+zvyavasAyaH:001:call,1377,046
 sa-ktABUt:001:rivet,8981,400
 sa-gadgaMdaM:001:sob,9636,433
 sa-gotratA:001:consanguineous,2129,074
@@ -22903,7 +22769,6 @@ sa-rvasya:001:marrow,6515,279
 saM-aBi-musvaM:001:confront,2097,073
 saM-IMD:001:ignite,5115,213
 saM-udU-BU:001:induce,5424,225
-saM-FD:001:flourish,4134,165
 saM-kzepakavitA:001:satire,9150,408
 saM-KyAtItAH:001:oblige,7233,313
 saM-Gad:001:rub,9026,403
@@ -22921,7 +22786,6 @@ saM-vri-pra:001:shake,9378,421
 saM-ziS:001:rest,8882,394
 saM-sfyA:001:value,10943,484
 saM-skAraSAstrajYaH:001:rite,8977,400
-saMil:001:conspire,2153,076
 saMfD:001:thrive,10388,468
 saMk:001:lumber,6353,271
 saMka-wAvasTA:001:pinch,7965,343
@@ -22962,7 +22826,6 @@ saMkulIkaraRaM:001:complicate,2019,068
 saMkulIBU:002:assemble,582,021;huddle,5028,209
 saMketaM-saMjYAM:001:nod,7119,308
 saMketaM-saMjYAM-kf:001:wink,11257,496
-saMketagTAnaM:001:tryst,10642,477
 saMketarUpa:001:symbol,10169,460
 saMketalaMGimI:001:jllt,5868,243
 saMketasUcanaM:001:gesticulate,4485,181
@@ -23024,7 +22887,6 @@ saMgraMT:007:braid,1178,040;compose,2026,069;entangle,3557,137;join,5875,243;mat
 saMgrahakartf:001:epitome,3611,139
 saMgrahasTAnaM:001:deposit,2752,101
 saMgrahAraH:001:war,11144,490
-saMgrahH:001:glean,4534,184
 saMgrahra:001:save,9162,408
 saMgrAmatumulaM:001:turmoil,10666,477
 saMGawf:002:close,1836,061;strike,9953,450
@@ -23108,7 +22970,6 @@ saMdigDavyavasAyaH:001:game,4399,178
 saMdigDArTatA:001:ambiguous,321,013
 saMdigDAryena:001:equivocal,3634,140
 saMdigDo:001:fate,3919,156
-saMdigvDa:001:crisis,2417,087
 saMdihyamAnAni:001:refer,8724,384
 saMdIpanA:001:inflame,5475,227
 saMdfD:001:lift,6201,260
@@ -23183,8 +23044,7 @@ saMpIqU:001:contract,2190,078
 saMpujU:001:confederate,2082,072
 saMpuw:001:crumple,2446,088
 saMpuwake:001:box,1168,040
-saMpUi:001:clear,1809,060
-saMpUr:006:complete,2016,068;conclude,2056,070;end,3498,134;integer,5636,234;replenish,8833,390;store,9918,448
+saMpUr:007:clear,1809,060;complete,2016,068;conclude,2056,070;end,3498,134;integer,5636,234;replenish,8833,390;store,9918,448
 saMpogaH:001:incorporate,5348,222
 saMptaMj:001:truss,10639,477
 saMptaMj-saMyuj-saMhan-saMSliz:001:cohere,1909,063
@@ -23426,7 +23286,7 @@ saMsvyAnIta:001:incalculable,5284,220
 saMhatadravyaM:001:concrete,2062,071
 saMhatiM:001:disintegrate,3016,113
 saMhatiBedaH:001:disintegrate,3016,113
-saMhatIBU:002:crust,2452,088;settle,9362,420
+saMhatIBU:003:crust,2452,088;freeze,4274,173;settle,9362,420
 saMhara-RIyatA:001:compress,2030,069
 saMhftamIkzitaM:001:turn,10667,477
 saMhriyatAmiyaM:001:drop,3234,124
@@ -23457,7 +23317,7 @@ sakUwaM:003:counterfeit,2325,083;fiction,4000,159;trump,10633,477
 sakfc:001:pucker,8427,369
 sakfdapi:001:least,6108,255
 sakfdeva:001:for,4179,168
-sakfdQfzwipAtena:001:glance,4526,183
+sakfddfzwipAtena:001:glance,4526,183
 sakfdvAdin:001:peremptory,7824,337
 sakfdvivAhaH:001:monogamy,6854,295
 sakfzRo:001:with,11268,496
@@ -23545,7 +23405,6 @@ satama-skalpa:001:dusk,3280,126
 sataraMga:001:ripple,8973,400
 sataralavegaM:001:shiver,9420,423
 satAM:003:associate,594,022;cultivate,2480,089;spend,9734,439
-satAganasaMketaH:001:tryst,10642,477
 sati-gate:001:case,1501,050
 satimita:001:obscure,7241,313
 satira-skAraM:001:opprobrium,7351,320
@@ -23568,6 +23427,7 @@ satkulajAta:001:noble,7115,308
 sattamomArgaH:001:honest,4976,206
 sattulya-vayas:001:coetaneous,1892,063
 sattvanASaH:001:feeble,3945,157
+sattvaBraMSaH:001:depress,2759,101
 sattvavAcin:001:substance,10014,453
 sattvavidyA:001:ontology,7334,318
 sattvavidyAjYaH:001:ontology,7334,318
@@ -23609,8 +23469,6 @@ satyABAsapUrvaM:001:specious,9724,438
 satyIkf:001:insure,5629,234
 satyeva:001:appear,469,017
 satrakAlaH:001:session,9359,419
-satvaguRaH:001:good,4587,186
-satvaBraMSaH:001:depress,2759,101
 satvAtpariBraMS:001:courage,2338,083
 satvezaM:001:despite,2793,103
 satsu:001:tooth,10472,471
@@ -23688,7 +23546,6 @@ saDukz:001:incense,5297,220
 saDUpa:001:fume,4336,176
 saDUmika:001:haze,4826,198
 saDyadeSIya:001:mid,6681,287
-saDyama:001:mid,6681,287
 saDyAja:001:insidious,5579,231
 sananyu:001:mourn,6922,298
 sanaBi:001:uterus,10917,483
@@ -23964,6 +23821,7 @@ samAkarRanaM:001:audience,651,024
 samAkarzI:001:scent,9196,410
 samAkalayya:001:include,5314,221
 samAgatAH:001:major,6417,274
+samAgamasaMketaH:001:tryst,10642,477
 samAGatA:001:break,1200,041
 samAjaSAstraM:001:sociology,9641,434
 samAjahitaM:001:many,6489,278
@@ -24049,7 +23907,7 @@ samutTApayati:001:heal,4830,199
 samutpanne:001:half,4755,194
 samud-samA-samaBi-i:001:assemble,582,021
 samudA:001:multitude,6957,300
-samuditeHravO:001:zun,10062,456
+samudite:001:sun,10062,456
 samudra-bizayaka:001:marine,6500,278
 samudra-rasanA-udaDivalayA-pfTvI:001:gird,4512,183
 samudrake:001:pack,7548,327
@@ -24342,7 +24200,6 @@ sahajopalabDa:001:intuition,5728,238
 sahajYAnaM:001:privy,8306,361
 sahajYAnin:001:privy,8306,361
 sahata:001:join,5875,243
-sahatIBU:001:freeze,4274,173
 sahadAyaBAj:001:coheir,1908,063
 sahaduHKin:001:sympathy,10171,460
 sahanaSIlatA:003:endure,3507,135;forbear,4182,168;long,6305,266
@@ -24366,9 +24223,9 @@ sahavartit-jIvin:001:coexist,1893,063
 sahavedin:001:privy,8306,361
 sahaSAyin:001:couch,2309,083
 sahasAM:001:blow,1082,037
-sahasAkapaH-AkzepaH:001:twitch,10696,479
 sahasAkamaRaM-ApatanaM:001:swoop,10160,460
 sahasAkarzaH:001:start,9849,444
+sahasAkarzaH-AkzepaH:001:twitch,10696,479
 sahasAkrAMta:001:surprise,10116,458
 sahasApravartin:001:impulse,5251,219
 sahastraguRaM:001:time,10422,470
@@ -24382,7 +24239,7 @@ sahasraSaH:001:thousand,10378,468
 sahasraSaH-vAraM:001:thousand,10378,468
 sahasrAMSAtmaka:001:millesimal,6696,288
 sahasrAH:001:more,6882,296
-sahasrAkziraRa:001:zun,10062,456
+sahasrAkziraRa:001:sun,10062,456
 sahADikArin:001:join,5875,243
 sahADyAyaH:001:fellow,3953,158
 sahADyAyigaRaH:001:class,1801,059
@@ -24471,7 +24328,7 @@ sAwopagati:001:stalk,9829,443
 sAwopagAmin:002:state,9852,445;strut,9967,451
 sAqaMbara:001:pomp,8102,350
 sAqaMbaraM:002:ostentation,7403,322;pomp,8102,350
-sAtapa:001:zun,10062,456
+sAtapa:001:sun,10062,456
 sAtisnehaM:001:dote,3176,120
 sAtkf:001:reduce,8716,383
 sAtvanaM:002:comfort,1968,065;console,2146,075
@@ -25034,10 +24891,10 @@ sUtrAyaRaH:002:acrobat,107,005;rope,9008,402
 sUpABi:001:catch,1528,051
 sUyaGawI:001:dial,2846,106
 sUyorpAsanA:001:heliolatry,4859,201
-sUryakiraRaH:001:zun,10062,456
+sUryakiraRaH:001:sun,10062,456
 sUryakiraREH:001:insolate,5591,232
-sUryaGawI:001:zun,10062,456
-sUryatapta:001:zun,10062,456
+sUryaGawI:001:sun,10062,456
+sUryatapta:001:sun,10062,456
 sUryapraBavo:001:derive,2768,102
 sUryAMSuBi-rBinnamivAraviMdaM:001:open,7338,318
 sUryAtape:001:heat,4838,200
@@ -25056,7 +24913,6 @@ sfzA:001:err,3645,140
 sfzwikama-virudDa:001:unnatural,10837,482
 sfzwikramaH:002:course,2340,084;nature,7032,303
 sfzwikramAnusAreRa:001:nature,7032,303
-seMfd:001:crush,2451,088
 seMgitaM:001:mean,6571,282
 seMdriyatA:001:organ,7378,321
 segAgnaM:001:front,4306,175
@@ -25142,7 +24998,6 @@ sEva:001:same,9113,407
 so-tkawaM:001:hot,5008,208
 sokzaH:001:discharge,2947,110
 socirAtsusTo:001:to,10449,471
-socCgrAya:001:high,4921,203
 socCrAya:003:elevate,3386,131;high,4921,203;lofty,6295,266
 socCvAsamakarot:001:inspire,5600,232
 sojanyaM:002:etiquette,3692,142;sociable,9639,434
@@ -25202,7 +25057,6 @@ sOByatA:001:meek,6595,284
 sOmyavftti:001:mild,6687,288
 sOraBaM-ByaM:002:odour,7285,316;perfume,7831,338
 sOraBevaH:001:ox,7541,326
-sOrAzdrI:001:alum,306,012
 sOruMgikaH:002:mine,6707,289;sap,9131,407
 sOzWavamityucyate:001:handsome,4775,196
 skaMGaH:001:section,9282,414
@@ -25298,7 +25152,6 @@ stratyapatyaM:001:offspring,7296,317
 straDarma:001:convert,2217,079
 stralati:001:fail,3872,152
 stravati:001:bleed,1063,036
-strigTa:001:demulcent,2714,099
 striyAM:001:feminine,3959,158
 strila:001:fallow,3883,153
 strI-Tarman:001:feminine,3959,158
@@ -25387,7 +25240,7 @@ sTAnezu:001:respect,8877,393
 sTAnonnatiH:001:prefer,8227,356
 sTApa-yati:003:arrange,540,019;bury,1314,045;number,7190,311
 sTApayaMti:002:rank,8606,376;represent,8841,391
-sTApayati:079:adjust,133,006;appoint,478,017;approximate,490,018;assort,595,022;back,727,026;collocate,1937,064;compose,2026,069;condemn,2067,071;constitute,2159,076;convict,2220,080;dismiss,3033,114;dispose,3058,115;dogma,3145,119;embattle,3418,132;enact,3475,133;erect,3642,140;establish,3674,141;excise,3740,145;feed,3946,157;fix,4061,162;formula,4224,171;found,4244,172;garrison,4426,179;hold,4963,205;impose,5225,218;innovate,5543,230;insert,5576,231;institute,5616,233;interpose,5688,236;keep,5923,245;law,6089,253;lay,6092,253;legal,6125,256;legislate,6132,256;let,6156,257;line,6226,262;locate,6284,265;lodge,6293,266;march,6496,278;marshal,6519,279;method,6665,287;minister,6713,289;move,6926,299;offer,7291,316;one,7325,318;ordain,7368,320;order,7370,320;organ,7378,321;overprize,7505,325;overvalue,7529,326;pack,7548,327;pass,7691,332;pitch,7985,344;place,7993,344;plant,8006,345;post,8141,352;price,8284,359;produce,8326,362;prove,8400,367;put,8488,371;rate,8626,377;regulate,8761,386;replace,8832,390;repose,8838,391;rule,9043,403;send,9318,416;serve,9357,418;set,9360,419;settle,9362,420;shoulder,9429,424;station,9853,445;steady,9863,445;stop,9916,448;stow,9924,449;subdue,9992,452;suggest,10043,455;supply,10095,457;system,10187,461;vindicate,11049,487
+sTApayati:080:adjust,133,006;appoint,478,017;approximate,490,018;assort,595,022;back,727,026;collocate,1937,064;compose,2026,069;condemn,2067,071;consolidate,2147,075;constitute,2159,076;convict,2220,080;dismiss,3033,114;dispose,3058,115;dogma,3145,119;embattle,3418,132;enact,3475,133;erect,3642,140;establish,3674,141;excise,3740,145;feed,3946,157;fix,4061,162;formula,4224,171;found,4244,172;garrison,4426,179;hold,4963,205;impose,5225,218;innovate,5543,230;insert,5576,231;institute,5616,233;interpose,5688,236;keep,5923,245;law,6089,253;lay,6092,253;legal,6125,256;legislate,6132,256;let,6156,257;line,6226,262;locate,6284,265;lodge,6293,266;march,6496,278;marshal,6519,279;method,6665,287;minister,6713,289;move,6926,299;offer,7291,316;one,7325,318;ordain,7368,320;order,7370,320;organ,7378,321;overprize,7505,325;overvalue,7529,326;pack,7548,327;pass,7691,332;pitch,7985,344;place,7993,344;plant,8006,345;post,8141,352;price,8284,359;produce,8326,362;prove,8400,367;put,8488,371;rate,8626,377;regulate,8761,386;replace,8832,390;repose,8838,391;rule,9043,403;send,9318,416;serve,9357,418;set,9360,419;settle,9362,420;shoulder,9429,424;station,9853,445;steady,9863,445;stop,9916,448;stow,9924,449;subdue,9992,452;suggest,10043,455;supply,10095,457;system,10187,461;vindicate,11049,487
 sTApavati:001:assign,589,022
 sTApitAH:001:line,6226,262
 sTAyIBavati:001:hold,4963,205
@@ -25456,9 +25309,6 @@ sTUlAgraM:001:butt,1324,045
 sTeyagaRaH:001:panel,7606,329
 sTO:001:sumpter,10059,456
 sdfSa:001:suit,10045,455
-sDAnaM:001:lieu,6199,259
-sDApayati:001:consolidate,2147,075
-sDIkAraH:001:comply,2023,069
 sna-snA-payati:001:steep,9868,446
 snaMhaH:001:heart,4836,199
 snamA:001:tendon,10295,465
@@ -25551,7 +25401,6 @@ sPuliMgAn:001:scintilla,9209,410
 sPuliMgAvasTa:001:scintilla,9209,410
 sPuliMgAvasTayA:001:wait,11130,489
 sPUrjaTuH-TUH:001:thunder,10402,469
-sPfraRaM:001:twinkle,10692,478
 sPo:002:open,7338,318;split,9759,440
 sPowajanaka:001:epispastic,3605,139
 sPowajananaH:001:blister,1072,037
@@ -25717,6 +25566,7 @@ svanASAvaha:001:suicide,10044,455
 svanitf:002:delve,2695,099;dig,2875,107
 svanitraM:001:hoe,4957,205
 svaniyogamaSUnyaM:001:execute,3757,146
+svapakzaM-svamataM-dfQaM:001:colour,1950,064
 svapakzatyAgin:001:turn,10667,477
 svapakzapAtin:001:party,7688,332
 svapakzAd:001:go,4572,185
@@ -26193,7 +26043,6 @@ hftasarvasvo:001:forfeit,4214,170
 hftosmi:001:charm,1641,055
 hftvA-viBa-jya:001:divide,3125,118
 hftsaMkocaH:001:systole,10188,461
-hfdaPkaMpaH:001:anhelation,382,014
 hfdayaMgaMmaH:001:bosom,1145,039
 hfdayaMgana:001:glow,4556,185
 hfdayakoSaH:001:pericardium,7835,338

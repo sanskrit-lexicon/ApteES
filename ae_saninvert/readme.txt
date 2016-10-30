@@ -37,6 +37,25 @@ Reads an invert2.txt type file, and generates list of words with
   ngrams not found in ngram.txt for hwnorm1.
 python filter_ngram.py 2 hwnorm1/2gram.txt invert2_notfound3.txt invert2_notfound3_ngram2ok.txt invert2_notfound3_ngram2prob.txt
  155 cases found.  They look promising as mis-spelled.
+10-30-2016: After corrections, 2 cases found
 
 python filter_ngram.py 3 hwnorm1/3gram.txt invert2_notfound3.txt invert2_notfound3_ngram3ok.txt  invert2_notfound3_ngram3prob.txt
 
+10-30-2016: 961 cases found
+Note:  There be false positives, for instance
+maraRavyavasAya-budDiM:001:relax,8776,387##unknowns=DiM
+muktagAtrEH:001:languid,6035,250##unknowns=rEH
+mAnuzIM:001:human,5036,209##unknowns=zIM
+
+These false positives are cases of inflected form endings.
+For purpose of finding odd n-grams, change spellings so that
+ ending 
+  EH -> a  (instr.pl. of nouns ending in 'a')
+  AH -> A  (f. nom. pl.)
+  iM -> i  (m. acc. sg.)
+  IM -> I  (f. acc. sg.)
+  osmi -> asmi  (pracakitosmi -> pracakitaH asmi)  
+Removing these false positives reduces the number of 
+NOT FOUND 3-gram instances to 781 cases
+
+invert2_notfound3_ngram3prob.txt now used in
