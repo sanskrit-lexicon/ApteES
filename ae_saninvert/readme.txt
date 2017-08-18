@@ -59,3 +59,12 @@ Removing these false positives reduces the number of
 NOT FOUND 3-gram instances to 781 cases
 
 invert2_notfound3_ngram3prob.txt now used in
+
+
+ngram_dict
+
+python ngram_dict.py 2 mw beg ngram_2_beg_mw.txt
+python ngram_dict.py 3 mw beg ngram_3_beg_mw.txt
+
+python ngram_dict.py 2 mw any ngram_2_mw.txt
+python ngram_dict.py 3 mw any ngram_3_mw.txt
