@@ -1,0 +1,29 @@
+; <L>392<pc>015<k1>annex<k2>annex
+3237 old <div n="lb"/>territory’ {#avaDadeSa AMglarAjyAMgaM kftaH,-#}
+3237 new <div n="lb"/>territory’ {#avaDadeSa AMglarAjyAMgaM kftaH#},
+;3238 old <div n="lb"/>{#-rAjyena saMyojitaH#}. {@2@} {#aMte nirdiS#} 6 P; ‘a
+;
+; <L>1340<pc>046<k1>cabin<k2>cabin
+9480 old <div n="lb"/>{#ratnakozWaH#}. {@4@} {#samudgakaH, saMpuwaH,-#} {%See%} {@Box.@}
+9480 new <div n="lb"/>{#ratnakozWaH#}. {@4@} {#samudgakaH, saMpuwaH#}; {%See%} {@Box.@}
+;
+; <L>2665<pc>097<k1>degenerate<k2>degenerate
+19076 old <div n="lb"/>{#BraMS#} 1 A, 4 P, {#duz#} 4 P. {%-a.%} {#kzIRapuRya,-#}
+19076 new <div n="lb"/>{#BraMS#} 1 A, 4 P, {#duz#} 4 P. {%-a.%} {#kzIRapuRya#},
+;
+; <L>2682<pc>098<k1>delicate<k2>delicate
+19223 old <div n="lb"/>{#-kumAra, tanu, SlakzRa, laGu, pratanu, virala, pari,-#}
+19223 new <div n="lb"/>{#-kumAra, tanu, SlakzRa, laGu, pratanu, virala, pari-#}
+;
+; <L>4206<pc>170<k1>forest<k2>forest
+31656 old <div n="lb"/>{#araRyAnI;#} ‘growing in f.’ {#vanya, AraRya,-#}
+31656 new <div n="lb"/>{#araRyAnI;#} ‘growing in f.’ {#vanya, AraRya#},
+;
+; <L>5375<pc>223<k1>indecisive<k2>indecisive
+41000 old <div n="lb"/>{#-saMdeha-SIla, asTira-saMdigDa-lola-mati, DI,-#}
+41000 new <div n="lb"/>{#-saMdeha-SIla, asTira-saMdigDa-lola-mati, -DI#},
+;
+; <L>6535<pc>280<k1>master<k2>master
+50710 old <div n="lb"/>{%See%} {@Lord,@} serving two m. s’ {#uBaya,-#}
+50710 new <div n="lb"/>{%See%} {@Lord,@} serving two m. s’ {#uBaya-#}
+;
