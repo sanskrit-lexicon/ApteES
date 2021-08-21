@@ -9,7 +9,9 @@ http://www.sanskrit-lexicon.uni-koeln.de/.
 To facilitate corrections to this digitization, a subsidiary version has been created on
 the Wikisource web-site.  This repository may also contain programs and procedures 
 developed to coordinate the Wikisource version and the Cologne version.
-
+> Work on the Wikisource version was suspended in 2014.
+  On Cologne server, see directory scans/AEScan/2014/wikisource/.
+  
 ## ae_saninvert
 (Oct 2016)
 This is an approach to finding spelling errors in the Sanskrit words of
