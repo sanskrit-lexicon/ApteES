@@ -1,5 +1,5 @@
 #-*- coding:utf-8 -*-
-"""mw_transcode.py
+"""ae_transcode.py
  
  
 """
@@ -16,30 +16,35 @@ def update_slp1chars(x,y,tranin,tranout):
  if m == None:
   print(iline+1,x,y)
  return
- 
-def convert(line,tranin,tranout):
- # convert text  in '<s>X</s>'
- tagname = 's'
+
+def convert_from_slp1(line,tranin,tranout):
  def f(m):
   x = m.group(1)
-  parts = re.split(r'(<.*?>)',x)
-  newparts = []
-  for part in parts:
-   if part == None:
-    newpart = ''
-   elif part.startswith('<'):
-    newpart = part
-   else:
-    #newpart = transcoder.transcoder_processString(part,tranin,tranout)
-    newpart = transcode(part,tranin,tranout)
-   newparts.append(newpart)
-  y = ''.join(newparts)
-  return '<s>%s</s>' % y
+  y = transcode(x,tranin,tranout)
+  ans = '<s>%s</s>' %y
+  return ans
+ newline = re.sub(r'{#(.*?)#}',f,line)
+ return newline
 
- regex = '<s>(.*?)</s>'
- #lineout = transcoder.transcoder_processElements(line,tranin,tranout,tagname)
- lineout = re.sub(regex,f,line)
- return lineout
+def convert_to_slp1(line,tranin,tranout):
+ def f(m):
+  x = m.group(1)
+  y = transcode(x,tranin,tranout)
+  ans = '{#%s#}' %y
+  return ans
+ newline = re.sub(r'<s>(.*?)</s>',f,line)
+ return newline
+
+
+def convert(line,tranin,tranout):
+ # convert text  in '{#X#}' to '<s>Y</s>'
+ if tranin == 'slp1':
+  return convert_from_slp1(line,tranin,tranout)
+ elif tranout == 'slp1':
+  return convert_to_slp1(line,tranin,tranout)
+ else:
+  print('ae_transcode error: convert must be to or from slp1',tranin,tranout)
+  exit(1)
 
 def print_unicode(x,u):
  """ Sample output:
@@ -159,7 +164,9 @@ if __name__=="__main__":
     else:
      # inentry = False
      if line.startswith('<L>'):
-      lineout = convert_metaline(line,tranin,tranout)
+      # for ae.txt,  the metaline contains english. No transcoding
+      lineout = line
+      #lineout = convert_metaline(line,tranin,tranout)
       inentry = True
      elif line.startswith('<LEND>'): # error
       print('Error 2. Not expecting <LEND>')
