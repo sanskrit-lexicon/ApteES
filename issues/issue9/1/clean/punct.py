@@ -1,5 +1,5 @@
 # coding=utf-8
-""" hyphen_merge.py for ae
+""" punct.py for ae
 """
 from __future__ import print_function
 import sys, re,codecs
@@ -191,175 +191,47 @@ def init_groups_simple(lines):
   else: # inentry == True
    group.append(line)
  print(len(groups),"groups",nentry,"entries")
- # print('group0 = ',group[0])
  return groups
 
-def change_groups_01_helper(line1,line2):
- # first line ends with '-'
- # next lines starts with '-'
- dbg = False 
- words1 = line1.split(' ')
- words2 = line2.split(' ')
- word1 = words1.pop() # last word on line1
- word2 = words2[0]   # first word on line2
- assert word1.endswith('-')
- assert word2.startswith('-')
- word1a = word1[0:-1]  # all but the ending '-'
- word2a = word2[1:]    # all but the initial '-'
- word1_new = word1a + word2a
- 
- words1_new = words1.append(word1_new)
- words2_new = words2[1:]  # all but first word
- line1_new = ' '.join(words1)
- line2_new = ' '.join(words2_new)
- return line1_new,line2_new
+def change_groups_01_helper(groups1,case,regex1,regex2):
+ dbg = False
+ nchg = 0
+ entries1 = group_entries(groups1)
+ for ientry,e1 in enumerate(entries1):
+  group1 = groups1[e1]
+  metaline = group1[0]
+  groupline = '\n'.join(group1)
+  newgroupline = re.sub(regex1, regex2,groupline)
+  if newgroupline != groupline:
+   newgroup = newgroupline.split('\n')
+   groups1[e1] = newgroup
+   nchg = nchg + 1
+ print('Case %s, %s entries changed: "%s" -> "%s" ' %
+       (case,nchg,regex1,regex2))
 
-def change_groups_01(groups1):
- # revise groups1 in place
- dbg = False
- nchg = 0
- notok = 0
- nok = 0
- entries1 = group_entries(groups1)
- #print(len(entries1),"entries")
- for ientry,e1 in enumerate(entries1):
-  group1 = groups1[e1]
-  metaline = group1[0]
-  flag = False
-  for i,line in enumerate(group1):
-   line = group1[i]
-   if not line.endswith('-'):
-    continue
-   flag = True
-   i2 = i+1
-   nextline = group1[i2]
-   if not nextline.startswith('-'):
-    if not nextline.startswith('[Page'):
-     continue
-    i2 = i + 2
-    nextline = group1[i2]
-    if not nextline.startswith('-'):
-     continue
-   line_new,nextline_new = change_groups_01_helper(line,nextline)
-   group1[i] = line_new
-   group1[i2] = nextline_new
-  if flag:
-   nchg = nchg + 1
- print(nchg,'entries changed')
+def change_groups_01(groups):
+ change_groups_01_helper(groups,'01a',  r',@}¦', r'@}¦,')
+ change_groups_01_helper(groups,'01a1', r'\.@}¦', r'@}¦,')
+ change_groups_01_helper(groups,'01b', r';@}',  r'@};')
+ change_groups_01_helper(groups,'01c', r',@}',  r'@},')
+ change_groups_01_helper(groups,'01d', r';#}',  r'#};')
+ change_groups_01_helper(groups,'01e', r',#}',  r'#},')
 
-def change_groups_02(groups1):
- dbg = False
- nchg = 0
- notok = 0
- nok = 0
- entries1 = group_entries(groups1)
- #print(len(entries1),"entries")
- for ientry,e1 in enumerate(entries1):
-  group1 = groups1[e1]
-  metaline = group1[0]
-  groupline = '\n'.join(group1)
-  newgroupline = re.sub(r'-#}\n{#-?(.*?)#}', r'-\1#}\n',groupline)
-  if newgroupline != groupline:
-   # remove initial space that our change may have introduced
-   newgroupline1 = re.sub(r'\n +','\n',newgroupline)
-   # if one of the lines starts with '. ', put the period on prev line
-   newgroupline2 = re.sub(r'\n\. +', '.\n',newgroupline1)
-   newgroup = newgroupline2.split('\n')
-   groups1[e1] = newgroup
-   nchg = nchg + 1
- print('change_groups_02: %s entries changed' % nchg)
- 
-def change_groups_02a(groups1):
- dbg = False
- nchg = 0
- notok = 0
- nok = 0
- entries1 = group_entries(groups1)
- #print(len(entries1),"entries")
- for ientry,e1 in enumerate(entries1):
-  group1 = groups1[e1]
-  metaline = group1[0]
-  groupline = '\n'.join(group1)
-  newgroupline = re.sub(r'-#}\n(\[Page.*?\])\n{#-?(.*?)#}',
-                        r'-\2#}\n\1\n',groupline)
-  if newgroupline != groupline:
-   # remove initial space that our change may have introduced
-   newgroupline1 = re.sub(r'\n +','\n',newgroupline)
-   # if one of the lines starts with '. ', put the period on prev line
-   newgroupline2 = re.sub(r'\n\. +', '.\n',newgroupline1)
-   newgroup = newgroupline2.split('\n')
-   groups1[e1] = newgroup
-   nchg = nchg + 1
- print('change_groups_02a: %s entries changed' % nchg)
- 
-def change_groups_02b(groups1):
- dbg = False
- nchg = 0
- notok = 0
- nok = 0
- entries1 = group_entries(groups1)
- #print(len(entries1),"entries")
- for ientry,e1 in enumerate(entries1):
-  group1 = groups1[e1]
-  metaline = group1[0]
-  groupline = '\n'.join(group1)
-  newgroupline = re.sub(r'-#}\n\n{#-?(.*?)#}',
-                        r'-\1#}\n\n',groupline)
-  if newgroupline != groupline:
-   # remove initial space that our change may have introduced
-   newgroupline1 = re.sub(r'\n +','\n',newgroupline)
-   # if one of the lines starts with '. ', put the period on prev line
-   newgroupline2 = re.sub(r'\n\. +', '.\n',newgroupline1)
-   newgroup = newgroupline2.split('\n')
-   groups1[e1] = newgroup
-   nchg = nchg + 1
- print('change_groups_02b: %s entries changed' % nchg)
+ change_groups_01_helper(groups,'01f', r';%}',  r'%};')
+ change_groups_01_helper(groups,'01g', r',%}',  r'%},')
 
-def change_groups_02c(groups1):
- dbg = False
- nchg = 0
- notok = 0
- nok = 0
- entries1 = group_entries(groups1)
- #print(len(entries1),"entries")
- for ientry,e1 in enumerate(entries1):
-  group1 = groups1[e1]
-  metaline = group1[0]
-  groupline = '\n'.join(group1)
-  newgroupline = re.sub(r'-#}\n{@',
-                        r'#}.\n{@',groupline)
-  if newgroupline != groupline:
-   # remove initial space that our change may have introduced
-   newgroupline1 = re.sub(r'\n +','\n',newgroupline)
-   # if one of the lines starts with '. ', put the period on prev line
-   newgroupline2 = re.sub(r'\n\. +', '.\n',newgroupline1)
-   newgroup = newgroupline2.split('\n')
-   groups1[e1] = newgroup
-   nchg = nchg + 1
- print('change_groups_02c: %s entries changed' % nchg)
+ change_groups_01_helper(groups,'01h', '{@([A-Z][^@]+)\.@}', r'{@\1@}.')
 
-def change_groups_02d(groups1):
- dbg = False
- nchg = 0
- notok = 0
- nok = 0
- entries1 = group_entries(groups1)
- #print(len(entries1),"entries")
- for ientry,e1 in enumerate(entries1):
-  group1 = groups1[e1]
-  metaline = group1[0]
-  groupline = '\n'.join(group1)
-  newgroupline = re.sub(r'-#}\n{%',
-                        r'#}\n{%',groupline)
-  if newgroupline != groupline:
-   # remove initial space that our change may have introduced
-   newgroupline1 = re.sub(r'\n +','\n',newgroupline)
-   # if one of the lines starts with '. ', put the period on prev line
-   newgroupline2 = re.sub(r'\n\. +', '.\n',newgroupline1)
-   newgroup = newgroupline2.split('\n')
-   groups1[e1] = newgroup
-   nchg = nchg + 1
- print('change_groups_02d: %s entries changed' % nchg)
+ change_groups_01_helper(groups,'01i',
+                         '{@([^@]+)-@}\n{@-([^@]+)@}([,;.]) ',
+                         r'{@\1\2@}\3\n')
+ change_groups_01_helper(groups,'01j',
+                         '{@([^@]+)-@}\n{@-([^@]+)([.])@} ',
+                         r'{@\1\2@}\3\n')
+ change_groups_01_helper(groups,'01k', r'{%-',  r'- {%')
+
+ change_groups_01_helper(groups,'01l', r';’',  r'’;')
+ change_groups_01_helper(groups,'01m', r',’',  r'’,')
 
 def write_groups(fileout,groups):
  outarr = []
@@ -403,6 +275,32 @@ def write_changes(fileout,changes):
    f.write(out+'\n')
  print(len(changes),"changes written to",fileout)
 
+def init_replacements(filein):
+ lines = read_lines(filein)
+ ans = []
+ for line in lines:
+  count,old,new = line.split('\t')
+  replacement = (old,new)
+  ans.append(replacement)
+ return ans
+
+def change_groups_02(groups,replacements):
+ nchg = 0
+ entries = group_entries(groups)
+ for ientry,e1 in enumerate(entries):
+  group1 = groups[e1]
+  metaline = group1[0]
+  groupline = '\n'.join(group1)
+  newgroupline = groupline
+  for replacement in replacements:
+   old,new = replacement
+   newgroupline = newgroupline.replace(old,new)
+  if newgroupline != groupline:
+   newgroup = newgroupline.split('\n')
+   groups[e1] = newgroup
+   nchg = nchg + 1
+ print("change_groups_02:",nchg,"entries changed")
+       
 if __name__=="__main__":
  option = sys.argv[1]
  filein = sys.argv[2] # xxx.txt cdsl
@@ -413,12 +311,9 @@ if __name__=="__main__":
  if option == '01':
   change_groups_01(groups)
  elif option == '02':
-  change_groups_02(groups)
-  change_groups_02a(groups)
-  change_groups_02b(groups)
-  change_groups_02c(groups)
-  change_groups_02d(groups)
-
+  filein1 = sys.argv[4]
+  replacements = init_replacements(filein1)
+  change_groups_02(groups,replacements)
  lines2 = groups_to_lines(groups)
  changes = make_changes(lines,lines2)
  write_changes(fileout,changes)

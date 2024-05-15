@@ -9,7 +9,10 @@ cd ${pywork}
 appdir=${home}/apps${subversion}
 sh generate_dict.sh ae  $appdir
 validate="/c/xampp/htdocs/cologne/xmlvalidate.py"
-python3 $validate $appdir/pywork/ae.xml $appdir/pywork/ae.dtd
+echo
+cmd="python3 $validate $appdir/pywork/ae.xml $appdir/pywork/ae.dtd"
+echo $cmd
+$cmd
 # remove files unused by displays
 rm -r ${appdir}/downloads
 rm -r ${appdir}/orig
