@@ -250,4 +250,105 @@ python clean/regex_instances.py 2 '‘.*?’' temp_ae_09.txt regex_quote_09.txt
 # Request Andhrabharati comments
 
 *************************************************************
+05-17-2024
+Version 10 for further manual corrections
+cp temp_ae_09.txt temp_ae_10.txt
+
+---
+35 matches in 34 lines for "@[0-9]@} [APU]\b" in buffer: temp_ae_09.txt
+None in temp_ae_10
+---
+538 matches in 514 lines for "‘[^.’]+’" in buffer: temp_ae_09.txt
+413 matches in 390 lines for "‘[^.’]+’" in buffer: temp_ae_10.txt
+---
+13 matches for "{@[^@]*‘" in buffer: temp_ae_09.txt
+None in temp_ae_10
+---
+26 matches for "‘[^’]*\[Page" in buffer: temp_ae_09.txt
+None in temp_ae_10
+---
+3 matches for "([^)]*\[Page" in buffer: temp_ae_09.txt
+---
+æ changed - 12 instances changed to modern spelling. print changes
+---
+5 matches for "œ" in buffer: temp_ae_10.txt  print changes
+ Change to modern spelling.
+---
+# mark_lnums helps identify lines needing attention.
+cp temp_ae_10.txt tempprev_ae_10.txt  # save prior copy, to be safe!
+
+# mark certain lines to begin with temporary markup'** ' Overwrite temp_ae_10.txt
+#python clean/marklnum.py '01' tempprev_ae_10.txt temp_ae_10.txt
+python clean/marklnum.py '02' tempprev_ae_10.txt temp_ae_10.txt
+# manual edit temp_ae_10.txt
+# When done,remove the '** ' temporary markup from temp_ae_10.txt
+---
+'\n.' -> '.\n'  ~1200 instances.
+
+python diff_to_changes_dict.py temp_ae_09.txt temp_ae_10.txt changes_10.txt
+2998 changes written to changes_10.txt
+
 -------------------------------------------------------------
+11
+422 matches for "{%See%}\n{@" in buffer: temp_ae_10.txt
+
+python clean/see_merge.py 01 temp_ae_10.txt changes_11.txt
+change_groups_01: 406 entries changed
+842 changes written to changes_11.txt
+
+python updateByLine.py temp_ae_10.txt changes_11.txt temp_ae_11.txt
+842 change transactions from changes_11.txt
+
+-------------------------------------------------------------
+12
+361 matches for "\. [0-9]+@}" in buffer: temp_ae_11.txt
+{@House. 2@}
+513 matches in 506 lines for "{@[^-][^@]+ -" in buffer: temp_ae_11.txt
+{@Abhor. -ion@}
+
+python clean/bold.py 01 temp_ae_11.txt changes_12.txt
+Case 01a, 320 entries changed: "\. ([0-9]+)@}" -> "@}. {@\1@}"
+Case 01b, 461 entries changed: "{@([^-][^@]+) -" -> "{@\1@} {@-"
+Case 01c, 13 entries changed: "{@(-[A-Z][a-z]+), (-[A-Z][a-z]+)@}" -> "{@\1@}, {
+Case 01d, 433 entries changed: "\.@}" -> "@}."
+Case 01e, 103 entries changed: ",@}" -> "@},"
+Case 01f, 142 entries changed: "{@([A-Z][a-z]*), ([A-Z][a-z]*)@}¦" -> "{@\1@}, {@\2@}¦"
+Case 01g, 13 entries changed: "{@-([A-Z][a-z]*), ?([A-Z][a-z]*)@}" -> "{@-1@}, {@\2@}"
+Case 01h, 222 entries changed: "{@-([a-z]*), ?-([a-z]*)@}" -> "{@-\1@}, {@-\2@}"
+Case 01i, 125 entries changed: "{%See%} {@([A-Z][a-z]*), ?([A-Z][a-z]*)@}" -> "{%See%} {@\1@}, {@\2@}"
+Case 01j, 68 entries changed: "{@(-[a-z]*), ?(-[A-Z][a-z]*)@}" -> "{@\1@}, {@\2@}"
+Case 01k, 23 entries changed: "{@(-[A-Z][a-z]*), ?(-[a-z]*)@}" -> "{@\1@}, {@\2@}"
+Case 01l, 121 entries changed: "{@([0-9]+) ([A-Z][a-z]*)@}" -> "{@\1@} {@\2@}"
+Case 01m, 26 entries changed: "{@(-[a-z]+), ([A-Z][a-z]+)@}" -> "{@\1@}, {@-\2@}"
+
+python updateByLine.py temp_ae_11.txt changes_12.txt temp_ae_12.txt
+1624 change transactions from changes_12.txt
+
+python clean/regex_instances.py 2 '{@[^@]*?@}' temp_ae_12.txt temp_regex_bold_12.txt
+14291 distinct instances found of regex= {@[^@]*?@}
+33897 total instances
+
+-------------------------------------------------------------
+uploading version 12.
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+Notes to AB:
+---
+old:
+<L>10463<pc>471<k1>to<k2>to
+{@To@}¦{@-night@}, {%adv.%} {#adya rAtrO, naktaM#}.
+new:
+<L>10463<pc>471<k1>to<k2>to
+{@To@}¦{@-night@}, {%adv.%} {#adya rAtrO, naktaM#}.
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
