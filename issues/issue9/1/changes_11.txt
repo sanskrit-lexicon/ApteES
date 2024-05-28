@@ -3379,9 +3379,9 @@
 79190 new {%s.%} {#prayAsaH, prayatnaH, vi-cezwA-cezwitaM, atiyatnaH; muktaprayatnaM mAM salilabiMdUnapAyayat#}
 ;---------------------------------------------------
 ; <L>9979<pc>452<k1>sturdy<k2>sturdy
-79335 old {@Sturdy@}¦ {%a.%} {#kaWina, kaWora; dfQAMga, prabala#}; {%See%}
+79335 old {@Sturdy@}¦, {%a.%} {#kaWina, kaWora; dfQAMga, prabala#}; {%See%}
 ;
-79335 new {@Sturdy@}¦ {%a.%} {#kaWina, kaWora; dfQAMga, prabala#}; {%See%} {@Stout@}.
+79335 new {@Sturdy@}¦, {%a.%} {#kaWina, kaWora; dfQAMga, prabala#}; {%See%} {@Stout@}.
 ;---------------------------------------------------
 ; <L>9979<pc>452<k1>sturdy<k2>sturdy
 79336 old {@Stout@}.

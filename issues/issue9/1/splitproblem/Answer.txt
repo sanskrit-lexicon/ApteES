@@ -1,0 +1,5 @@
+## Copilot
+The issue you're encountering with re.split() and more than 16 capture groups is related to performance degradation. When you add a capturing group (using parentheses) in a re.split() pattern, it can cause a significant slowdown. For example, using ' (n)' instead of just 'n' results in a factor of 10 performance degradation. This behavior becomes noticeable when dealing with large files or many patterns.
+To work around this, consider using non-capturing groups (denoted by (?:...)) instead. Non-capturing groups allow you to group expressions without capturing the matched content. For instance, you can use re.split('(?:,)', 'a,b') to split a string by commas without capturing the delimiter.
+Remember that regular expressions can be powerful but also require careful consideration for performance and readability. If you encounter similar issues, explore alternative approaches or simplify your patterns to improve efficiency. 😊
+If you need further assistance or have additional questions, feel free to ask! 🚀

@@ -1,4 +1,6 @@
 ; ***********************************************************
+; WARNING  This is probably obsolete, as it is not mentioned in
+;          readme_clean.txt 
 ; 01 : 414 entries, 796 lines changed.
 ;    'W1-<LB>-W2'  ->  'W1W2<LB>' 
 ; ***********************************************************

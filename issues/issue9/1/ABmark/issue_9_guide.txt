@@ -1,0 +1,7 @@
+" 🞄\n"	->	" 🞄"
+"🠚⧫"	->	"\t⧫"
+"🠚✦"	->	"\t✦"	;; for entries or `<div/>`s with header portion
+"⇨∆"	->	"\n\t∆"	;; for entries or `<div/>`s without header portion
+"Ⓝ"	->	"\nⓃ"
+"Ⓝ"	->	"`<div/>`"
+

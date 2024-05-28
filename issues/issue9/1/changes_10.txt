@@ -1,3 +1,8 @@
+; <L>1<pc>001<k1>a<k2>a
+3 old {@A, An@}¦ (As an article) not ex.; ‘a man’
+;
+3 new {@A, An@}¦, (As an article) not ex.; ‘a man’
+;---------------------------------------------------
 ; <L>9<pc>001<k1>abbreviate<k2>abbreviate
 63 old 6 P, {#samas#} 4 P, {#hras#} c. {@-ion@}, {%s.%} {#saMkzepaH-paNaM#}
 ;
@@ -92,6 +97,11 @@
 595 old {@Accretion@}¦, {%s.%} {%See%} ‘Increase,s’.
 ;
 595 new {@Accretion@}¦, {%s.%} {%See%} {@Increase@}, {%s.%}.
+;---------------------------------------------------
+; <L>81<pc>004<k1>accrue<k2>accrue
+599 old {@Accrue@}¦ {%v. i.%} {#utpad-jan#} 4 A, {#prAp#} pass. {@2@}
+;
+599 new {@Accrue@}¦, {%v. i.%} {#utpad-jan#} 4 A, {#prAp#} pass. {@2@}
 ;---------------------------------------------------
 ; <L>84<pc>004<k1>accumulate<k2>accumulate
 615 old {#vfD#} 1 A, {#rASIBU#}. 1 P. {@-ion@}, {%s.%} {#saMcayaH, rASI-karaRaM#}
@@ -207,6 +217,11 @@
 1159 old {#dA#} {@3@} U. - {%s.%} {#uccalanaM, pragamanaM, prayARaM#}. {@2@}
 ;
 1159 new {#dA#} 3 U. - {%s.%} {#uccalanaM, pragamanaM, prayARaM#}. {@2@}
+;---------------------------------------------------
+; <L>162<pc>008<k1>advert<k2>advert
+1213 old {@Advert@}¦ (to). {%v. i.%} {#udAhf#} 1 P, {#anulakz#} 10,
+;
+1213 new {@Advert (to)@}¦, {%v. i.%} {#udAhf#} 1 P, {#anulakz#} 10,
 ;---------------------------------------------------
 ; <L>162<pc>008<k1>advert<k2>advert
 1216 old {#avaDAnaM dA#} 3 U. {@-euce@}, {%s.%} {#avaDAnaM, ava-hitatA, manoyogaH, avekzA#}
@@ -558,6 +573,11 @@
 ;
 2902 new 
 ;---------------------------------------------------
+; <L>430<pc>016<k1>antipyrin<k2>antipyrin
+2906 old {@Antipyrin@}¦ (e), {%s.%} {#jvaraGnaM OzaDaM#}.
+;
+2906 new {@Antipyrin (Antipyrine)@}¦, {%s.%} {#jvaraGnaM OzaDaM#}.
+;---------------------------------------------------
 ; <L>434<pc>016<k1>antithesis<k2>antithesis
 2927 old {@Antithesis@}¦, {%s.%} {#pratipakzatA, viroDaH, arTavE-parItyaM#}
 ;
@@ -627,6 +647,11 @@
 3211 old {@2@} P; ‘this our title does not a. to any one else’
 ;
 3211 new 2 P; ‘this our title does not a. to any one else’
+;---------------------------------------------------
+; <L>486<pc>018<k1>apprise<k2>apprise
+3295 old {@Apprise@}¦ (of), {%See%} {@Inform@}.
+;
+3295 new {@Apprise (of)@}¦, {%See%} {@Inform@}.
 ;---------------------------------------------------
 ; <L>503<pc>018<k1>arbour<k2>arbour
 3419 old {@Arbour@}¦, {%s.%} {#latAgfhaM, kuMjaH, nikuMjaH-jaM, parRa-SAlA#}
@@ -782,6 +807,11 @@
 3967 old .
 ;
 3967 new 
+;---------------------------------------------------
+; <L>591<pc>022<k1>assimulate<k2>assimulate
+4062 old {@Assimulate@}¦ {%See%} {@Pretend@}.
+;
+4062 new {@Assimulate@}¦, {%See%} {@Pretend@}.
 ;---------------------------------------------------
 ; <L>598<pc>022<k1>assure<k2>assure
 4126 old ‘I a. feel’, ‘I feel a. ed’ {#iti me niSca-yaH, dfQaM manye#}
@@ -947,6 +977,21 @@
 4830 old .
 ;
 4830 new 
+;---------------------------------------------------
+; <L>717<pc>026<k1>aye<k2>aye
+4893 old {@Aye@}¦ {%adv.%} {#sadA, sarvadA, ajasraM#}.
+;
+4893 new {@Aye@}¦, {%adv.%} {#sadA, sarvadA, ajasraM#}.
+;---------------------------------------------------
+; <L>723<pc>026<k1>bacchanal<k2>bacchanal
+4924 old {@Bacchanal@}¦ {%s.%} {#madyapAnAsaktaH, madyapriyaH#},
+;
+4924 new {@Bacchanal@}¦, {%s.%} {#madyapAnAsaktaH, madyapriyaH#},
+;---------------------------------------------------
+; <L>724<pc>026<k1>bacchanalian<k2>bacchanalian
+4929 old {@Bacchanalian@}¦ {%s.%} {#madyapAnAsaktaH, madyapriyaH#},
+;
+4929 new {@Bacchanalian@}¦, {%s.%} {#madyapAnAsaktaH, madyapriyaH#},
 ;---------------------------------------------------
 ; <L>733<pc>027<k1>baffle<k2>baffle
 5016 old {@-ed@}, {%a.%} {#KaMqita, BagnASa, mo-GASa; parAjita#}
@@ -2903,6 +2948,21 @@
 ;
 17291 new 3 U (with dat.), {#AkruS#} 1 P; {#garh#} 1,
 ;---------------------------------------------------
+; <L>2509<pc>090<k1>curtain<k2>curtain
+17317 old {@Curtain@}¦ {%s.%} {#ja(ya)vanikA, tiraskariRI#},
+;
+17317 new {@Curtain@}¦, {%s.%} {#ja(ya)vanikA, tiraskariRI#},
+;---------------------------------------------------
+; <L>2510<pc>090<k1>curtsy<k2>curtsy
+17325 old {@Curtsy@}¦ {%See%} {@Courtesy@} under
+;
+17325 new {@Curtsy@}¦, {%See%} {@Courtesy@} under
+;---------------------------------------------------
+; <L>2511<pc>090<k1>curtsey<k2>curtsey
+17330 old {@Curtsey@}¦ {%See%} {@Courtesy@} under
+;
+17330 new {@Curtsey@}¦, {%See%} {@Courtesy@} under
+;---------------------------------------------------
 ; <L>2518<pc>091<k1>cut<k2>cut
 17407 old {#dalaM#}. - {%a.%} {#tIvra, tIkzRa, marmaBedin, marmaspfS-Cid, aruMtuda#}
 ;
@@ -3163,6 +3223,11 @@
 ;
 18837 new ‘d. s consideration’; ‘this offence d. a an atonement of serious expense’
 ;---------------------------------------------------
+; <L>2700<pc>099<k1>demean<k2>demean
+18852 old {@Demean@}¦ (oneself), {%v. i.%} {#vfttiM anuzWA#}
+;
+18852 new {@Demean (oneself)@}¦, {%v. i.%} {#vfttiM anuzWA#}
+;---------------------------------------------------
 ; <L>2704<pc>099<k1>demigod<k2>demigod
 18872 old {@Demi-god@}¦, {%s.%} {#naradevaH, vidyADaraH, yakzaH, gaMDarvaH#},
 ;
@@ -3208,6 +3273,16 @@
 ;
 18958 new 
 ;---------------------------------------------------
+; <L>2724<pc>100<k1>denovean<k2>denovean
+19014 old {@Denovean@}¦ {%adv.%} {#punar, BUyaH#}.
+;
+19014 new {@Denovean@}¦, {%adv.%} {#punar, BUyaH#}.
+;---------------------------------------------------
+; <L>2725<pc>100<k1>denovo<k2>denovo
+19018 old {@Denovo@}¦ {%adv.%} {#punar, BUyaH#}.
+;
+19018 new {@Denovo@}¦, {%adv.%} {#punar, BUyaH#}.
+;---------------------------------------------------
 ; <L>2729<pc>100<k1>dented<k2>dented
 19037 old {@Dented, Dentated@}¦, {%a.%} {#daMtura, BaMgura, anu-krakaca#}
 ;
@@ -3217,6 +3292,11 @@
 19038 old .
 ;
 19038 new 
+;---------------------------------------------------
+; <L>2737<pc>100<k1>deodorize<k2>deodorize
+19081 old {@Deodorize@}¦ {%v. t.%} {#durgaMDaM hf#} or {#apanI#} 1 P.
+;
+19081 new {@Deodorize@}¦, {%v. t.%} {#durgaMDaM hf#} or {#apanI#} 1 P.
 ;---------------------------------------------------
 ; <L>2740<pc>100<k1>depend<k2>depend
 19133 old {#upa-anu-jIvin#} {%m.%}, {#ASritaH, parA-yatto janaH, BftyaH, parivAraH#}
@@ -3599,9 +3679,9 @@
 20701 new 
 ;---------------------------------------------------
 ; <L>2956<pc>111<k1>discompose<k2>discompose
-20896 old 
+20895 old {@-ure@}, {%s.%} {#kzoBaH, Akula-tvaM, vyagratA, vEklavyaM, udvegaH, asvAsTyaM, a-sTiratA#}
 ;
-20896 new .
+20895 new {@-ure@}, {%s.%} {#kzoBaH, Akula-tvaM, vyagratA, vEklavyaM, udvegaH, asvAsTyaM, a-sTiratA#}.
 ;---------------------------------------------------
 ; <L>2956<pc>111<k1>discompose<k2>discompose
 20897 old .
@@ -4264,9 +4344,9 @@
 23768 new 
 ;---------------------------------------------------
 ; <L>3311<pc>128<k1>eccentric<k2>eccentric
-23849 old 
+23848 old {#keMdraBrazwa-cyuta#}. {@-ity@}, {%s.%} {#vEzamyaM, utsUtratA, vEla-kzaRyaM, sAmAnyaviroDaH, lokAcAra-vyavahAra-viroDaH#}
 ;
-23849 new .
+23848 new {#keMdraBrazwa-cyuta#}. {@-ity@}, {%s.%} {#vEzamyaM, utsUtratA, vEla-kzaRyaM, sAmAnyaviroDaH, lokAcAra-vyavahAra-viroDaH#}.
 ;---------------------------------------------------
 ; <L>3311<pc>128<k1>eccentric<k2>eccentric
 23850 old .
@@ -4484,9 +4564,9 @@
 25719 new {%See%} {@Call@} 2 {#aDikAraM dA#} 3 P; {#aDikf#} 8 U;
 ;---------------------------------------------------
 ; <L>3581<pc>138<k1>enumerate<k2>enumerate
-25794 old 
+25793 old or {#nirdiS#} 6 P. {@-ion@}, {%s.%} {#pari-, saMKyAnaM, ga-RanaM-nA, parikIrtanaM, AKyAnaM, kaTanaM, ekE-kaSaH nirdeSaH#}
 ;
-25794 new .
+25793 new or {#nirdiS#} 6 P. {@-ion@}, {%s.%} {#pari-, saMKyAnaM, ga-RanaM-nA, parikIrtanaM, AKyAnaM, kaTanaM, ekE-kaSaH nirdeSaH#}.
 ;---------------------------------------------------
 ; <L>3581<pc>138<k1>enumerate<k2>enumerate
 25795 old .
@@ -4924,9 +5004,9 @@
 28150 new {@Fagend@}¦, {%s.%} {#aMtaH, avasAnasamayaH#}. {@2@} {#SezaH-zaM#},
 ;---------------------------------------------------
 ; <L>3871<pc>152<k1>fail<k2>fail
-28186 old 
+28185 old {#saMtaticCedaH#}. {@4@} {#upekzA-kzaRaM, a-nanuzWAnaM, pramAdaH, upAtyayaH, atipAtaH, vyati-kramaH, lopanaM#}
 ;
-28186 new .
+28185 new {#saMtaticCedaH#}. {@4@} {#upekzA-kzaRaM, a-nanuzWAnaM, pramAdaH, upAtyayaH, atipAtaH, vyati-kramaH, lopanaM#}.
 ;---------------------------------------------------
 ; <L>3871<pc>152<k1>fail<k2>fail
 28187 old .
@@ -4944,9 +5024,9 @@
 28250 new 
 ;---------------------------------------------------
 ; <L>3875<pc>153<k1>faith<k2>faith
-28261 old 
+28260 old {@2@} {#viSvAsaBaMgaH-GAtaH, aBakti#} {@3@} {%f.%} {#pratijYA-BaMgaH, samayavyatikramaH, asatyasaMDatA, vrata-lopanaM#}
 ;
-28261 new .
+28260 new {@2@} {#viSvAsaBaMgaH-GAtaH, aBakti#} {@3@} {%f.%} {#pratijYA-BaMgaH, samayavyatikramaH, asatyasaMDatA, vrata-lopanaM#}.
 ;---------------------------------------------------
 ; <L>3875<pc>153<k1>faith<k2>faith
 28262 old .
@@ -5234,9 +5314,9 @@
 30023 new 
 ;---------------------------------------------------
 ; <L>4082<pc>163<k1>flatter<k2>flatter
-30077 old 
+30076 old {#stavaH, cAwu#} {%m.%} {%n.%}, {#cAwUkti#} {%f.%}, {#atipraSaMsA, sAM-tvanaM-nA, upalAlanaM, maDura-priya-vacanaM, sAMtva-vAdaH, miTyApraSaMsA, vyAjastutiH, cAwuvAdaH#}
 ;
-30077 new .
+30076 new {#stavaH, cAwu#} {%m.%} {%n.%}, {#cAwUkti#} {%f.%}, {#atipraSaMsA, sAM-tvanaM-nA, upalAlanaM, maDura-priya-vacanaM, sAMtva-vAdaH, miTyApraSaMsA, vyAjastutiH, cAwuvAdaH#}.
 ;---------------------------------------------------
 ; <L>4082<pc>163<k1>flatter<k2>flatter
 30078 old .
@@ -5272,6 +5352,11 @@
 30258 old .
 ;
 30258 new 
+;---------------------------------------------------
+; <L>4112<pc>165<k1>flitter<k2>flitter
+30285 old {@Flitter@}¦ {%s.%} {#cIraM, karpawaH, vastraKaMqaH-qaM#}.
+;
+30285 new {@Flitter@}¦, {%s.%} {#cIraM, karpawaH, vastraKaMqaH-qaM#}.
 ;---------------------------------------------------
 ; <L>4116<pc>165<k1>flock<k2>flock
 30307 old {#ajAvikaM#}; ‘in f s’ {#gaRaSaH, saMGa-SaH#}.
@@ -5404,9 +5489,9 @@
 31189 new 
 ;---------------------------------------------------
 ; <L>4218<pc>170<k1>forlorn<k2>forlorn
-31214 old 
+31213 old 
 ;
-31214 new .
+31213 new .
 ;---------------------------------------------------
 ; <L>4218<pc>170<k1>forlorn<k2>forlorn
 31215 old .
@@ -5459,9 +5544,9 @@
 31391 new 
 ;---------------------------------------------------
 ; <L>4255<pc>172<k1>fragrant<k2>fragrant
-31530 old 
+31529 old {@Fragrant@}¦, {%a.%} {#suraBi, sugaMDi, suvAsa, Amoda-parimala-vat, suvAsika, sAmoda, parimalo-dgArin, gaMDayukta, gaMDavat; tikta, kazAya#}
 ;
-31530 new .
+31529 new {@Fragrant@}¦, {%a.%} {#suraBi, sugaMDi, suvAsa, Amoda-parimala-vat, suvAsika, sAmoda, parimalo-dgArin, gaMDayukta, gaMDavat; tikta, kazAya#}.
 ;---------------------------------------------------
 ; <L>4255<pc>172<k1>fragrant<k2>fragrant
 31531 old .
@@ -5581,7 +5666,7 @@
 ; <L>4390<pc>178<k1>gallinaceous<k2>gallinaceous
 32616 old {@Gallinaceous@}¦ (fowl), {%s.%} {#kukkuwaH, tAmra-cUqaH, caraRAyuDaH#}
 ;
-32616 new {@Gallinaceous@}¦ (fowl), {%s.%} {#kukkuwaH, tAmra-cUqaH, caraRAyuDaH#}.
+32616 new {@Gallinaceous (fowl)@}¦, {%s.%} {#kukkuwaH, tAmra-cUqaH, caraRAyuDaH#}.
 ;---------------------------------------------------
 ; <L>4390<pc>178<k1>gallinaceous<k2>gallinaceous
 32617 old .
@@ -5609,9 +5694,9 @@
 32794 new 
 ;---------------------------------------------------
 ; <L>4437<pc>180<k1>gather<k2>gather
-32907 old 
+32906 old {@2@} {#samUhaH, gaRaH, saMGaH, sa-mAgamaH, nivahaH, saMGAtaH; janasamUhaH, loka-nivahaH-saMGaH#}
 ;
-32907 new .
+32906 new {@2@} {#samUhaH, gaRaH, saMGaH, sa-mAgamaH, nivahaH, saMGAtaH; janasamUhaH, loka-nivahaH-saMGaH#}.
 ;---------------------------------------------------
 ; <L>4437<pc>180<k1>gather<k2>gather
 32908 old .
@@ -5741,7 +5826,7 @@
 ; <L>4512<pc>183<k1>girdle<k2>girdle
 33467 old ., {@3@}
 ;
-33467 new , {@3@}
+33467 new {@3@}
 ;---------------------------------------------------
 ; <L>4528<pc>184<k1>glare<k2>glare
 33616 old {@Glare@}¦, {%s.%} {#tejas#} {%n.%}, {#dIpti#} {%f.%}, {#dyuti#} {%f.%}, {#praKara-ati-tejaH, atipraBA-dyutiH-dIptiH, netrapratiGA-tinI praBA#}
@@ -5838,6 +5923,11 @@
 ;
 34282 new 
 ;---------------------------------------------------
+; <L>4614<pc>188<k1>gramarie<k2>gramarie
+34371 old {@Gramarie@}¦ ({@y@}) ({@ye@}), {%s.%} {#mAyA, iMdrajAlaM#}.
+;
+34371 new {@Gramarie@} ({@Gramary@}) ({@Gramarye@})¦, {%s.%} {#mAyA, iMdrajAlaM#}.
+;---------------------------------------------------
 ; <L>4626<pc>189<k1>graphic<k2>graphic
 34465 old {@Graphic@}¦, {%a.%} {#spazwa, arTavat, suliKita, su-citrita, sunirdizwa#}
 ;
@@ -5924,9 +6014,9 @@
 34925 new 
 ;---------------------------------------------------
 ; <L>4691<pc>192<k1>gruel<k2>gruel
-35032 old 
+35031 old {#taralA#}; ‘sour g.’ {#AranAlakaM, sOvIraM, ku-lmAzABizutaM, avaMtIsomaM, DAnyAmlaM, kuMjalaM-kAMjikaM#}
 ;
-35032 new .
+35031 new {#taralA#}; ‘sour g.’ {#AranAlakaM, sOvIraM, ku-lmAzABizutaM, avaMtIsomaM, DAnyAmlaM, kuMjalaM-kAMjikaM#}.
 ;---------------------------------------------------
 ; <L>4691<pc>192<k1>gruel<k2>gruel
 35033 old .
@@ -6002,6 +6092,16 @@
 35427 old {#reKAmAtramapi#}; ‘a h -breadth escape’
 ;
 35427 new {#reKAmAtramapi#}; ‘a h. -breadth escape’
+;---------------------------------------------------
+; <L>4754<pc>194<k1>half<k2>half
+35456 old ‘h.-blood’ {#Binnodara, Binna-garBa, anyodarya#}
+;
+35456 new ‘h.-blood’ {#Binnodara, Binna-garBa, anyodarya#};
+;---------------------------------------------------
+; <L>4754<pc>194<k1>half<k2>half
+35457 old ; ‘h. -dead’ {#mftakalpa-prAya#},
+;
+35457 new ‘h. -dead’ {#mftakalpa-prAya#},
 ;---------------------------------------------------
 ; <L>4774<pc>196<k1>handsome<k2>handsome
 35655 old {@Beautiful, 2@} {#vipula, yaTezwa, pracura#}. {@3@} {#udAra#},
@@ -6319,9 +6419,9 @@
 37580 new 
 ;---------------------------------------------------
 ; <L>4995<pc>207<k1>horripilate<k2>horripilate
-37601 old 
+37600 old {#romAMcita#}. {@-ion@}, {%s.%} {#pulakaH, romAMcaH, roma-harzaH-rzaRaM, romodgamaH-dgatatvaM, pulakodBedaH, udDa-rzaRaM#}
 ;
-37601 new .
+37600 new {#romAMcita#}. {@-ion@}, {%s.%} {#pulakaH, romAMcaH, roma-harzaH-rzaRaM, romodgamaH-dgatatvaM, pulakodBedaH, udDa-rzaRaM#}.
 ;---------------------------------------------------
 ; <L>4995<pc>207<k1>horripilate<k2>horripilate
 37602 old .
@@ -6528,6 +6628,11 @@
 ;
 38269 new 
 ;---------------------------------------------------
+; <L>5084<pc>211<k1>hyp<k2>hyp
+38312 old {@Hyp@}¦ {%s.%} {%See%} {@Dejection@}.
+;
+38312 new {@Hyp@}¦, {%s.%} {%See%} {@Dejection@}.
+;---------------------------------------------------
 ; <L>5089<pc>211<k1>hypochondria<k2>hypochondria
 38338 old {@2@} {#vizAdaH, udvegaH, avasAdaH#}. {@-cal@}, {%a.%} {#pitto-nmAdin, vizaRRa#}
 ;
@@ -6644,9 +6749,9 @@
 39022 new 
 ;---------------------------------------------------
 ; <L>5178<pc>216<k1>impartial<k2>impartial
-39075 old 
+39074 old {@Impartial@}¦, {%a.%} {#apakzapAtin, samakriya, samada-rSin, samavfttiBAva, udAsIna, muktasaMga, sarva-sama, pakzapAtahIna, nyAyavartin, nyAyya, Darmya#}
 ;
-39075 new .
+39074 new {@Impartial@}¦, {%a.%} {#apakzapAtin, samakriya, samada-rSin, samavfttiBAva, udAsIna, muktasaMga, sarva-sama, pakzapAtahIna, nyAyavartin, nyAyya, Darmya#}.
 ;---------------------------------------------------
 ; <L>5178<pc>216<k1>impartial<k2>impartial
 39076 old .
@@ -6728,6 +6833,11 @@
 ;
 39474 new {#gata-pracalita-viBava#}; {%See%} {@Poor@}. {@-ment@}, {%s.%}
 ;---------------------------------------------------
+; <L>5236<pc>218<k1>impregnate<k2>impregnate
+39496 old {@Impregnate@}¦ {%v. t.%} {#sic#} 6 P, {#ni-A°-, pra-kzip#}
+;
+39496 new {@Impregnate@}¦, {%v. t.%} {#sic#} 6 P, {#ni-A°-, pra-kzip#}
+;---------------------------------------------------
 ; <L>5244<pc>218<k1>improve<k2>improve
 39578 old {#prAp#} 5 P, {#Sreyas-Badratara#} -{%a.%} {#BU#} ‘has i. ed [Page219] in health’
 ;
@@ -6743,10 +6853,20 @@
 ;
 39606 new 
 ;---------------------------------------------------
-; <L>5248<pc>219<k1>impudent<k2>impudent
-39623 old 
+; <L>5247<pc>219<k1>imprudent<k2>imprudent
+39608 old better by ‘i.-ly’. {@-ly@}, {%adv.%} {#avi-mfSya#}
 ;
-39623 new .
+39608 new better by ‘i.-ly’. {@-ly@}, {%adv.%} {#avi-mfSya#};
+;---------------------------------------------------
+; <L>5247<pc>219<k1>imprudent<k2>imprudent
+39609 old ; {#asamIkzya, avicArya, anAlocitaM#},
+;
+39609 new {#asamIkzya, avicArya, anAlocitaM#},
+;---------------------------------------------------
+; <L>5248<pc>219<k1>impudent<k2>impudent
+39622 old {%s.%} {#DfzwatA, DArzwyaM, vEyAtyaM, prA-galByaM, avinayaH, alajjA, nirlajjatA, prati-BA-BAnaM#}
+;
+39622 new {%s.%} {#DfzwatA, DArzwyaM, vEyAtyaM, prA-galByaM, avinayaH, alajjA, nirlajjatA, prati-BA-BAnaM#}.
 ;---------------------------------------------------
 ; <L>5248<pc>219<k1>impudent<k2>impudent
 39624 old .
@@ -6873,6 +6993,11 @@
 ;
 40252 new 
 ;---------------------------------------------------
+; <L>5345<pc>222<k1>inconvenient<k2>inconvenient
+40256 old {@Inconvenient@}¦ {%a.%} {#anupayukta, anucita, a-paryApta, ayogya; ahita, asuKakara#},
+;
+40256 new {@Inconvenient@}¦, {%a.%} {#anupayukta, anucita, a-paryApta, ayogya; ahita, asuKakara#},
+;---------------------------------------------------
 ; <L>5350<pc>222<k1>incorrigible<k2>incorrigible
 40291 old {@Incorrigible@}¦, {%a.%} {#aSoDya, asamADeya, Si-kzAtIta, asADya, apratisamADeya#}
 ;
@@ -6949,9 +7074,9 @@
 40524 new 
 ;---------------------------------------------------
 ; <L>5388<pc>223<k1>independent<k2>independent
-40538 old 
+40537 old &c. {@-ly@}, {%adv.%} {#svAtaM-tryeRa, svEraM, svecCayA, svacCaMdaM, anAyattaM, ya-dfcCayA, yaTezwaM, yaTAkAmaM, svataMtraM, anyanira-pekzaM#}
 ;
-40538 new .
+40537 new &c. {@-ly@}, {%adv.%} {#svAtaM-tryeRa, svEraM, svecCayA, svacCaMdaM, anAyattaM, ya-dfcCayA, yaTezwaM, yaTAkAmaM, svataMtraM, anyanira-pekzaM#}.
 ;---------------------------------------------------
 ; <L>5388<pc>223<k1>independent<k2>independent
 40539 old .
@@ -7039,9 +7164,9 @@
 40792 new 
 ;---------------------------------------------------
 ; <L>5427<pc>225<k1>industry<k2>industry
-40859 old 
+40858 old {#sodyoga, sotsAha, analasa, kAryAsakta, karma-SIla, karmanizWa, karmAsakta, karmaSUra, kriyA-parAyaRa, ataMdrita, udyukta, udyata, karmaprasita#}
 ;
-40859 new .
+40858 new {#sodyoga, sotsAha, analasa, kAryAsakta, karma-SIla, karmanizWa, karmAsakta, karmaSUra, kriyA-parAyaRa, ataMdrita, udyukta, udyata, karmaprasita#}.
 ;---------------------------------------------------
 ; <L>5427<pc>225<k1>industry<k2>industry
 40860 old .
@@ -7224,9 +7349,9 @@
 41712 new 
 ;---------------------------------------------------
 ; <L>5544<pc>230<k1>innuendo<k2>innuendo
-41721 old 
+41720 old {@Innuendo@}¦, {%s.%} {#BaMgi-gI#} {%f.%}, {#vakrokti#} {%f.%}, {#vyaM-goktiH, BaMgyuktiH, CekoktiH, vakra-BaMgi-BAzitaM#}
 ;
-41721 new .
+41720 new {@Innuendo@}¦, {%s.%} {#BaMgi-gI#} {%f.%}, {#vakrokti#} {%f.%}, {#vyaM-goktiH, BaMgyuktiH, CekoktiH, vakra-BaMgi-BAzitaM#}.
 ;---------------------------------------------------
 ; <L>5544<pc>230<k1>innuendo<k2>innuendo
 41722 old .
@@ -7377,6 +7502,11 @@
 42168 old ‘by i s’ {#aMSAMSataH, viBAgaSaH, BAgataH#}.
 ;
 42168 new ‘by i. s’ {#aMSAMSataH, viBAgaSaH, BAgataH#}.
+;---------------------------------------------------
+; <L>5609<pc>232<k1>instead<k2>instead
+42215 old {@Instead@}¦ (of), {%prep.%}, {%adv.%} (Before nouns)
+;
+42215 new {@Instead (of)@}¦, {%prep.%}, {%adv.%} (Before nouns)
 ;---------------------------------------------------
 ; <L>5612<pc>233<k1>instigate<k2>instigate
 42244 old {@-or@}, {%s.%} {#protsAhakaH, pravartakaH, utte-jakaH, prerakaH#}
@@ -7559,9 +7689,9 @@
 42965 new 
 ;---------------------------------------------------
 ; <L>5704<pc>237<k1>intimate<k2>intimate
-42997 old 
+42996 old {%s.%} {#gAQasOhfdaM, suparicayaH, dfQa-saMsargaH-saMyogaH, saMstavaH, atimitratA-praRayaH-saKyaM, atyAsaMgaH, atiparicayaH#}
 ;
-42997 new .
+42996 new {%s.%} {#gAQasOhfdaM, suparicayaH, dfQa-saMsargaH-saMyogaH, saMstavaH, atimitratA-praRayaH-saKyaM, atyAsaMgaH, atiparicayaH#}.
 ;---------------------------------------------------
 ; <L>5704<pc>237<k1>intimate<k2>intimate
 42998 old .
@@ -7604,9 +7734,9 @@
 43159 new 
 ;---------------------------------------------------
 ; <L>5738<pc>238<k1>invade<k2>invade
-43221 old 
+43220 old {@Enemy@}, q. v. {@-Invasion@}, {%s.%} {#AkramaH-maRaM, avaskaMdaH, aBidravaH, upaplavaH, aBi-prayARaM, aBiyogaH, ApAtaH#}
 ;
-43221 new .
+43220 new {@Enemy@}, q. v. {@-Invasion@}, {%s.%} {#AkramaH-maRaM, avaskaMdaH, aBidravaH, upaplavaH, aBi-prayARaM, aBiyogaH, ApAtaH#}.
 ;---------------------------------------------------
 ; <L>5738<pc>238<k1>invade<k2>invade
 43222 old .
@@ -8184,14 +8314,19 @@
 45785 new 
 ;---------------------------------------------------
 ; <L>6087<pc>253<k1>lavish<k2>lavish
-45849 old 
+45848 old {#aparimitaM, atyaMtaM#}. {@-ment, -ness@}, {%s.%} {#ati-aparimita-vyayaH, mahAvyayaH, atityAgaH, a-tyutsargaH, muktahastatvaM, bahupradatvaM#}
 ;
-45849 new .
+45848 new {#aparimitaM, atyaMtaM#}. {@-ment, -ness@}, {%s.%} {#ati-aparimita-vyayaH, mahAvyayaH, atityAgaH, a-tyutsargaH, muktahastatvaM, bahupradatvaM#}.
 ;---------------------------------------------------
 ; <L>6087<pc>253<k1>lavish<k2>lavish
 45850 old .
 ;
 45850 new 
+;---------------------------------------------------
+; <L>6088<pc>253<k1>law<k2>law
+45854 old {@Law@}¦ {%s.%} {#DarmaH, smfti#} {%f.%}, {#vyavahAraH, AcAraH#};
+;
+45854 new {@Law@}¦, {%s.%} {#DarmaH, smfti#} {%f.%}, {#vyavahAraH, AcAraH#};
 ;---------------------------------------------------
 ; <L>6088<pc>253<k1>law<k2>law
 45886 old {#svEragati, avaSa, kAmacAra, uddAmavftti; durA-cAra, nirmaryAda, aSizwa, AcAra-Darma-Brazwa#}
@@ -8224,9 +8359,9 @@
 45979 new 
 ;---------------------------------------------------
 ; <L>6094<pc>254<k1>lazy<k2>lazy
-45989 old 
+45988 old {#AlasyaM, mAMdyaM, jAqyaM, jaqatA, taMdrikA, taM-drAlutA, kAryadvezaH, anudyogaSIlatA, utsAha-vimuKatA, alasaSIlatA#}
 ;
-45989 new .
+45988 new {#AlasyaM, mAMdyaM, jAqyaM, jaqatA, taMdrikA, taM-drAlutA, kAryadvezaH, anudyogaSIlatA, utsAha-vimuKatA, alasaSIlatA#}.
 ;---------------------------------------------------
 ; <L>6094<pc>254<k1>lazy<k2>lazy
 45990 old .
@@ -8307,6 +8442,16 @@
 46419 old 4 U; ‘l. money’ {#fRaM dA#} ‘l. money at [Page257] interest’
 ;
 46419 new 4 U; ‘l. money’ {#fRaM dA#} ‘l. money at interest’ [Page257]
+;---------------------------------------------------
+; <L>6159<pc>257<k1>letter<k2>letter
+46588 old {@3@} {#SabdArTaH, akzarArTaH, vA-cyArTaH, vacanaM#}
+;
+46588 new {@3@} {#SabdArTaH, akzarArTaH, vA-cyArTaH, vacanaM#};
+;---------------------------------------------------
+; <L>6159<pc>257<k1>letter<k2>letter
+46589 old ; ‘obey orders to the l.’
+;
+46589 new ‘obey orders to the l.’
 ;---------------------------------------------------
 ; <L>6163<pc>258<k1>level<k2>level
 46628 old {@-ness@}, {%s.%} {#samatA, sAmyaM, samaBUmi-BAvaH#}
@@ -8398,6 +8543,11 @@
 ;
 47094 new 
 ;---------------------------------------------------
+; <L>6223<pc>262<k1>linch<k2>linch
+47277 old {@Linch@}¦ {@-pin@}, {%s.%} {#akzAgrakIlaH, a(A)RiH#},
+;
+47277 new {@Linchpin@}, {%s.%} {#akzAgrakIlaH, a(A)RiH#},
+;---------------------------------------------------
 ; <L>6236<pc>263<k1>linseywoolsey<k2>linseywoolsey
 47402 old {@Linsey-woolsey@}¦, {%a.%} {#kzOmOrRa#}. {@2@} {#asAra#},
 ;
@@ -8484,9 +8634,9 @@
 47715 new 
 ;---------------------------------------------------
 ; <L>6273<pc>265<k1>loadstone<k2>loadstone
-47761 old 
+47760 old {@Loadstone@}¦, {%s.%} {#ayaskAMtaH, ayomaRiH, loha-kAMtaH, cuMbakaH, lohacuMbakaH, cuMbakaprastaraH-maRiH#}
 ;
-47761 new .
+47760 new {@Loadstone@}¦, {%s.%} {#ayaskAMtaH, ayomaRiH, loha-kAMtaH, cuMbakaH, lohacuMbakaH, cuMbakaprastaraH-maRiH#}.
 ;---------------------------------------------------
 ; <L>6273<pc>265<k1>loadstone<k2>loadstone
 47762 old .
@@ -8769,9 +8919,9 @@
 48941 new 
 ;---------------------------------------------------
 ; <L>6395<pc>273<k1>madder<k2>madder
-48985 old 
+48984 old {@Madder@}¦, {%s.%} {#maMjizWA, vikasA-zA, jiMgI, sa-maMgA, kAlameSi(zi)kA, maMqUkaparRI, maMqi-(qI)rI, BaMqI, yojanavallI#}
 ;
-48985 new .
+48984 new {@Madder@}¦, {%s.%} {#maMjizWA, vikasA-zA, jiMgI, sa-maMgA, kAlameSi(zi)kA, maMqUkaparRI, maMqi-(qI)rI, BaMqI, yojanavallI#}.
 ;---------------------------------------------------
 ; <L>6395<pc>273<k1>madder<k2>madder
 48986 old .
@@ -8978,6 +9128,16 @@
 ;
 49911 new 
 ;---------------------------------------------------
+; <L>6507<pc>279<k1>marking<k2>marking
+49954 old <L>6507<pc>279<k1>marking<k2>marking
+;
+49954 new <L>6507<pc>279<k1>markingink<k2>markingink
+;---------------------------------------------------
+; <L>6507<pc>279<k1>marking<k2>marking
+49955 old {@Marking@}¦ {@-ink@}, {%s.%} {#akzayyamasI#}.
+;
+49955 new {@Markingink@}¦, {%s.%} {#akzayyamasI#}.
+;---------------------------------------------------
 ; <L>6513<pc>279<k1>marquee<k2>marquee
 49979 old {@Marquee@}¦, {%s.%} {#pawavAsaH-maMqapaH, upakAryA, vastra-gfhaM#}
 ;
@@ -9002,6 +9162,11 @@
 50120 old .
 ;
 50120 new 
+;---------------------------------------------------
+; <L>6540<pc>281<k1>material<k2>material
+50268 old {@Material@}¦ &c., {%See%} under {@Matter@}.
+;
+50268 new {@Material@}¦, &c., {%See%} under {@Matter@}.
 ;---------------------------------------------------
 ; <L>6542<pc>281<k1>mathematics<k2>mathematics
 50283 old {@-ian@}, {%s.%} {#gaRitavidyAjYaH, ga-RitaSAstrajYaH-vid, gaRitajYaH#}
@@ -9058,10 +9223,15 @@
 ;
 50621 new 
 ;---------------------------------------------------
-; <L>6577<pc>283<k1>meddle<k2>meddle
-50643 old 
+; <L>6576<pc>283<k1>medal<k2>medal
+50629 old {@Medal@}¦ {%s.%} {#mudrA, kIrtimudrA, pratizWAmudrA#}. {@-list@},
 ;
-50643 new .
+50629 new {@Medal@}¦, {%s.%} {#mudrA, kIrtimudrA, pratizWAmudrA#}. {@-list@},
+;---------------------------------------------------
+; <L>6577<pc>283<k1>meddle<k2>meddle
+50642 old {@-someness@}, {%s.%} {#parakAryacarcA parADikAra-nirUpaRaM-praveSaH, avyApArezu vyApAraH, anyA-DikAracarcA-niyogaH-nirUpaRaM#}
+;
+50642 new {@-someness@}, {%s.%} {#parakAryacarcA parADikAra-nirUpaRaM-praveSaH, avyApArezu vyApAraH, anyA-DikAracarcA-niyogaH-nirUpaRaM#}.
 ;---------------------------------------------------
 ; <L>6577<pc>283<k1>meddle<k2>meddle
 50644 old .
@@ -9169,9 +9339,9 @@
 51269 new 
 ;---------------------------------------------------
 ; <L>6655<pc>287<k1>metaphysic<k2>metaphysic
-51318 old 
+51317 old {#AnvIkzikIjYaH#}. {@-Metaphysics@}, {%s.%} {#A-nvIkzikI, Atma-aDyAtma-vidyA, Atmaviza-yakaM jYAnaM, AtmatatvavidyA-SAstraM#}
 ;
-51318 new .
+51317 new {#AnvIkzikIjYaH#}. {@-Metaphysics@}, {%s.%} {#A-nvIkzikI, Atma-aDyAtma-vidyA, Atmaviza-yakaM jYAnaM, AtmatatvavidyA-SAstraM#}.
 ;---------------------------------------------------
 ; <L>6655<pc>287<k1>metaphysic<k2>metaphysic
 51319 old .
@@ -9214,9 +9384,29 @@
 51437 new {@Microcosm@}¦, {%s.%} {#sUkzmaM jagat#}.
 ;---------------------------------------------------
 ; <L>6680<pc>287<k1>mid<k2>mid
+51467 old ‘the m. classes’ {#maDyama-jAtIyAH#}
+;
+51467 new ‘the m. classes’ {#maDyama-jAtIyAH#};,
+;---------------------------------------------------
+; <L>6680<pc>287<k1>mid<k2>mid
+51468 old ;, {#maDyamavarRAH#}; ‘m. -aged’ {#maDya-mavayaska#},
+;
+51468 new {#maDyamavarRAH#}; ‘m. -aged’ {#maDya-mavayaska#},
+;---------------------------------------------------
+; <L>6680<pc>287<k1>mid<k2>mid
 51475 old {#tezAM maDyAt#}; ‘in the m of this talk’
 ;
 51475 new {#tezAM maDyAt#}; ‘in the m. of this talk’
+;---------------------------------------------------
+; <L>6685<pc>288<k1>milch<k2>milch
+51511 old <L>6685<pc>288<k1>milch<k2>milch
+;
+51511 new <L>6685<pc>288<k1>milchcow<k2>milchcow
+;---------------------------------------------------
+; <L>6685<pc>288<k1>milch<k2>milch
+51512 old {@Milch@}¦ {@-cow@}, {%s.%} {#kzIriRI, payasvatI, dugDavatI#},
+;
+51512 new {@Milch-cow@}¦, {%s.%} {#kzIriRI, payasvatI, dugDavatI#},
 ;---------------------------------------------------
 ; <L>6704<pc>289<k1>mince<k2>mince
 51660 old 1 P. {@-ingly@}, {%adv.%} {#KaMqaSaH, lavaSaH; Binna-gatyA, BinnasvareRa#}
@@ -9373,6 +9563,16 @@
 ;
 52226 new 
 ;---------------------------------------------------
+; <L>6782<pc>292<k1>mis<k2>mis
+52271 old <L>6782<pc>292<k1>mis<k2>mis
+;
+52271 new <L>6782<pc>292<k1>misshaped<k2>misshaped
+;---------------------------------------------------
+; <L>6782<pc>292<k1>mis<k2>mis
+52272 old {@Mis@}¦ {@-shaped, -shapen@}, {%a.%} {#vi-apa-ku-rUpa#},
+;
+52272 new {@Misshaped@}, {@Misshapen@}¦, {%a.%} {#vi-apa-ku-rUpa#},
+;---------------------------------------------------
 ; <L>6786<pc>292<k1>misspell<k2>misspell
 52295 old {@Mis-spell@}¦, {%v. t.%} {#akzrARi paryas#} 4 U, {#anya-TA liK#}
 ;
@@ -9494,9 +9694,9 @@
 52904 new 
 ;---------------------------------------------------
 ; <L>6870<pc>296<k1>moot<k2>moot
-52948 old 
+52947 old 4 U; ‘m.-case’, ‘m.-point’ {#vicAra-vizayaH-padaM-AspadaM-sTAnaM, saMdigDa-vivAda-vizayaH#}
 ;
-52948 new .
+52947 new 4 U; ‘m.-case’, ‘m.-point’ {#vicAra-vizayaH-padaM-AspadaM-sTAnaM, saMdigDa-vivAda-vizayaH#}.
 ;---------------------------------------------------
 ; <L>6870<pc>296<k1>moot<k2>moot
 52949 old .
@@ -9529,9 +9729,9 @@
 53195 new 
 ;---------------------------------------------------
 ; <L>6904<pc>298<k1>mote<k2>mote
-53234 old 
+53233 old {#KalaH sarzapamAtrARi paricCi-drARi paSyati . Atmano bilvamAtrARi paSya-nnapi na paSyati#}
 ;
-53234 new .
+53233 new {#KalaH sarzapamAtrARi paricCi-drARi paSyati . Atmano bilvamAtrARi paSya-nnapi na paSyati#}.
 ;---------------------------------------------------
 ; <L>6904<pc>298<k1>mote<k2>mote
 53235 old .
@@ -9683,6 +9883,16 @@
 ;
 54053 new 
 ;---------------------------------------------------
+; <L>7014<pc>302<k1>name<k2>name
+54065 old {#saMboDanaM#}; ‘he calls me by my n.’ {#nAma-grAhaM mAmAhvayati#}
+;
+54065 new {#saMboDanaM#}; ‘he calls me by my n.’ {#nAma-grAhaM mAmAhvayati#};
+;---------------------------------------------------
+; <L>7014<pc>302<k1>name<k2>name
+54066 old ; ‘family n.’ {#upanAma#},
+;
+54066 new ‘family n.’ {#upanAma#},
+;---------------------------------------------------
 ; <L>7027<pc>303<k1>nation<k2>nation
 54196 old {#deSIyatA, deSodBavatA#}. {@-ally@}, {%adv.%} {#sAmA-nyataH, jAtitaH#}
 ;
@@ -9761,7 +9971,7 @@
 ; <L>7064<pc>306<k1>neither<k2>neither
 54590 old {@Neither, (nor)@}¦ {%a.%}, {%conj.%} {#na-na va, na ca na ca#},
 ;
-54590 new {@Neither@}, ({@nor@})¦ {%a.%}, {%conj.%} {#na-na va, na ca na ca#},
+54590 new {@Neither@}, ({@nor@})¦, {%a.%}, {%conj.%} {#na-na va, na ca na ca#},
 ;---------------------------------------------------
 ; <L>7077<pc>306<k1>nether<k2>nether
 54675 old {#aDolokaH#}; ‘n, garment’ {#aDo-vAsaH#}.
@@ -9959,9 +10169,9 @@
 55670 new {@Nutritious@}, {@Nutritive@}¦, {%a.%} {#puzwikara#} ({#rI#} {%f.%}),
 ;---------------------------------------------------
 ; <L>7225<pc>312<k1>obey<k2>obey
-55778 old 
+55777 old 
 ;
-55778 new .
+55777 new .
 ;---------------------------------------------------
 ; <L>7225<pc>312<k1>obey<k2>obey
 55779 old .
@@ -10114,9 +10324,9 @@
 56853 new - {%a.%}; ‘lay o.’ {#prakAS#} c.; {%See%}
 ;---------------------------------------------------
 ; <L>7348<pc>319<k1>oppose<k2>oppose
-56972 old 
+56971 old {#vyatyAsaH, viparItaM#}; by ({%a.%}). {@-ion@}, {%s.%} {#vEpa-rityaM, prAtikUlyaM, viroDaH, vipakzatA, viparya-(ryA)yaH, vyatyayaH, vyatyAsaH, viparyAsaH#}
 ;
-56972 new .
+56971 new {#vyatyAsaH, viparItaM#}; by ({%a.%}). {@-ion@}, {%s.%} {#vEpa-rityaM, prAtikUlyaM, viroDaH, vipakzatA, viparya-(ryA)yaH, vyatyayaH, vyatyAsaH, viparyAsaH#}.
 ;---------------------------------------------------
 ; <L>7348<pc>319<k1>oppose<k2>oppose
 56973 old .
@@ -10404,9 +10614,9 @@
 58586 new 
 ;---------------------------------------------------
 ; <L>7583<pc>328<k1>palmachristi<k2>palmachristi
-58640 old 
+58639 old {@Palma-Christi@}¦, {%s.%} {#eraMqaH, uruvUkaH, rUvU-(vu)kaH, rucakaH, citrakaH, caMcuH, paMcAM-gulaH, maMqaH, varDamAnaH, vyaqaMbakaH#}
 ;
-58640 new .
+58639 new {@Palma-Christi@}¦, {%s.%} {#eraMqaH, uruvUkaH, rUvU-(vu)kaH, rucakaH, citrakaH, caMcuH, paMcAM-gulaH, maMqaH, varDamAnaH, vyaqaMbakaH#}.
 ;---------------------------------------------------
 ; <L>7583<pc>328<k1>palmachristi<k2>palmachristi
 58641 old .
@@ -10432,6 +10642,11 @@
 58803 old .
 ;
 58803 new 
+;---------------------------------------------------
+; <L>7621<pc>329<k1>paper<k2>paper
+58846 old {@Paper@}¦ {%s.%} {#patraM, patrakaM#}; ‘written p’ {#leKaH#},
+;
+58846 new {@Paper@}¦, {%s.%} {#patraM, patrakaM#}; ‘written p’ {#leKaH#},
 ;---------------------------------------------------
 ; <L>7623<pc>329<k1>papulae<k2>papulae
 58855 old <L>7623<pc>329<k1>papulae<k2>papulae
@@ -10744,9 +10959,9 @@
 60404 new 
 ;---------------------------------------------------
 ; <L>7861<pc>339<k1>persevere<k2>persevere
-60672 old 
+60671 old {#udyamaH, vyayasAyaH#}. {@-ing@}, {%a.%} {#aBiyogavat-udyamin, aBinivizwa, aDyavasAyin, dIrGo-dyogin, sadApravftta, utsAhavat, Agraha-nirbaMDa-SIla, prasakta, prasita#}
 ;
-60672 new .
+60671 new {#udyamaH, vyayasAyaH#}. {@-ing@}, {%a.%} {#aBiyogavat-udyamin, aBinivizwa, aDyavasAyin, dIrGo-dyogin, sadApravftta, utsAhavat, Agraha-nirbaMDa-SIla, prasakta, prasita#}.
 ;---------------------------------------------------
 ; <L>7861<pc>339<k1>persevere<k2>persevere
 60673 old .
@@ -10919,9 +11134,9 @@
 61941 new 
 ;---------------------------------------------------
 ; <L>8024<pc>347<k1>pledge<k2>pledge
-61966 old 
+61965 old ‘he who has p. ed his word’ {#kfta-vihita-pratijYaH, pratijYA-vacana-badDaH, dattavacanaH-pratijYaH, gfhItakzaRaH#}
 ;
-61966 new .
+61965 new ‘he who has p. ed his word’ {#kfta-vihita-pratijYaH, pratijYA-vacana-badDaH, dattavacanaH-pratijYaH, gfhItakzaRaH#}.
 ;---------------------------------------------------
 ; <L>8024<pc>347<k1>pledge<k2>pledge
 61967 old .
@@ -11093,6 +11308,11 @@
 ;
 62899 new {@Postdiluvian@}¦, {%a.%} {#pralayottarakAlIna#}.
 ;---------------------------------------------------
+; <L>8143<pc>352<k1>posterior<k2>posterior
+62903 old {@Posterior@}¦ {%a.%} {#paScAt-uttara-kAlIna, uttara#},
+;
+62903 new {@Posterior@}¦, {%a.%} {#paScAt-uttara-kAlIna, uttara#},
+;---------------------------------------------------
 ; <L>8147<pc>352<k1>postmeridian<k2>postmeridian
 62924 old {@Post-meridian@}¦, {%a.%} {#aparAhRatana#} ({#nI#} {%f.%}),
 ;
@@ -11137,6 +11357,11 @@
 62977 old .
 ;
 62977 new 
+;---------------------------------------------------
+; <L>8164<pc>352<k1>potherb<k2>potherb
+63014 old {@Potherb@}¦ {%s.%} {#SAkaH, haritakaM, SigruH#}.
+;
+63014 new {@Potherb@}¦, {%s.%} {#SAkaH, haritakaM, SigruH#}.
 ;---------------------------------------------------
 ; <L>8171<pc>352<k1>poultry<k2>poultry
 63045 old {@Poultry@}¦, {%s.%} {#gfhapakziRaH#}. ‘p.-yard’ {#kukkuwA-disTAnaM#}
@@ -11384,6 +11609,11 @@
 64380 new 
 ;---------------------------------------------------
 ; <L>8304<pc>361<k1>privilege<k2>privilege
+64394 old {@Privilege@}¦ {%s.%} {#viSezADikAraH, asAmAnyADi-kAraH, svADikAraH, aDikAraH, svatvaM#}.
+;
+64394 new {@Privilege@}¦, {%s.%} {#viSezADikAraH, asAmAnyADi-kAraH, svADikAraH, aDikAraH, svatvaM#}.
+;---------------------------------------------------
+; <L>8304<pc>361<k1>privilege<k2>privilege
 64396 old {#viSezADikAraM dA#} 3 U. {@-ed@}, {%a.%} {#aDikAra-viSizwa, sADikAra, viSezADikArayukta#}
 ;
 64396 new {#viSezADikAraM dA#} 3 U. {@-ed@}, {%a.%} {#aDikAra-viSizwa, sADikAra, viSezADikArayukta#}.
@@ -11548,6 +11778,11 @@
 ;
 65587 new 
 ;---------------------------------------------------
+; <L>8431<pc>369<k1>puerperal<k2>puerperal
+65626 old {@Puerperal@}¦ {%a.%} {#prasava-prasUti#} in comp. {@-Puerperous@},
+;
+65626 new {@Puerperal@}¦, {%a.%} {#prasava-prasUti#} in comp. {@-Puerperous@},
+;---------------------------------------------------
 ; <L>8433<pc>369<k1>pugfaced<k2>pugfaced
 65648 old {@Pug-faced@}¦, {%a.%} {#vAnaravadana, kapimuKa#}.
 ;
@@ -11699,9 +11934,9 @@
 67400 new {@Reanimate@}¦, {%v. t.%} {#punar-jIv#} c. {@2@} {%See%}
 ;---------------------------------------------------
 ; <L>8663<pc>380<k1>recant<k2>recant
-67526 old 
+67525 old 6 P, {#KaMq#} 10, {#vilup#} c. {@-ation@}, {%s.%} {#pratyA-KyAnaM, pratyAdeSaH, KaMqanaM, vilopaH, viparIta-vAdaH#}
 ;
-67526 new .
+67525 new 6 P, {#KaMq#} 10, {#vilup#} c. {@-ation@}, {%s.%} {#pratyA-KyAnaM, pratyAdeSaH, KaMqanaM, vilopaH, viparIta-vAdaH#}.
 ;---------------------------------------------------
 ; <L>8663<pc>380<k1>recant<k2>recant
 67527 old .
@@ -11848,6 +12083,11 @@
 ;
 68390 new 
 ;---------------------------------------------------
+; <L>8760<pc>386<k1>regulate<k2>regulate
+68446 old {@Regulate@}¦ {%v. t.%} {#saM-, vi-DA#} 3 U, {#parikxp#}
+;
+68446 new {@Regulate@}¦, {%v. t.%} {#saM-, vi-DA#} 3 U, {#parikxp#}
+;---------------------------------------------------
 ; <L>8780<pc>387<k1>relevant<k2>relevant
 68661 old {%f.%}, {#prastutAnusAraH-anvayaH, prakaraRA-nusAraH, prAstAvikatvaM#}
 ;
@@ -11892,6 +12132,11 @@
 68916 old .
 ;
 68916 new 
+;---------------------------------------------------
+; <L>8813<pc>389<k1>renew<k2>renew
+68976 old {@Renew@}¦ {%v. t.%} {#navIkf#} 8 U, {#pratisamA-DA#} 3 U,
+;
+68976 new {@Renew@}¦, {%v. t.%} {#navIkf#} 8 U, {#pratisamA-DA#} 3 U,
 ;---------------------------------------------------
 ; <L>8814<pc>389<k1>renounce<k2>renounce
 68994 old ‘r. of the world’ {#saMnyAsaH, sarva-saMgaparityAgaH#}
@@ -12149,9 +12394,9 @@
 70630 new 
 ;---------------------------------------------------
 ; <L>8977<pc>400<k1>rival<k2>rival
-70649 old 
+70648 old {%s.%} {#pratisparDA, pratiyogitA, vi-, jigIzA, aha-mahamikA, pratidvaMdvitA, saMGarzaH, sApatnyaM, prati-pakzatA; viroDaH, vEraM#}
 ;
-70649 new .
+70648 new {%s.%} {#pratisparDA, pratiyogitA, vi-, jigIzA, aha-mahamikA, pratidvaMdvitA, saMGarzaH, sApatnyaM, prati-pakzatA; viroDaH, vEraM#}.
 ;---------------------------------------------------
 ; <L>8977<pc>400<k1>rival<k2>rival
 70650 old .
@@ -12167,6 +12412,11 @@
 70740 old .
 ;
 70740 new 
+;---------------------------------------------------
+; <L>8992<pc>401<k1>rodent<k2>rodent
+70767 old {@Rodent@}¦ {%a.%} {#daMSaka#}.
+;
+70767 new {@Rodent@}¦, {%a.%} {#daMSaka#}.
 ;---------------------------------------------------
 ; <L>8995<pc>401<k1>rogue<k2>rogue
 70785 old ({%s.%}) {@-ishly@}, {%adv.%} {#DUrtatayA, SAWyAt, sa-kEtavaM#}
@@ -12253,6 +12503,11 @@
 ;
 71394 new 
 ;---------------------------------------------------
+; <L>9063<pc>405<k1>sabbath<k2>sabbath
+71415 old {@Sabbath@}¦ (day), {%s.%} {#viSrAmavAsaraH-divasaH#}.
+;
+71415 new {@Sabbath (day)@}¦, {%s.%} {#viSrAmavAsaraH-divasaH#}.
+;---------------------------------------------------
 ; <L>9077<pc>405<k1>sacrilege<k2>sacrilege
 71516 old {@-Sacrilegious@}, {%a.%} {#devasvApahArin; puRya-dravya-dUzin#}
 ;
@@ -12332,6 +12587,11 @@
 71871 old .
 ;
 71871 new 
+;---------------------------------------------------
+; <L>9132<pc>407<k1>sapor<k2>sapor
+71917 old {@Sapor@}¦ {%s.%} {%See%} {@Flavour@}.
+;
+71917 new {@Sapor@}¦, {%s.%} {%See%} {@Flavour@}.
 ;---------------------------------------------------
 ; <L>9152<pc>408<k1>saturn<k2>saturn
 72048 old {@-Saturnalia@}, {%s.%} {#Sani-mahotsavaH#}
@@ -12422,6 +12682,11 @@
 72477 old .
 ;
 72477 new 
+;---------------------------------------------------
+; <L>9211<pc>411<k1>scoff<k2>scoff
+72497 old {@Scoff@}¦ (at), {%v.%} {#ava-upa-has#} 1 P, {#ava-A-aDi-kzip#}
+;
+72497 new {@Scoff (at)@}¦, {%v.%} {#ava-upa-has#} 1 P, {#ava-A-aDi-kzip#}
 ;---------------------------------------------------
 ; <L>9225<pc>411<k1>scour<k2>scour
 72608 old {@-ing@}, {%s.%} {#mArjanaM, nirRe-janaM#}
@@ -12554,9 +12819,9 @@
 73133 new 
 ;---------------------------------------------------
 ; <L>9285<pc>415<k1>sedentary<k2>sedentary
-73158 old 
+73157 old {@Sedentary@}¦, {%a.%} {#nirudyoga, acapala, avyava-sAyin, anudyogaSIla, avyAyAmin, calana-gati-hIna#}
 ;
-73158 new .
+73157 new {@Sedentary@}¦, {%a.%} {#nirudyoga, acapala, avyava-sAyin, anudyogaSIla, avyAyAmin, calana-gati-hIna#}.
 ;---------------------------------------------------
 ; <L>9285<pc>415<k1>sedentary<k2>sedentary
 73159 old .
@@ -13134,9 +13399,9 @@
 77164 new {@Ruin@}, {@Kill@}, q. v.; ‘God s. !’ {#SivA-ste paMTAnaH saMtu#}
 ;---------------------------------------------------
 ; <L>9737<pc>439<k1>spider<k2>spider
-77238 old 
+77237 old {@Spider@}¦, {%s.%} {#taMtuvApaH, taMtunABaH, taMtravApaH, UrRa-nABaH, lUtA, markawakaH, jAlikaH, koSa(za)-kAraH, azwApadaH#}
 ;
-77238 new .
+77237 new {@Spider@}¦, {%s.%} {#taMtuvApaH, taMtunABaH, taMtravApaH, UrRa-nABaH, lUtA, markawakaH, jAlikaH, koSa(za)-kAraH, azwApadaH#}.
 ;---------------------------------------------------
 ; <L>9737<pc>439<k1>spider<k2>spider
 77239 old .
@@ -13212,6 +13477,11 @@
 77818 old .
 ;
 77818 new 
+;---------------------------------------------------
+; <L>9809<pc>443<k1>squirm<k2>squirm
+77822 old {@Squirm@}¦ {%v. i.%} {%See%} {@Writhe@}.
+;
+77822 new {@Squirm@}¦, {%v. i.%} {%See%} {@Writhe@}.
 ;---------------------------------------------------
 ; <L>9810<pc>443<k1>squirrel<k2>squirrel
 77826 old {@Squirrel@}¦, {%s.%} {#kAzWamArjAraH-biqAlaH, vfkza-SAyikA, camarapucCaH#}
@@ -13458,6 +13728,11 @@
 ;
 79070 new 
 ;---------------------------------------------------
+; <L>9955<pc>451<k1>stripling<k2>stripling
+79127 old {@Stripling@}¦ {%s.%} {#SiSuH, arBakaH, qiMBaH, bAlaH#},
+;
+79127 new {@Stripling@}¦, {%s.%} {#SiSuH, arBakaH, qiMBaH, bAlaH#},
+;---------------------------------------------------
 ; <L>9969<pc>451<k1>study<k2>study
 79250 old {#kAmataH kfta#}. {@-ious@}, {%a.%} {#aDyayanaparAyaRa-tatpara-SIla-Asakta, vidyAprasita-aBinivizwa#}
 ;
@@ -13477,6 +13752,11 @@
 79326 old .
 ;
 79326 new 
+;---------------------------------------------------
+; <L>9979<pc>452<k1>sturdy<k2>sturdy
+79335 old {@Sturdy@}¦ {%a.%} {#kaWina, kaWora; dfQAMga, prabala#}; {%See%}
+;
+79335 new {@Sturdy@}¦, {%a.%} {#kaWina, kaWora; dfQAMga, prabala#}; {%See%}
 ;---------------------------------------------------
 ; <L>9982<pc>452<k1>style<k2>style
 79356 old {#kakutsTasaMjYa#} &c. {@-ish@}, {%a.%} {#Sizwa-janamata, saByAcArAnurUpa#}
@@ -13663,6 +13943,11 @@
 ;
 80184 new 
 ;---------------------------------------------------
+; <L>10086<pc>457<k1>supplant<k2>supplant
+80217 old {@Supplant@}¦ {%v. t.%} {#nizkas#} c., {#sTAnaM vyAp#} 5 P
+;
+80217 new {@Supplant@}¦, {%v. t.%} {#nizkas#} c., {#sTAnaM vyAp#} 5 P
+;---------------------------------------------------
 ; <L>10108<pc>458<k1>surname<k2>surname
 80410 old Ex. by ({%s.%}); ‘s. ed Vyasa’ {#vyAsakulo-tpannaH, vyAsopanAmA#}
 ;
@@ -13717,6 +14002,11 @@
 80750 old .
 ;
 80750 new 
+;---------------------------------------------------
+; <L>10153<pc>460<k1>swish<k2>swish
+80763 old {@Swish@}¦ {%v. t.%} {#vetreRa taq#} 10 or {#han#} 2 P or
+;
+80763 new {@Swish@}¦, {%v. t.%} {#vetreRa taq#} 10 or {#han#} 2 P or
 ;---------------------------------------------------
 ; <L>10157<pc>460<k1>sword<k2>sword
 80788 old {#kUwAstraM#}; ‘s. -man’ {#Kaqgin, Kaqga-DaraH, AsikaH#}
@@ -13883,6 +14173,11 @@
 ;
 81872 new 
 ;---------------------------------------------------
+; <L>10331<pc>465<k1>tew<k2>tew
+81891 old {@Tew@}¦ {%v. t.%} {%See%} {@Ply@}.
+;
+81891 new {@Tew@}¦, {%v. t.%} {%See%} {@Ply@}.
+;---------------------------------------------------
 ; <L>10333<pc>466<k1>thank<k2>thank
 81907 old {#praSaMs#} 1 P; ‘t-ed his deliverer’ {#BavatAnu-gfhItaH-upakftaH-asmi iti rakzitAramuvAda#};
 ;
@@ -13937,6 +14232,11 @@
 82253 old {%f.%}, {#dAsatvaM#}; {%See%} {@Slave, -ery, 2@} {#vaSatA#},
 ;
 82253 new {%f.%}, {#dAsatvaM#}; {%See%} {@Slave@}, {@-ery@}, 2 {#vaSatA#},
+;---------------------------------------------------
+; <L>10379<pc>468<k1>three<k2>three
+82286 old {@Three@}¦ {%a.%} {#tri#} ({#tisf#} {%f.%}); ‘aggregate of t.’
+;
+82286 new {@Three@}¦, {%a.%} {#tri#} ({#tisf#} {%f.%}); ‘aggregate of t.’
 ;---------------------------------------------------
 ; <L>10398<pc>469<k1>thunder<k2>thunder
 82473 old (Mr. 5). {@-er@}, {%s.%} {#vajrin#} {%m.%}; {#kuli-SaBft, vajrapARiH#}
@@ -14012,6 +14312,16 @@
 82756 old {@Fatigue. -ing, -some@}, {%a.%} {#kazwa-Keda-kara#}
 ;
 82756 new 
+;---------------------------------------------------
+; <L>10444<pc>471<k1>tittle<k2>tittle
+82797 old <L>10444<pc>471<k1>tittle<k2>tittle
+;
+82797 new <L>10444<pc>471<k1>tittletattle<k2>tittletattle
+;---------------------------------------------------
+; <L>10444<pc>471<k1>tittle<k2>tittle
+82798 old {@Tittle@}¦{@-Tattle@}, {%s.%} {#vijalpitaM#}.
+;
+82798 new {@Tittle-Tattle@}¦, {%s.%} {#vijalpitaM#}.
 ;---------------------------------------------------
 ; <L>10457<pc>471<k1>tomorrow<k2>tomorrow
 82878 old {@To-morrow@}¦, {%adv.%} {#SvaH, paredyuH, paredyavi#};
@@ -14228,6 +14538,11 @@
 ;
 83718 new 
 ;---------------------------------------------------
+; <L>10608<pc>476<k1>trolly<k2>trolly
+83876 old {@Trolly@}¦ ({@ey@}) {#hastavAhyaM yAnaM#}.
+;
+83876 new {@Trolly@}, ({@Trolley@})¦, {#hastavAhyaM yAnaM#}.
+;---------------------------------------------------
 ; <L>10629<pc>477<k1>trump<k2>trump
 84006 old {#kftrima, kUwa#} in comp. - {%s.%} {#asAra-tucCa-dravyaM#}
 ;
@@ -14297,6 +14612,11 @@
 84269 old .
 ;
 84269 new 
+;---------------------------------------------------
+; <L>10676<pc>478<k1>twaddle<k2>twaddle
+84323 old {@Twaddle@};¦ {%See%} {@Prate@}.
+;
+84323 new {@Twaddle@};¦, {%See%} {@Prate@}.
 ;---------------------------------------------------
 ; <L>10684<pc>478<k1>twilight<k2>twilight
 84361 old {@Twilight@}¦, {%s.%} {#saMDyA, saMDiprakASaH, saMDyAkAlaH-samayaH, niSAdiH#}
@@ -14393,6 +14713,11 @@
 ;
 84715 new {@Uncouth@}¦, {%a.%} {@ugly@}, {@Strange@}, q. v.
 ;---------------------------------------------------
+; <L>10794<pc>481<k1>unfruitful<k2>unfruitful
+84974 old {@Unfruitful@}¦ {%a.%} {@Fruitless@}, q. v.
+;
+84974 new {@Unfruitful@}¦, {%a.%} {@Fruitless@}, q. v.
+;---------------------------------------------------
 ; <L>10814<pc>481<k1>unite<k2>unite
 85076 old ‘u. is strength’ {#samavAyo hi dustaraH#}; ({%cf.%}
 ;
@@ -14402,6 +14727,16 @@
 85077 old {#bahUnAmapyasArARAM saMhatiH kAryasADikA#} ‘weak faggots make a strong bundle’).
 ;
 85077 new ({%cf.%} {#bahUnAmapyasArARAM saMhatiH kAryasADikA#} ‘weak faggots make a strong bundle’).
+;---------------------------------------------------
+; <L>10819<pc>481<k1>unkind<k2>unkind
+85103 old {@Unkind@};¦ {%a.%} {#asnigDa, vipriya, nirdaya, krUra#}.
+;
+85103 new {@Unkind@};¦, {%a.%} {#asnigDa, vipriya, nirdaya, krUra#}.
+;---------------------------------------------------
+; <L>10821<pc>481<k1>unlawful<k2>unlawful
+85112 old {@Unlawful@}¦ {%a.%} {@Illegal@}, q. v.
+;
+85112 new {@Unlawful@}¦, {%a.%} {@Illegal@}, q. v.
 ;---------------------------------------------------
 ; <L>10840<pc>482<k1>unprincipled<k2>unprincipled
 85195 old {@Unprincipled@}¦, {#durvftta, vicArahIna, sadasa-dvivekahIna#}
@@ -14917,6 +15252,11 @@
 88181 old .
 ;
 88181 new 
+;---------------------------------------------------
+; <L>11284<pc>497<k1>woof<k2>woof
+88231 old {@Woof@}¦ {%s.%} {#pratitaMtraH, vARi-RI#} {%f.%}
+;
+88231 new {@Woof@}¦, {%s.%} {#pratitaMtraH, vARi-RI#} {%f.%}
 ;---------------------------------------------------
 ; <L>11286<pc>497<k1>word<k2>word
 88263 old {#upacitavAk#}. {@-iness@}, {%s.%} {#Sabda-vAkya-vistaraH, vAgupacayaH, bahuSabdatvaM#}

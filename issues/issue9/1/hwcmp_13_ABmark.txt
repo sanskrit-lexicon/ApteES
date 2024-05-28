@@ -1,0 +1,89 @@
+- <L>228<pc>010<k1>all<k2>all
+?                   ^       -
+
++ <L>228<pc>010<k1>ail<k2>ail
+?                   ^      +
+
+- <L>577<pc>021<k1>asafoetida<k2>asafoetida
++ <L>577<pc>021<k1>assafoetida<k2>assafoetida
+?                    +              +
+
+- <L>1352<pc>046<k1>caesura<k2>caesura
++ <L>1352<pc>046<k1>caeesura<k2>caeesura
+?                      +           +
+
+- <L>2551<pc>092<k1>dandruff<k2>dandruff
+?                        ^           ^
+
++ <L>2551<pc>092<k1>dandriff<k2>dandriff
+?                        ^           ^
+
+- <L>3291<pc>126<k1>dyspnea<k2>dyspnea
++ <L>3291<pc>126<k1>dyspnoea<k2>dyspnoea
+?                        +           +
+
+- <L>4585<pc>186<k1>gonorrhea<k2>gonorrhea
++ <L>4585<pc>186<k1>gonorrhaea<k2>gonorrhaea
+?                          +             +
+
+- <L>4731<pc>193<k1>gynecology<k2>gynecology
++ <L>4731<pc>193<k1>gynaecology<k2>gynaecology
+?                      +              +
+
+- <L>4744<pc>194<k1>hemorrhage<k2>hemorrhage
++ <L>4744<pc>194<k1>haemorrhage<k2>haemorrhage
+?                    +              +
+
+- <L>5777<pc>240<k1>irradiate<k2>irradiate
+?                   ^            ^
+
++ <L>5777<pc>240<k1>Irradiate<k2>Irradiate
+?                   ^            ^
+
+- <L>6477<pc>277<k1>maneuver<k2>maneuver
+?                          -           -
+
++ <L>6477<pc>277<k1>manoeuvre<k2>manoeuvre
+?                      +   +        +   +
+
+- <L>6507<pc>279<k1>markingink<k2>markingink
+?                          ---           ---
+
++ <L>6507<pc>279<k1>marking<k2>marking
+- <L>6685<pc>288<k1>milchcow<k2>milchcow
+?                        ---         ---
+
++ <L>6685<pc>288<k1>milch<k2>milch
+- <L>6782<pc>292<k1>misshaped<k2>misshaped
+?                      ------       ------
+
++ <L>6782<pc>292<k1>mis<k2>mis
+- <L>7435<pc>323<k1>outmaneuver<k2>outmaneuver
+?                             -              -
+
++ <L>7435<pc>323<k1>outmanoeuvre<k2>outmanoeuvre
+?                         +   +           +   +
+
+- <L>7623<pc>329<k1>papule<k2>papule
++ <L>7623<pc>329<k1>papulae<k2>papulae
+?                        +          +
+
+- <L>7636<pc>330<k1>parallelopiped<k2>parallelopiped
+?                   ^                 ^
+
++ <L>7636.1<pc>330<k1>Parallelopiped<k2>Parallelopiped
+?        ++           ^                 ^
+
+- <L>7900<pc>341<k1>pharmacopeia<k2>pharmacopeia
++ <L>7900<pc>341<k1>pharmacopaeia<k2>pharmacopaeia
+?                            +                +
+
++ <L>8669<pc>381<k1>reception<k2>reception
+- <L>10444<pc>471<k1>tittletattle<k2>tittletattle
+?                          ------          ------
+
++ <L>10444<pc>471<k1>tittle<k2>tittle
+- <L>10463<pc>471<k1>tonight<k2>tonight
+?                      -----      -----
+
++ <L>10463<pc>471<k1>to<k2>to

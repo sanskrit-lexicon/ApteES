@@ -1,7 +1,7 @@
 ; <L>1<pc>001<k1>a<k2>a
-3 old {@A, An@}¦ (As an article) not ex.; ‘a man’
+3 old {@A, An@}¦, (As an article) not ex.; ‘a man’
 ;
-3 new {@A@}, {@An@}¦ (As an article) not ex.; ‘a man’
+3 new {@A@}, {@An@}¦, (As an article) not ex.; ‘a man’
 ;---------------------------------------------------
 ; <L>2<pc>001<k1>abandon<k2>abandon
 19 old 10, {#muc#} 6 P. {@-ed.@} {%a.%} {#tyakta, hIna, mukta#}
@@ -3014,9 +3014,9 @@
 45833 new {%See%} {@Wash@}. {@-atory@}, {%s.%} {#DAvanasTAnaM#}. {@-er@},
 ;---------------------------------------------------
 ; <L>6087<pc>253<k1>lavish<k2>lavish
-45848 old {#aparimitaM, atyaMtaM#}. {@-ment, -ness@}, {%s.%} {#ati-aparimita-vyayaH, mahAvyayaH, atityAgaH, a-tyutsargaH, muktahastatvaM, bahupradatvaM#}
+45848 old {#aparimitaM, atyaMtaM#}. {@-ment, -ness@}, {%s.%} {#ati-aparimita-vyayaH, mahAvyayaH, atityAgaH, a-tyutsargaH, muktahastatvaM, bahupradatvaM#}.
 ;
-45848 new {#aparimitaM, atyaMtaM#}. {@-ment@}, {@-ness@}, {%s.%} {#ati-aparimita-vyayaH, mahAvyayaH, atityAgaH, a-tyutsargaH, muktahastatvaM, bahupradatvaM#}
+45848 new {#aparimitaM, atyaMtaM#}. {@-ment@}, {@-ness@}, {%s.%} {#ati-aparimita-vyayaH, mahAvyayaH, atityAgaH, a-tyutsargaH, muktahastatvaM, bahupradatvaM#}.
 ;---------------------------------------------------
 ; <L>6090<pc>253<k1>lax<k2>lax
 45908 old {#sAraka, recaka#}. - {%s.%} {#sArakaM#}. {@-ity, -ness@}, {%s.%}
@@ -3562,11 +3562,6 @@
 52265 old &c. {@-ing.@}
 ;
 52265 new &c. {@-ing@}.
-;---------------------------------------------------
-; <L>6782<pc>292<k1>mis<k2>mis
-52272 old {@Mis@}¦ {@-shaped, -shapen@}, {%a.%} {#vi-apa-ku-rUpa#},
-;
-52272 new {@Mis@}¦ {@-shaped@}, {@-shapen@}, {%a.%} {#vi-apa-ku-rUpa#},
 ;---------------------------------------------------
 ; <L>6800<pc>293<k1>mitigate<k2>mitigate
 52416 old {#laGUkaraRaM, nyUnatA#}. {@-ive, -Mitigant@}, {%a.%}

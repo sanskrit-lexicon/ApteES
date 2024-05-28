@@ -1,0 +1,1320 @@
+- 162 {@Advert (to)@}
+?                  --
+
++ 162 {@Advert@} (to)
+?             ++
+
+- 336 {@Amid@}, {@Amidst@}
++ 336 {@Amid@}, {@[Amid]st@}
+?                 +    +
+
+- 342 {@Among@}, {@Amongst@}
++ 342 {@Among@}, {@[Among]st@}
+?                  +     +
+
+- 354 {@Anesthetic@}
+?         ^
+
++ 354 {@Anæsthetic@}
+?         ^
+
+- 430 {@Antipyrin (Antipyrine)@}
++ 430 {@Antipyrin@}(e)
+- 431 {@Antiquary@}, {@Antiquarian@}
++ 431 {@Antiquary@}, {@[Antiqua]rian@}
+?                      +       +
+
+- 486 {@Apprise (of)@}
+?                   --
+
++ 486 {@Apprise@} (of)
+?              ++
+
+- 510 {@Archeology@}
+?           ^
+
++ 510 {@Archæology@}
+?           ^
+
+- 577 {@Asafoetida@}
+?           ^^
+
++ 577 {@Assafœtida@}
+?         +  ^
+
+- 666 {@Authentic@}, {@Authentical@}
++ 666 {@Authentic@}, {@[Authentic]al@}
+?                      +         +
+
+- 683 {@Avantguard@}
++ 683 {@Avant guard@}
+?            +
+
+- 883 {@Behalf (on or in)@}
++ 883 {@Behalf@}
+- 939 {@Beseem@}, {@Beseemly@}
++ 939 {@Beseem@}, {@[Beseem]ly@}
+?                   +      +
+
+- 959 {@Bestir, (oneself)@}
+?             ^          --
+
++ 959 {@Bestir@} (oneself)
+?             ^^
+
+- 966 {@Betake, (oneself to)@}
+?             ^             --
+
++ 966 {@Betake@} (oneself to)
+?             ^^
+
+- 1298 {@Buoy (up)@}
+?                 --
+
++ 1298 {@Buoy@} (up)
+?            ++
+
+- 1352 {@Caesura@}
+?         ^
+
++ 1352 {@Cæesura@}
+?         ^
+
+- 1495 {@Cartography@}
++ 1495 {@Carto-graphy@}
+?             +
+
+- 1644 {@Charwoman@}
++ 1644 {@Char-woman@}
+?            +
+
+- 1677 {@Chickpeas@}
++ 1677 {@Chick-peas@}
+?             +
+
+- 1692 {@Chirk@}, {@Chirl@}
+?             --  ^^
+
++ 1692 {@Chirk, (Chirl)@} (Chirm)
+?               ^     +  ++++++++
+
+- 1694 {@Chirography@}, {@Chirographer@}
++ 1694 {@Chirography@}, {@[Chirograph]er@}
+?                         +          +
+
+- 1758 {@Circumfluent@}, {@Circumfluous@}
++ 1758 {@Circumfluent@}, {@[Circum]fluous@}
+?                          +      +
+
+- 1779 {@Civet@}, {@Civet-Cat@}
+?                        ^
+
++ 1779 {@Civet@}, {@[Civet] Cat@}
+?                   +     ^^
+
+- 1857 {@Coact@}
++ 1857 {@Co-act@}
+?          +
+
+- 1858 {@Coadjacent@}
++ 1858 {@Co-adjacent@}
+?          +
+
+- 1859 {@Coadjutant@}
++ 1859 {@Co-adjutant@}
+?          +
+
+- 1860 {@Coadjutor@}
++ 1860 {@Co-adjutor@}
+?          +
+
+- 1879 {@Cockswain@}
++ 1879 {@Cock-swain@}
+?            +
+
+- 1880 {@Cocoanut@}
++ 1880 {@Cocoa-nut@}
+?             +
+
+- 1890 {@Coequal@}
++ 1890 {@Co-equal@}
+?          +
+
+- 1892 {@Coetaneous@}, {@Coeval@}
++ 1892 {@Coetaneous@}, {@Co-eval@}
+?                          +
+
+- 1893 {@Coexist@}
++ 1893 {@Co-exist@}
+?          +
+
+- 1894 {@Coextend@}
++ 1894 {@Co-extend@}
+?          +
+
+- 1920 {@Colaborator(teur)@}
++ 1920 {@Colaborator@} ({@[Colabora]teur@})
+- 1986 {@Commix@}, {@Commixture@}
++ 1986 {@Commix@}, {@[Commix]ture@}
+?                    +      +
+
+- 2012 {@Complacence@}, {@Complacency@}
++ 2012 {@Complacence@}, {@[Complacen]cy@}
+?                         +         +
+
+- 2036 {@Compulsion@}, {@Compulsory@}
++ 2036 {@Compulsion@}, {@[Compul]sory@}
+?                        +      +
+
+- 2048 {@Concentric@}, {@Concentrical@}
++ 2048 {@Concentric@}, {@[Concentri]cal@}
+?                        +         +
+
+- 2049 {@Concern@}, {@Concernment@}
++ 2049 {@Concern@}, {@[Concern]ment@}
+?                     +       +
+
+- 2232 {@Cooperate@}
++ 2232 {@Co-operate@}
+?          +
+
+- 2233 {@Coordinate@}
++ 2233 {@Co-ordinate@}
+?          +
+
+- 2295 {@Cosmopolite@}, {@Cosmopolitan@}
++ 2295 {@Cosmopolite@}, {@[Cosmo]politan@}
+?                         +     +
+
+- 2398 {@Crepuscle@}, {@-scular@}
+?                       ^
+
++ 2398 {@Crepuscle@}, {@[Crepu]scular@}
+?                       ^^^^^^^
+
+- 2525 {@Cyclopedia@}
++ 2525 {@Cyclope(œ)dia@}
+?               +++
+
+- 2551 {@Dandri(u)ff@}
++ 2551 {@Dandriff@} ({@Dandruff@})
+- 2563 {@Dastard@}, {Dastardly@}
++ 2563 {@Dastard@}, {@[Dastard]ly@}
+?                    ++       +
+
+- 2700 {@Demean (oneself)@}
+?                        --
+
++ 2700 {@Demean@} (oneself)
+?              ++
+
+- 2704 {@Demigod@}
++ 2704 {@Demi-god@}
+?            +
+
+- 2705 {@Demiman@}
++ 2705 {@Demi-man@}
+?            +
+
+- 2829 {@Devoid, (of)@}
+?              ^     --
+
++ 2829 {@Devoid@} (of)
+?              ^^
+
+- 2866 {@Didactic@}, {@Didactical@}
++ 2866 {@Didactic@}, {@[Didactic]al@}
+?                      +        +
+
+- 2909 {@Dire@}, {@-ful@}
+?                  ^
+
++ 2909 {@Dire@}, {@[Dire]ful@}
+?                  ^^^^^^
+
+- 2935 {@Disavow@}, {@Disavowal@}
++ 2935 {@Disavow@}, {@[Disavow]al@}
+?                     +       +
+
+- 2950 {@Disclaim@}, {@Disclaimer@}
++ 2950 {@Disclaim@}, {@[Disclaim]er@}
+?                      +        +
+
+- 3070 {@Disrepute@}, {@Disreputation@}
++ 3070 {@Disrepute@}, {@[Disreput]ation@}
+?                       +        +
+
+- 3175 {@Dote, (upon)@}
+?            ^       --
+
++ 3175 {@Dote@} (upon)
+?            ^^
+
+- 3212 {@Dray@}, {@Drayman@}
++ 3212 {@Dray@}, {@[Dray]man@}
+?                  +    +
+
+- 3245 {@Dry, (up)@}
+?           ^     --
+
++ 3245 {@Dry@} (up)
+?           ^^
+
+- 3291 {@Dyspnea@}
+?             ^
+
++ 3291 {@Dyspnœa@}
+?             ^
+
+- 3373 {@Electer@}, {@Electrum@}
+?               --  --
+
++ 3373 {@Electer, Electrum@}
+- 3517 {@Engird@}, {@Engirdle@}
+?              --  --
+
++ 3517 {@Engird, Engirdle@}
+- 3538 {@Enquire@}, {@-y@}
+?                     ^
+
++ 3538 {@Enquire@}, {@[Enquir]y@}
+?                     ^^^^^^^^
+
+- 3595 {@Epidemic@}, {@Epidemical@}
++ 3595 {@Epidemic@}, {@[Epidemic]al@}
+?                      +        +
+
+- 3651 {@eruginous@}
+?        ^
+
++ 3651 {@Eruginous@}
+?        ^
+
+- 3683 {@Et caetera@}
++ 3683 {@Et caetera@} (<ab>&c.</ab>)
+- 3689 {@Ethnic@}, {@Ethnical@}
+?                     ^^^
+
++ 3689 {@Ethnic@}, {@[Epidemic]al@}
+?                    + ^^^^^  +
+
+- 3707 {@Even@}, {@Evening@}
+?            --  --
+
++ 3707 {@Even, Evening@}
+- 3766 {@Exhilarate@}, {@Exhilaration@}
++ 3766 {@Exhilarate@}, {@[Exhilarat]ion@}
+?                        +         +
+
+- 3769 {@Exigence@}, {@Exigency@}
++ 3769 {@Exigence@}, {@[Exigen]cy@}
+?                      +      +
+
+- 3809 {@Expound@}, {@Expounder@}
++ 3809 {@Expound@}, {@[Expound]er@}
+?                     +       +
+
+- 3818 {@Extemporary@}, {@Extemporaneous@}
++ 3818 {@Extemporary@}, {@[Extempo]raneous@}
+?                         +       +
+
+- 3822 {@Exterminate@}, {@Extermination@}
++ 3822 {@Exterminate@}, {@[Exterminat]ion@}
+?                         +          +
+
+- 3831 {@Extrajudicial@}
++ 3831 {@Extra-judicial@}
+?             +
+
+- 3832 {@Extramundane@}
++ 3832 {@Extra-mundane@}
+?             +
+
+- 3833 {@Extramural@}
++ 3833 {@Extra-mural@}
+?             +
+
+- 3840 {@Extrinsic@},{@Extrinsical@}
++ 3840 {@Extrinsic@}, {@[Extrinsic]al@}
+?                    +  +         +
+
+- 3869 {@Fagend@}
++ 3869 {@Fag-end@}
+?           +
+
+- 3891 {@Fanatic@}, {@Fanatical@}
++ 3891 {@Fanatic@}, {@[Fanatic]al@}
+?                     +       +
+
+- 3966 {@Ferment@}, {@Fermentation@}
++ 3966 {@Ferment@}, {@[Ferment]ation@}
+?                     +       +
+
+- 3975 {@Ferule@}, {@Ferula@}
+?              --  --
+
++ 3975 {@Ferule, Ferula@}
+- 4034 {@Finance@}, {@Finances@}
++ 4034 {@Finance@}, {@[Finance]s@}
+?                     +       +
+
+- 4184 {@Forcemeat@}
++ 4184 {@Force-meat@}
+?             +
+
+- 4192 {@Foredetermine@}
++ 4192 {@Fore-determine@}
+?            +
+
+- 4194 {@Forefend@}
++ 4194 {@Fore-fend@}
+?            +
+
+- 4198 {@Forejudge@}
++ 4198 {@Fore-judge@}
+?            +
+
+- 4199 {@Foreknow@}
++ 4199 {@Fore-know@}
+?            +
+
+- 4201 {@Foreordain@}
++ 4201 {@Fore ordain@}
+?            +
+
+- 4203 {@Foresay@}, {@Forespeak@}
++ 4203 {@Fore-say@}, {@[Fore]-speak@}
+?            +         +    ++
+
+- 4245 {@Fount@}, {@Fountain@}
+?             --  --
+
++ 4245 {@Fount, Fountain@}
+- 4261 {@Frankincense@}
++ 4261 {@Frank-incense@}
+?             +
+
+- 4371 {@Gabble@}, {@Gabbler@}
++ 4371 {@Gabble@}, {@[Gabbl]er@}
+?                    +     +
+
+- 4375 {@Gadfly@}
++ 4375 {@Gad-fly@}
+?           +
+
+- 4390 {@Gallinaceous (fowl)@}
+?                           --
+
++ 4390 {@Gallinaceous@} (fowl)
+?                    ++
+
+- 4409 {@Gaol@}, {@Gaoler@}
++ 4409 {@Gaol@}, {@[Gaol]er@}
+?                  +    +
+
+- 4459 {@Generic@}, {@-al@}
+?                     ^
+
++ 4459 {@Generic@}, {@[Generic]al@}
+?                     ^^^^^^^^^
+
+- 4585 {@Gonorrhea@}
+?               ^
+
++ 4585 {@Gonorrhæa@}
+?               ^
+
+- 4614 {@Gramarie@} ({@Gramary@}) ({@Gramarye@})
++ 4614 {@Gramarie@} ({@[Gramar]y@}) ({@[Gramar]ye@})
+?                      +      +        +      +
+
+- 4679 {@Grot@}, {@Grotto@}
+?            --  --
+
++ 4679 {@Grot, Grotto@}
+- 4731 {@Gynecology@}
++ 4731 {@Gynæ(e)cology@}
+?           ++ +
+
+- 4744 {@Hemorrhage@}
++ 4744 {@Hæ(e)morrhage@}
+?         ++ +
+
+- 4804 {@Harumscarum@}
++ 4804 {@Harum-scarum@}
+?             +
+
+- 4890 {@Hermetic@}, {@Hermetical@}
++ 4890 {@Hermetic@}, {@[Hermetic]al@}
+?                      +        +
+
+- 4917 {@Hieroglyph@}, {@Hieroglyphic@}
++ 4917 {@Hieroglyph@}, {@[Hieroglyph]ic@}
+?                        +          +
+
+- 4925 {@Hind@}, {@Hinder@}
+?            --  --
+
++ 4925 {@Hind, Hinder@}
+- 4937 {@Histrionic@}, {@Histrionical@}
++ 4937 {@Histrionic@}, {@[Histrionic]al@}
+?                        +          +
+
+- 4959 {@Hogweed@}
++ 4959 {@Hog-weed@}
+?           +
+
+- 5095 {@Hysterics@}, {@(Hysteria)@}
+?                 --  --
+
++ 5095 {@Hysterics, (Hysteria)@}
+- 5130 {@Illimited@}, {@Illimitable@}
++ 5130 {@Illimited@}, {@[Illimit]able@}
+?                       +       +
+
+- 5265 {@Inamorata@}, {@Inamorato@}
+?                 --  --
+
++ 5265 {@Inamorata, Inamorato@}
+- 5290 {@Incarcerate@}, {@-ion@}
+?                         ^
+
++ 5290 {@Incarcerate@}, {@[Incarcerat]ion@}
+?                         ^^^^^^^^^^^^
+
+- 5328 {@Incomplex@}, {@Incomposite@}
+?                 --  --
+
++ 5328 {@Incomplex, Incomposite@}
+- 5336 {@Inconsistence@}, {@-cy@}
+?                           ^
+
++ 5336 {@Inconsistence@}, {@[Inconsisten]cy@}
+?                           ^^^^^^^^^^^^^
+
+- 5431 {@Ineffective@}, {@Ineffectual@}
+?                   --  --
+
++ 5431 {@Ineffective, Ineffectual@}
+- 5555 {@Inquire, (of, after)@}
+?               ^            --
+
++ 5555 {@Inquire@} (of, after)
+?               ^^
+
+- 5609 {@Instead (of)@}
+?                    --
+
++ 5609 {@Instead@} (of)
+?               ++
+
+- 5646 {@Intercalar@}, {@-ly@}
+?                        ^
+
++ 5646 {@Intercalar@}, {@[Intercalar]y@}
+?                        ^^^^^^^^ +++
+
+- 5672 {@Interlunar@}, {@-y@}
+?                        ^
+
++ 5672 {@Interlunar@}, {@[Interlunar]y@}
+?                        ^^^^^^^^^^^^
+
+- 5720 {@Intrinsic@}, {@Intrinsical@}
++ 5720 {@Intrinsic@}, {@[Intrinsic]al@}
+?                       +         +
+
+- 5743 {@Inveigh, (against)@}
+?               ^          --
+
++ 5743 {@Inveigh@} (against)
+?               ^^
+
+- 5776 {@Irony@}
++ 5776 {@Irony@} ⒉
+?               ++
+
+- 5797 {@Irrespective, (of)@}
+?                    ^     --
+
++ 5797 {@Irrespective@} (of)
+?                    ^^
+
+- 5809 {@Island@}, {@Isle@}
+?              --  --
+
++ 5809 {@Island, Isle@}
+- 5833 {@Jackpudding@}
++ 5833 {@Jack-pudding@}
+?            +
+
+- 5873 {@Jog, (on)@}
+?           ^     --
+
++ 5873 {@Jog@} (on)
+?           ^^
+
+- 5875 {@Joke@}, {@-er@}
+?                  ^
+
++ 5875 {@Joke@}, {@[Jok]er@}
+?                  ^^^^^
+
+- 5923 {@Keepsake@}
++ 5923 {@Keep-sake@}
+?            +
+
+- 5969 {@Knickknack@}
++ 5969 {@Knick-knack@}
+?             +
+
+- 5983 {@Labiodental@}
++ 5983 {@Labio-dental@}
+?             +
+
+- 5984 {@Labor@} {@(Labour)@}
+?             ^^^^^
+
++ 5984 {@Labor (Labour)@}
+?             ^
+
+- 5992 {@Lackaday@}
++ 5992 {@Lack-a-day@}
+?            + +
+
+- 5993 {@Lackadaisical@}
++ 5993 {@Lack-a-daisical@}
+?            + +
+
+- 5994 {@Lacker@}, {@Lacquer@}
+?              --  --
+
++ 5994 {@Lacker, Lacquer@}
+- 5996 {@Laconic@}, {@-al@}
+?                     ^
+
++ 5996 {@Laconic@}, {@[Laconic]al@}
+?                     ^^^^^^^^^
+
+- 6011 {@Laic@}, {@-al@}
+?                  ^
+
++ 6011 {@Laic@}, {@[Laic]al@}
+?                  ^^^^^^
+
+- 6020 {@Lamel@}, {@Lamella@}
+?             --  --
+
++ 6020 {@Lamel, Lamella@}
+- 6026 {@Lanate@}, {@-ed@}
+?                    ^
+
++ 6026 {@Lanate@}, {@[Lanat]ed@}
+?                    ^^^^^^^
+
+- 6097 {@Leadwort@}
++ 6097 {@Lead-wort@}
+?            +
+
+- 6128 {@Legerdemain@}
++ 6128 {@Leger-de-main@}
+?             +  +
+
+- 6133 {@Legume@}, {@Legumen@}
+?              --  --
+
++ 6133 {@Legume, Legumen@}
+- 6139 {@Length@}, {@-en@}
+?                    ^
+
++ 6139 {@Length@}, {@[Length]en@}
+?                    ^^^^^^^^
+
+- 6203 {@Light@}
++ 6203 {@Light@} ⒈
+?               ++
+
+- 6204 {@Light@}
++ 6204 {@Light@} ⒉
+?               ++
+
+- 6223 {@Linchpin@}
++ 6223 {@Linch-pin@}
+?             +
+
+- 6236 {@Linseywoolsey@}
++ 6236 {@Linsey-woolsey@}
+?              +
+
+- 6297 {@Loggerhead@}
++ 6297 {@Logger-head@}
+?              +
+
+- 6303 {@Lone@}, {@Lonely@}
+?            --  --
+
++ 6303 {@Lone, Lonely@}
+- 6307 {@Look, (at)@}
+?            ^     --
+
++ 6307 {@Look@} (at)
+?            ^^
+
+- 6359 {@Lunch@}, {@Luncheon@}
+?             --  --
+
++ 6359 {@Lunch, Luncheon@}
+- 6408 {@Magpie@}
++ 6408 {@Mag-pie@}
+?           +
+
+- 6409 {@Maid@}, {@Maiden@}
+?            --  --
+
++ 6409 {@Maid, Maiden@}
+- 6477 {@Maneuver@}
+?           ^   -
+
++ 6477 {@Manœuvre@}
+?           ^  +
+
+- 6507 {@Markingink@}
++ 6507 {@Marking-ink@}
+?               +
+
+- 6525 {@Mascot@}, {@Mascote@}
++ 6525 {@Mascot@}, {@[Masco]te@}
+?                    +     +
+
+- 6540 {@Material@}
++ 6540 {@Material@} <ab>&c.</ab>
+- 6560 {@Maxillar@}, {@Maxillary@}
++ 6560 {@Maxillar@}, {@[Maxillar]y@}
+?                      +        +
+
+- 6575 {@Mechanic@}
++ 6575 {@Mechanic@} <ab>&c.</ab>
+- 6615 {@Mendacious@}, {@Mendacity@}
++ 6615 {@Mendacious@}, {@[Menda]city@}
+?                        +     +
+
+- 6628 {@Mephitic@}, {@Mephitical@}
++ 6628 {@Mephitic@}, {@[Mephitic]al@}
+?                      +        +
+
+- 6655 {@Metaphysic@}, {@Metaphysical@}
++ 6655 {@Metaphysic@}, {@[Metaphysic]al@}
+?                        +          +
+
+- 6673 {@Miasm@}, {@Miasma@}
++ 6673 {@Miasm@}, {@[Miasm]a@}
+?                   +     +
+
+- 6677 {@Microcosm@}
++ 6677 {@Micro-cosm@}
+?             +
+
+- 6694 {@Millennium@}, {@Millenary@}
+?                  --  --
+
++ 6694 {@Millennium, Millenary@}
+- 6731 {@Misappropriate@}
++ 6731 {@Mis-appropriate@}
+?           +
+
+- 6735 {@Misbelieve@}, {@Misbelief@}
++ 6735 {@Misbelieve@}, {@[Mis]belief@}
+?                        +   +
+
+- 6782 {@Misshaped@}, {@Misshapen@}
++ 6782 {@Mis-shaped@}, {@[Mis]-shapen@}
+?           +            +   ++
+
+- 6786 {@Misspell@}
++ 6786 {@Mis-spell@}
+?           +
+
+- 6787 {@Misspend@}
++ 6787 {@Mis-spend@}
+?           +
+
+- 6788 {@Misstate@}
++ 6788 {@Mis-state@}
+?           +
+
+- 6792 {@Mistimed@}
++ 6792 {@Mis-timed@}
+?           +
+
+- 6793 {@Mistletoe@}
++ 6793 {@Mistle-toe@}
+?              +
+
+- 6803 {@Mizzenmast@}
++ 6803 {@Mizzen-mast@}
+?              +
+
+- 6886 {@Morn@}, {@Morning@}
+?            --  --
+
++ 6886 {@Morn, Morning@}
+- 6974 {@Murk@}, {@Murky@}
++ 6974 {@Murk@}, {@[Murk]y@}
+?                  +    +
+
+- 7004 {@Mystic@}, {@Mystical@}
++ 7004 {@Mystic@}, {@[Mystic]al@}
+?                    +      +
+
+- 7036 {@Nautic@}, {@-al@}
+?                    ^
+
++ 7036 {@Nautic@}, {@[Nautic]al@}
+?                    ^^^^^^^^
+
+- 7064 {@Neither@}, ({@nor@})
+?               --   --     -
+
++ 7064 {@Neither, (nor)@}
+?                     +
+
+- 7070 {@Nephritic@}, {@Nephritical@}
++ 7070 {@Nephritic@}, {@[Nephritic]al@}
+?                       +         +
+
+- 7127 {@Nomad@}, {@-ic@}
+?                   ^
+
++ 7127 {@Nomad@}, {@[Nomad]ic@}
+?                   ^^^^^^^
+
+- 7141 {@Nonesuch@}
++ 7141 {@None-such@}
+?            +
+
+- 7175 {@Nowise@}
++ 7175 {@No-wise@}
+?          +
+
+- 7209 {@Nutritious@}, {@Nutritive@}
+?                  --  --
+
++ 7209 {@Nutritious, Nutritive@}
+- 7283 {@Odontalgy(ia)@}
++ 7283 {@Odontalgy@} ({@[Odontalg]ia@})
+- 7293 {@Offset@}
++ 7293 {@Off-set@}
+?           +
+
+- 7294 {@Offshoot@}
++ 7294 {@Off-shoot@}
+?           +
+
+- 7297 {@Oft@}, {@Often@}, ({@Ofttimes@})
+?                        -  ^^        ^^
+
++ 7297 {@Oft@}, {@Often@} (‘O(ften)-times’)
+?                          ^ +  ++++     ^
+
+- 7323 {@Ondit@}
++ 7323 {@On-dit@}
+?          +
+
+- 7325 {@Oneirocritic@}, {@-al@}
+?                          ^
+
++ 7325 {@Oneirocritic@}, {@[Oneirocritic]al@}
+?                          ^^^^^^^^^^^^^^
+
+- 7351 {@Oppugn@}, {@-er@}
+?                    ^
+
++ 7351 {@Oppugn@}, {@[Oppugn]er@}
+?                    ^^^^^^^^
+
+- 7353 {@Optic@}, {@-al@}
+?                   ^
+
++ 7353 {@Optic@}, {@[Optic]al@}
+?                   ^^^^^^^
+
+- 7414 {@Outact@}
++ 7414 {@Out-act@}
+?           +
+
+- 7415 {@Outbalance@}
++ 7415 {@Out-balance@}
+?           +
+
+- 7416 {@Outbid@}
++ 7416 {@Out-bid@}
+?           +
+
+- 7435 {@Outmaneuver@}
+?              ^   -
+
++ 7435 {@Outmanœuvre@}
+?              ^  +
+
+- 7470 {@Overcautious@}
++ 7470 {@Over-cautious@}
+?            +
+
+- 7478 {@Overestimate@}
++ 7478 {@Over-estimate@}
+?            +
+
+- 7480 {@Overflood@}, {@Overflow@}
+?                 --  --
+
++ 7480 {@Overflood, Overflow@}
+- 7493 {@Overlenient@}
++ 7493 {@Over-lenient@}
+?            +
+
+- 7555 {@Paean@}
+?         ^^
+
++ 7555 {@Pæan@}
+?         ^
+
+- 7566 {@Paleontology@}
+?           ^
+
++ 7566 {@Palæontology@}
+?           ^
+
+- 7567 {@Palaestra@}
+?           ^^
+
++ 7567 {@Palæstra@}
+?           ^
+
+- 7601 {@Pander@}, {@-er@}
+?                    ^
+
++ 7601 {@Pander@}, {@[Pander]er@}
+?                    ^^^^^^^^
+
+- 7623 {@Papule@}
+?             ^
+
++ 7623 {@Papulæ@}
+?             ^
+
+- 7706 {@Paterfamilias@}
++ 7706 {@Pater-familias@}
+?             +
+
+- 7711 {@Pathetic@}, {@-al@}
+?                      ^
+
++ 7711 {@Pathetic@}, {@[Pathetic]al@}
+?                      ^^^^^^^^^^
+
+- 7759 {@Pedicle@}, {@Pedicel@}
+?               --  --
+
++ 7759 {@Pedicle, Pedicel@}
+- 7787 {@pendulous@}
+?        ^
+
++ 7787 {@Pendulous@}
+?        ^
+
+- 7822 {@Peregrinate@}, {@-ion@}
+?                         ^
+
++ 7822 {@Peregrinate@}, {@[Peregrinat]ion@}
+?                         ^^^^^^^^^^^^
+
+- 7848 {@Perk@}, {@-y@}
+?                  ^
+
++ 7848 {@Perk@}, {@[Perk]y@}
+?                  ^^^^^^
+
+- 7900 {@Pharmacopeia@}
+?                 ^
+
++ 7900 {@Pharmacopæia@}
+?                 ^
+
+- 7923 {@Phthisic@}, {@Phthisis@}
+?                --  --
+
++ 7923 {@Phthisic, Phthisis@}
+- 8037 {@Pliant@}, {@Pliable@}
+?              --  --
+
++ 8037 {@Pliant, Pliable@}
+- 8141 {@Postdate@}
++ 8141 {@Post-date@}
+?            +
+
+- 8142 {@Postdiluvian@}
++ 8142 {@Post-diluvian@}
+?            +
+
+- 8147 {@Postmeridian@}
++ 8147 {@Post-meridian@}
+?            +
+
+- 8148 {@Postmortem@}
++ 8148 {@Post-mortem@}
+?            +
+
+- 8149 {@Postnatal@}
++ 8149 {@Post-natal@}
+?            +
+
+- 8150 {@Postnuptial@}
++ 8150 {@Post-nuptial@}
+?            +
+
+- 8152 {@Postscript@}
++ 8152 {@Post-script@}
+?            +
+
+- 8181 {@Pragmatic@}, {@-al@}
+?                       ^
+
++ 8181 {@Pragmatic@}, {@[Pragmatic]al@}
+?                       ^^^^^^^^^^^
+
+- 8221 {@Preeminent@}
++ 8221 {@Pre-eminent@}
+?           +
+
+- 8222 {@Preemption@}
++ 8222 {@Pre-emption@}
+?           +
+
+- 8223 {@Preengage@}
++ 8223 {@Pre-engage@}
+?           +
+
+- 8224 {@Preexist@}
++ 8224 {@Pre-exist@}
+?           +
+
+- 8234 {@Preknowledge@}
++ 8234 {@Pre-knowledge@}
+?           +
+
+- 8249 {@Prepayment@}
++ 8249 {@Pre-payment@}
+?           +
+
+- 8256 {@Prerequisite@}
++ 8256 {@Pre-requisite@}
+?           +
+
+- 8416 {@Prurigo@}, {@Prurient@}
+?               --  --
+
++ 8416 {@Prurigo, Prurient@}
+- 8433 {@Pugfaced@}
++ 8433 {@Pug-faced@}
+?           +
+
+- 8434 {@Pugnose@}
++ 8434 {@Pug-nose@}
+?           +
+
+- 8651 {@Reanimate@}
++ 8651 {@Re-animate@}
+?          +
+
+- 8912 {@Reunite@}
++ 8912 {@Re-unite@}
+?          +
+
+- 8951 {@Riffraff@}
++ 8951 {@Riff-raff@}
+?            +
+
+- 9013 {@Rotund@}, {@-ity@}
+?                    ^
+
++ 9013 {@Rotund@}, {@[Rotund]ity@}
+?                    ^^^^^^^^
+
+- 9063 {@Sabbath (day)@}
+?                     --
+
++ 9063 {@Sabbath@} (day)
+?               ++
+
+- 9122 {@Sangfroid@}
++ 9122 {@Sang froid@}
+?            +
+
+- 9179 {@Scapegoat@}
+?             ^
+
++ 9179 {@Scape-Goat@}
+?             ^^
+
+- 9189 {@Scath@}, {@Scathe@}
+?             --  --
+
++ 9189 {@Scath, Scathe@}
+- 9211 {@Scoff (at)@}
+?                  --
+
++ 9211 {@Scoff@} (at)
+?             ++
+
+- 9295 {@Seesaw@}
+?           ^
+
++ 9295 {@See-Saw@}
+?           ^^
+
+- 9311 {@Semivowel@}
++ 9311 {@Semi-vowel@}
+?            +
+
+- 9324 {@Sentinel@}, {@Sentry@}
+?                --  --
+
++ 9324 {@Sentinel, Sentry@}
+- 9331 {@Septic@}, {@-al@}
+?                    ^
+
++ 9331 {@Septic@}, {@[Septic]al@}
+?                    ^^^^^^^^
+
+- 9351 {@Serrate@}, {@-ed@}
+?                     ^
+
++ 9351 {@Serrate@}, {@[Serrat]ed@}
+?                     ^^^^^^^^
+
+- 9505 {@Situate@}, {@-ed@}
+?                     ^
+
++ 9505 {@Situate@}, {@[Situat]ed@}
+?                     ^^^^^^^^
+
+- 9535 {@Slant@}, {@-ing@}
+?                   ^
+
++ 9535 {@Slant@}, {@[Slant]ing@}
+?                   ^^^^^^^
+
+- 9544 {@Sledgehammer@}
++ 9544 {@Sledge-hammer@}
+?              +
+
+- 9647 {@Soho@}
++ 9647 {@So-ho@}
+?          +
+
+- 9665 {@Somersault@}, {@Somerset@}
++ 9665 {@Somer-sault@}, {@Somer-set@}
+?             +                +
+
+- 9671 {@Song@}, {@-ster@}
+?                  ^
+
++ 9671 {@Song@}, {@[Song]ster@}
+?                  ^^^^^^
+
+- 9688 {@Sot@}, {@-Sottish@}
+?           --  ---
+
++ 9688 {@Sot, Sottish@}
+- 9732 {@Sperm@}, {@-atic@}
+?                   ^
+
++ 9732 {@Sperm@}, {@[Sperm]atic@}
+?                   ^^^^^^^
+
+- 9744 {@Spinous@}, {@-Spiny@}
+?                     -
+
++ 9744 {@Spinous@}, {@Spiny@}
+- 9755 {@Splint@}, {@-er@}
+?                    ^
+
++ 9755 {@Splint@}, {@[Splint]er@}
+?                    ^^^^^^^^
+
+- 9784 {@Spume@}, {@-y@}
+?                   ^
+
++ 9784 {@Spume@}, {@[Spum]y@}
+?                   ^^^^^^
+
+- 9906 {@Stoic@}, {@-al@}
+?                   ^
+
++ 9906 {@Stoic@}, {@[Stoic]al@}
+?                   ^^^^^^^
+
+- 10044 {@Sullen@}, {@Sullenly@}, {@Sullenness@}
++ 10044 {@Sullen@}, {@[Sullen]ly@}, {@[Sullen]ness@}
+?                     +      +        +      +
+
+- 10055 {@Sumpter@}, {@Sumpterhorse@}
++ 10055 {@Sumpter@}, {@[Sumpter]-horse@}
+?                      +       ++
+
+- 10058 {@sun@}
+?         ^
+
++ 10058 {@Sun@}
+?         ^
+
+- 10063 {@Superannuated@}
++ 10063 {@Super-annuated@}
+?              +
+
+- 10146 {@Swig@}, {@Swill@}
+?             --  --
+
++ 10146 {@Swig, Swill@}
+- 10148 {@Swindle@}, {@-er@}
+?                      ^
+
++ 10148 {@Swindle@}, {@[Swindl]er@}
+?                      ^^^^^^^^
+
+- 10216 {@Tambour@}, {@Tambourine@}
++ 10216 {@Tambour@}, {@[Tambour]ine@}
+?                      +       +
+
+- 10218 {@Tamper, (with)@}
+?               ^       --
+
++ 10218 {@Tamper@} (with)
+?               ^^
+
+- 10248 {@Tattle@}, {@-er@}
+?                     ^
+
++ 10248 {@Tattle@}, {@[Tattl]er@}
+?                     ^^^^^^^
+
+- 10279 {@Tempest@}, {@-ous@}
+?                      ^
+
++ 10279 {@Tempest@}, {@[Tempest]ous@}
+?                      ^^^^^^^^^
+
+- 10457 {@Tomorrow@}
++ 10457 {@To-morrow@}
+?           +
+
+- 10463 {@Tonight@}
++ 10463 {@To-night@}
+?           +
+
+- 10513 {@Traitor@}, {@Traitorous@}
++ 10513 {@Traitor@}, {@[Traitor]ous@}
+?                      +       +
+
+- 10608 {@Trolly@}, ({@Trolley@})
+?                 -
+
++ 10608 {@Trolly@} ({@[Troll]ey@})
+?                     +     +
+
+- 10651 {@Tumour@}, {@Tumefaction@}
+?               --  --
+
++ 10651 {@Tumour, Tumefaction@}
+- 10707 {@Ultramarine@}
++ 10707 {@Ultra-marine@}
+?              +
+
+- 10743 {@Unconcern@}, {@-ed@}
+?                        ^
+
++ 10743 {@Unconcern@}, {@[Unconcern]ed@}
+?                        ^^^^^^^^^^^
+
+- 10799 {@Ungrateful@}, {@-ness@}
+?                         ^
+
++ 10799 {@Ungrateful@}, {@[Ungrateful]ness@}
+?                         ^^^^^^^^^^^^
+
+- 10810 {@Unimpeded@}, {@Uninterrupted@}
+?                  --  --
+
++ 10810 {@Unimpeded, Uninterrupted@}
+- 10873 {@Untwist@}, {@Untwine@}, {@Unveil@}, {@Unwrap@}
++ 10873 {@Untwist@}, {@Untwine@}, {@Unveil@}, {@Unwrap@} •
+?                                                       ++
+
+- 10897 {@Upward@}, {@Upwards@}
+?               --  --
+
++ 10897 {@Upward, Upwards@}
+- 10946 {@Vantage@}, {@Vantageground@}
++ 10946 {@Vantage@}, {@[Vantage]-ground@}
+?                      +       ++
+
+- 10961 {@Vaunt@}, {@Vaunter@}
++ 10961 {@Vaunt@}, {@[Vaunt]er@}
+?                    +     +
+
+- 10973 {@Venerate@}, {@Venerable@}
+?                 --  --
+
++ 10973 {@Venerate, Venerable@}
+- 11025 {@Viand@}, ({@Viands@})
+?                -  ^^      ^^
+
++ 11025 {@Viand@} (‘V(iand)s’)
+?                  ^ +    + ^
+
+- 11030 {@Vicinage@}, {@Vicinity@}
+?                 --  --
+
++ 11030 {@Vicinage, Vicinity@}
+- 11035 {@Vie, (with)@}
+?            ^       --
+
++ 11035 {@Vie@} (with)
+?            ^^
+
+- 11073 {@Vituperate@}, {@-ion@}
+?                         ^
+
++ 11073 {@Vituperate@}, {@[Vituperat]ion@}
+?                         ^^^^^^^^^^^
+
+- 11096 {@Voluptuary@}, {@Voluptuous@}
+?                   --  --
+
++ 11096 {@Voluptuary, Voluptuous@}
+- 11101 {@vote@}
+?         ^
+
++ 11101 {@Vote@}
+?         ^
+
+- 11122 {@Wail@},{@Wailing@}
++ 11122 {@Wail@}, {@[Wail]ing@}
+?                +  +    +
+
+- 11228 {@Who@}, {@Whoever@}
++ 11228 {@Who@}, {@[Who]ever@} <ab>&c.</ab>
+?                  +   +      +++++++++++++
+
+- 11301 {@Wrath@}, {@Wrathful@}
++ 11301 {@Wrath@}, {@[Wrath]ful@}
+?                    +     +
+
+- 11310.1 {@Wrist@}
++ 11310.1 {@Wrist@},
+?                  +
+
+- 11341 {@Yore, (of)@}
+?             ------
+
++ 11341 {@Yore@}
