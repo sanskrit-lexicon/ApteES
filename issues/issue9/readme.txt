@@ -57,3 +57,31 @@ cp 0/redolocal.sh 1/ # and change to version=1
 For cleanup work details, see see readme_cleanup.txt
 
 ------------------------------------------
+2026-05-06
+  temp_ae_0_all.txt is same as that of ae.txt at commit 405cab9
+  See readme_ae_history.txt
+
+----------------
+# get current ae_all.txt (at commit 3b990c8) and separate into 3 parts:
+  ae_header.txt
+  ae.txt  (all the entries)
+  ae_footer.txt
+mkdir temp_ae_20260506
+cd temp_ae_20260506
+cp /c/xampp/htdocs/cologne/csl-orig/v02/ae/ae.txt ae_all.txt
+python ../0/extract_entries.py ae_all.txt ae_header.txt ae.txt ae_footer.txt
+550 written to ae_header.txt
+88835 written to ae.txt
+226 written to ae_footer.txt
+-----------------
+# copy the 3 parts to csl-orig
+cp ae.txt /c/xampp/htdocs/cologne/csl-orig/v02/ae/ae.txt
+cp ae_header.txt /c/xampp/htdocs/cologne/csl-orig/v02/ae/ae_header.txt
+cp ae_footer.txt /c/xampp/htdocs/cologne/csl-orig/v02/ae/ae_footer.txt
+
+------------------
+push csl-orig to github.
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+git add .
+git commit -m "AE: remove header and footer #9"
+git push
