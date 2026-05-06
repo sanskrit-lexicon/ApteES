@@ -32,3 +32,23 @@ rm temp_ae_09D_cdsl_ab.txt
 
 
 python ea.py temp_ae_09D_cdsl.txt temp_ae_09D_cdsl_ea.txt
+
+************************************************************
+05-30-2024
+AB version 09E: https://github.com/sanskrit-lexicon/ApteES/issues/9#issuecomment-2135901199
+# temp_ae_09E.txt
+unzip temp_ae_09E.zip
+rm temp_ae_09E.zip  # not needed further in this study
+---------------
+# temp_ae_09E_cdsl.txt
+python ae_convert_ea.py AB,CDSL  temp_ae_09E.txt temp_ae_09E_cdsl.txt
+# check invertibility
+python ae_convert_ea.py CDSL,AB  temp_ae_09E_cdsl.txt temp_ae_09E_cdsl_ab.txt
+#
+diff -w temp_ae_09E.txt temp_ae_09E_cdsl_ab.txt | wc -l
+# 0 # files are the same. invertibility confirmed.
+# remove unneeded file
+rm temp_ae_09E_cdsl_ab.txt
+
+
+

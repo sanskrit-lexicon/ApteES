@@ -1,4 +1,36 @@
-# 1/cleanup 
+# 1/cleanup continued
+readme_clean1.txt  continuation of readme_clean.txt.
+From readme_clean.txt, we start with
+- temp_ae_15.txt latest cdsl version
+- temp_ae_ab2.txt comparable AB version, derived from ABmark/temp_ae_09D_cdsl.txt
+- ABmark/temp_ae_09E_cdsl.txt  Latest version from AB
+  Ref: https://github.com/sanskrit-lexicon/ApteES/issues/9#issuecomment-2135901199
+
+Actually, since 09E has same format as 09D, to use 09E, we must
+start with
+temp_ae_14.txt   predecessor to temp_ae_15.txt
+temp_ae_ab1a.txt predecessor to temp_ae_ab2.txt
+
+-------------------------------
+# resolve metaline differences
+grep -E '<L>' temp_ae_14.txt | wc -l   # 11359
+grep -E '<L>' ABmark/temp_ae_09D_cdsl.txt | wc -l  # 11360
+
+cp ABmark/temp_ae_09D_cdsl.txt temp_ae_ab3.txt # ab3 is copy we may modify
+
+
+# Resolve some differences in headwords
+python clean/hwcmp.py temp_ae_14.txt temp_ae_ab3.txt  hwcmp_14_ab3.txt
+76 differences
+## make changes to both input files until there are no differences in metalines.
+----
+diphthongs  
+************************************************************************
+OLD NOTES from readme_clean.txt
+************************************************************************
+
+--------------------
+
 cd issue9
 # initialise temp_ae_1.txt
 cp 0/temp_ae_0.txt 1/temp_ae_00.txt
