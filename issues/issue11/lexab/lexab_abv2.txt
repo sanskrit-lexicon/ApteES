@@ -1,0 +1,110 @@
+00001 <lex>Interj.</lex>
+00001 <lex>Prefix</lex>
+05308 <lex>a.</lex>
+01504 <lex>adv.</lex>
+00023 <lex>conj.</lex>
+00003 <lex>f.</lex>
+00038 <lex>interj.</lex>
+00002 <lex>m.</lex>
+00004 <lex>n.</lex>
+00001 <lex>part.</lex>
+00056 <lex>prep.</lex>
+00004 <lex>pron. a.</lex>
+00008 <lex>pron.</lex>
+10996 <lex>s.</lex>
+01335 <lex>v. i.</lex>
+03473 <lex>v. t.</lex>
+00122 <lex>v.</lex>
+01054 ⁅&c.⁆
+00006 ⁅A.⁆
+00001 ⁅Arith.⁆
+03230 ⁅A⁆
+00005 ⁅Bah. comp.⁆
+00393 ⁅D.⁆
+00091 ⁅Ex.⁆
+00014 ⁅Fig.⁆
+00001 ⁅Gen. Ex.⁆
+00010 ⁅Gen. ex.⁆
+00001 ⁅Interj.⁆
+00001 ⁅Karm. comps.⁆
+00001 ⁅Karm.⁆
+00001 ⁅Lit.⁆
+00007 ⁅Math.⁆
+00001 ⁅Oft.⁆
+00001 ⁅Opp.⁆
+00003 ⁅Pass.⁆
+00002 ⁅Pl.⁆
+00003 ⁅Pot.⁆
+09119 ⁅P⁆
+00004 ⁅Rs.⁆
+00001 ⁅Tat. comp.⁆
+03628 ⁅U⁆
+00001 ⁅Voc.⁆
+00614 ⁅a.⁆
+00113 ⁅abl.⁆
+00002 ⁅abs.⁆
+00089 ⁅acc.⁆
+00013 ⁅adj.⁆
+00018 ⁅adv.⁆
+05585 ⁅c.⁆
+00004 ⁅cf.⁆
+00002 ⁅circum.⁆
+01022 ⁅comp.⁆
+00003 ⁅compar.⁆
+00005 ⁅comps.⁆
+00003 ⁅constr.⁆
+00002 ⁅correl.⁆
+00084 ⁅dat.⁆
+00001 ⁅demon. pron.⁆
+00004 ⁅denom.⁆
+00003 ⁅deriv.⁆
+00071 ⁅desid.⁆
+00001 ⁅du.⁆
+00001 ⁅dual⁆
+00002 ⁅e. g.⁆
+00224 ⁅ex.⁆
+04955 ⁅f.⁆
+00001 ⁅fem.⁆
+00144 ⁅fig.⁆
+00002 ⁅freq.⁆
+00004 ⁅fut.⁆
+00001 ⁅gen. abs.⁆
+00094 ⁅gen. ex.⁆
+00169 ⁅gen.⁆
+00001 ⁅gram.⁆
+00003 ⁅ibid.⁆
+00003 ⁅imp.⁆
+00031 ⁅ind.⁆
+00028 ⁅inf.⁆
+00001 ⁅inst.⁆
+00066 ⁅instr.⁆
+00033 ⁅lit.⁆
+00012 ⁅loc. abs.⁆
+00099 ⁅loc.⁆
+01990 ⁅m.⁆
+00001 ⁅masc.⁆
+00790 ⁅n.⁆
+00001 ⁅nom.⁆
+00001 ⁅num.⁆
+00107 ⁅oft. ex.⁆
+00171 ⁅oft.⁆
+00004 ⁅opp.⁆
+00001 ⁅p. p.⁆
+00039 ⁅part.⁆
+00515 ⁅pass.⁆
+00095 ⁅pl.⁆
+00039 ⁅pot.⁆
+00134 ⁅pr.⁆
+00004 ⁅prep.⁆
+00003 ⁅pres. part.⁆
+00013 ⁅pron. a.⁆
+00002 ⁅pron.⁆
+00427 ⁅q. v.⁆
+00230 ⁅s.⁆
+00011 ⁅sim. comp.⁆
+00003 ⁅sim. comps.⁆
+00001 ⁅sing.⁆
+00023 ⁅v. i.⁆
+00021 ⁅v. t.⁆
+00023 ⁅v.⁆
+00002 ⁅voc.⁆

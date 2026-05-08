@@ -1,0 +1,96 @@
+&amp;c.	<id>&amp;c.</id> <disp>Et cetera. denotes that the rest of the word &#13;&#10;under consideration is to be supplied;&#13;&#10; e. g. रत्नप्रभवस्य यस्य under अनन्त means अनन्तरत्न &c.</disp>
+A	<id>A</id> <disp>Ātmanepada</disp>
+A.	<id>A.</id> <disp>Ātmanepada</disp>  
+Arith.	<id>Arith.</id> <disp>Arithmetic</disp>
+Bah. comp.	<id>Bah. comp.</id> <disp>Bahuvrīhi compound</disp>
+D.	<id>D.</id> <disp>Denominative</disp>
+Ex.	<id>Ex.</id> <disp>Expressed</disp>
+Fig.	<id>Fig.</id> <disp>Figurative</disp>
+Gen. Ex.	<id>Gen. Ex.</id> <disp>Generally expressed</disp>
+Gen. ex.	<id>Gen. ex.</id> <disp>Generally expressed</disp>
+Interj.	<id>Interj.</id> <disp>Interjection</disp>
+Karm.	<id>Karm.</id> <disp>Karmadhāraya compound</disp>
+Karm. comps.	<id>Karm. comps.</id> <disp>Karmadhāraya compounds</disp>
+Lit.	<id>Lit.</id> <disp>Literal, literally</disp>
+Math.	<id>Math.</id> <disp>Mathematics</disp>
+Oft.	<id>Oft.</id> <disp>Often times</disp>
+Opp.	<id>Opp.</id> <disp>Often times</disp>
+P	<id>P</id> <disp>Parasmaipada</disp>
+Pass.	<id>Pass.</id> <disp>Passive</disp>
+Pl.	<id>Pl.</id> <disp>Plural</disp>
+Pot.	<id>Pot.</id> <disp>Potential</disp>
+Prefix	<id>Prefix</id> <disp>Prefix</disp>
+Rs.	<id>Rs.</id> <disp>Rupees</disp>
+Tat. comp.	<id>Tat. comp.</id> <disp>Tatpuruṣa compound</disp>
+U	<id>U</id> <disp>Ubhayapada (Parasmaipada and Ātmanepada)</disp>
+Voc.	<id>Voc.</id> <disp>Vocative</disp>
+a.	<id>a.</id> <disp>Adjective</disp>
+abl.	<id>abl.</id> <disp>Ablative</disp>
+abs.	<id>abs.</id> <disp>Absolute</disp>
+acc.	<id>acc.</id> <disp>Accusative</disp>
+adj.	<id>adj.</id> <disp>Adjective</disp>
+adv.	<id>adv.</id> <disp>Adverb</disp>
+c.	<id>c.</id> <disp>Causal</disp>
+cf.	<id>cf.</id> <disp>Compare</disp>
+circum.	<id>circum.</id> <disp>Circumlocution</disp>
+comp.	<id>comp.</id> <disp>Compound</disp>
+compar.	<id>compar.</id> <disp>Comparative</disp>
+comps.	<id>comps.</id> <disp>Compounds</disp>
+conj.	<id>conj.</id> <disp>Conjunction</disp>
+constr.	<id>constr.</id> <disp>Construction</disp>
+correl.	<id>correl.</id> <disp>Correlative</disp>
+dat.	<id>dat.</id> <disp>Dative</disp>
+demon. pron.	<id>demon. pron.</id> <disp>Demonstrative pronoun</disp>
+denom.	<id>denom.</id> <disp>Denominative</disp>
+deriv.	<id>deriv.</id> <disp>Derivative</disp>
+desid.	<id>desid.</id> <disp>Desiderative</disp>
+du.	<id>du.</id> <disp>Dual</disp>
+dual	<id>dual</id> <disp>Dual</disp>
+e. g.	<id>e. g.</id> <disp>Denominative</disp>
+ex.	<id>ex.</id> <disp>Expressed</disp>
+f.	<id>f.</id> <disp>Feminine</disp>
+fem.	<id>fem.</id> <disp>Feminine</disp>
+fig.	<id>fig.</id> <disp>Figurative</disp>
+freq.	<id>freq.</id> <disp>Frequentative</disp>
+fut.	<id>fut.</id> <disp>Future</disp>
+gen.	<id>gen.</id> <disp>Genitive</disp>
+gen. abs.	<id>gen. abs.</id> <disp>Genitive absolute</disp>
+gen. ex.	<id>gen. ex.</id> <disp>Generally expressed</disp>
+gram.	<id>gram.</id> <disp>Grammar</disp>
+ibid.	<id>ibid.</id> <disp>The same.</disp>
+imp.	<id>imp.</id> <disp>Imperative</disp>
+ind.	<id>ind.</id> <disp>Indeclinable</disp>
+inf.	<id>inf.</id> <disp>Infinitive</disp>
+inst.	<id>inst.</id> <disp>Instrumental</disp>
+instr.	<id>instr.</id> <disp>Instrumental</disp>
+interj.	<id>interj.</id> <disp>Interjection</disp>
+lit.	<id>lit.</id> <disp>Literal, literally</disp>
+loc.	<id>loc.</id> <disp>Locative</disp>
+loc. abs.	<id>loc. abs.</id> <disp>Locative absolute</disp>
+m.	<id>m.</id> <disp>Masculine</disp>
+masc.	<id>masc.</id> <disp>Masculine</disp>
+n.	<id>n.</id> <disp>Neuter</disp>
+nom.	<id>nom.</id> <disp>Nominative</disp>
+num.	<id>num.</id> <disp>Numeral</disp>
+oft.	<id>oft.</id> <disp>Often times</disp>
+oft. ex.	<id>oft. ex.</id> <disp>Often times expressed</disp>
+opp.	<id>opp.</id> <disp>Opposite of</disp>
+p. p.	<id>p. p.</id> <disp>Past passive participle</disp>
+part.	<id>part.</id> <disp>Participle</disp>
+pass.	<id>pass.</id> <disp>Passive</disp>
+pl.	<id>pl.</id> <disp>Plural</disp>
+pot.	<id>pot.</id> <disp>Potential</disp>
+pr.	<id>pr.</id> <disp>Prefixed</disp>
+prep.	<id>prep.</id> <disp>Preposition</disp>
+pres. part.	<id>pres. part.</id> <disp>Present participle</disp>
+pron.	<id>pron.</id> <disp>Pronoun</disp>
+pron. a.	<id>pron. a.</id> <disp>Pronominal adjective</disp>
+q. v.	<id>q. v.</id> <disp>Quod vide, which see</disp>
+s.	<id>s.</id> <disp>Substantive</disp>
+sim. comp.	<id>sim. comp.</id> <disp>Similar compound</disp>
+sim. comps.	<id>sim. comps.</id> <disp>Similar compounds</disp>
+sing.	<id>sing.</id> <disp>Singular</disp>
+v.	<id>v.</id> <disp>Verb (transitive and intransitive)</disp>
+v. i.	<id>v. i.</id> <disp>Verb intransitive</disp>
+v. t.	<id>v. t.</id> <disp>Verb transitive.</disp>
+voc.	<id>voc.</id> <disp>Vocative</disp>
