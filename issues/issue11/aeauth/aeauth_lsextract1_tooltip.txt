@@ -1,0 +1,38 @@
+Format:  colon-separated values, 3 fields: abbrev, count in ae.txt,tooltip
+tooltips from ae_footer
+Note: 2 have no tooltip (Mah., Mallinātha)
+Note: 2 in ae_footer are not used:
+  Man. <C2>Mahabharata.
+  Mn. <C2>Mallinath.
+  
+Bh.:10:Bhartrihari, II denoting Nitishataka and III Vairagyashataka. (Bombay Edition.)
+D. K.:8:Dashakumaracharita, I denothing the Purvapithika,
+and II the Uttarapithika, and the Arabic figure, the number of the story.
+H.:20:>Hitopadesha, the Arabic figures denoting the four parts in their order.
+K.:66:Kumarasambhava.
+Ka.:129:Kadambari (Bombay Edition)
+Kav.:1:Kavyadarsha.
+Ki.:3:Kiratarjuniyam.
+Li.:2:Lilavati.
+M.:68:Malavikagnimitra (Bombay Edition.)
+Mah.:1:?
+Mal.:56:Malatimadhava (Bombay edition)
+Mallinātha:1:?
+Me.:9:Meghaduta (Calcutta Edition.)
+Mr.:30:Mricchakatika.
+Mu.:32:Mudrarakshasa.
+N.:3:Naishadha
+P.:28:Panchatantra, the Roman figure denoting the number of the Tantra and the Arabic, the number of the story (Bombay Edition.)
+R.:159:Raghuvamsha.
+Rat.:12:Ratnavali.
+S. B.:41:Shankar Bhashya.
+S. K.:12:Siddhanta Kaumudi.
+S. R.:1:Subhashitaratnabhandagaram.
+S.:266:Shakuntala.
+Si.:2:Sisupalavadha.
+U.:112:Uttararamacharita
+V. M.:4:Vyavabara Mayukha (Mr. Mandlik's edition.)
+V.:51:Vikramorvashiyam
+Ve.:5:Venisamhara.
+Vi.:1:Viracharita.
+Y.:8:Yajnavalkya.

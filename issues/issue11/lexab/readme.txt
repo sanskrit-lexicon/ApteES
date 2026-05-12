@@ -50,6 +50,31 @@ cd /c/xampp/htdocs/cologne/csl-pywork/v02/
 sh generate_dict.sh ae  ../../ae
 sh xmlchk_xampp.sh ae
 # ok
+# ----------------------------
+2026-05-10  Revisions to make_xml.py for new AE version
 
+# initialize make_xml_new.py
+cp /c/xampp/htdocs/cologne/csl-pywork/v02/makotemplates/pywork/make_xml.py make_xml_new.py
+See readme_make_xml.txt for changes
+
+# initialize new ae.txt:  temp_ae_new.txt
+cp prepab/temp_abv2.txt temp_ae_new.txt
+
+
+# ----------------------------
+# redo_new.sh
+makes temporary local installation of displays for testing.
+uses temp_ae_new.txt and make_xml_new.py.
+
+# ----------------------------
+# aeauth
+mkdir aeauth
+see aeauth/readme.txt
+
+
+
+# ----------------------------
+# include printchanges of classic.
+# ----------------------------
 
 
