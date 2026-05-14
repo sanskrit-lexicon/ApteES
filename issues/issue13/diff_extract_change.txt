@@ -1,0 +1,36 @@
+10c10
+< 1226	bring	{{{@4@} {#janH#}->{@4@} {#jan#}||20170120|||}}
+---
+> 1226	bring	{{janH->jan||20170120|||}}
+49c49
+< 2990	disenchant	{{uDhf->udDf||20161017|||}}
+---
+> 2990	disenchant	{{ud-hf->udDf||20161017|||}}
+89,90c89,90
+< 5230	impotent	{{niHsatva->niHsattva||20160822|||twice}}
+< 5230	impotent	{{niHsatva->niHsattva||20160822|||twice}}
+---
+> 5230	impotent	{{niHsatvaM->niHsattvaM||20160822|||}}
+> 5230	impotent	{{niHsatva->niHsattva||20160822|||}}
+109c109
+< 6236	linseywoolsey	{{niH-satva->niH-sattva||20160822|||}}
+---
+> 6236	linseywoolsey	{{niHsatva->niHsattva||20160822|||}}
+145c145
+< 9386	share	{{{#dfHKaM-#}->{#duHKaM-#}||20161201|||}}
+---
+> 9386	share	{{dfHKaM-->duHKaM-||20161201|||}}
+147c147
+< 9770	spout	{{or {#niHsfM#}->or {#niHsf#}||20161224|||}}
+---
+> 9770	spout	{{<s>niHsfM</s>-><s>niHsf</s>||20161224|||}}
+155,158c155,158
+< 10392	throw	{{{#yAM#}->{#yA#}||20161211|||}}
+< 10392	throw	{{{#yAMpayati#}->{#yApayati#}||20161211|||}}
+< 10418	time	{{by this t->by this t.||20170120|||print missing period}}
+< 10663	turn	{{{#pariRaB#}->{#pariRam#}||20161202|||}}
+---
+> 10392	throw	{{<s>yAM</s>-><s>yA</s>||20161211|||}}
+> 10392	throw	{{<s>yAMpayati</s>-><s>yApayati</s>||20161211|||}}
+> 10418	time	{{by this t->by this t(ime)||20170120|||print missing period}}
+> 10663	turn	{{<s>pariRaB</s>-><s>pariRam</s>||20161202|||}}

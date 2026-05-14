@@ -1,0 +1,333 @@
+; <L>1226<pc>042<k1>bring<k2>bring
+; {{upAnA->upAnI||20170120|||}}
+6874 old Ⓝ{@[Bring] forward@},Ⓐ<s>upanyas</s>. 4 <ab>P</ab>, <s>udAhf</s> 1 <ab>P</ab>, <s>upakzip</s> 6 <ab>P</ab>, <s>upAnI, puraskf</s>. [Page43]
+;
+6874 new Ⓝ{@[Bring] forward@},Ⓐ<s>upanyas</s>. 4 <ab>P</ab>, <s>udAhf</s> 1 <ab>P</ab>, <s>upakzip</s> 6 <ab>P</ab>, <s>{{upAnA->upAnI||20170120|||}}, puraskf</s>. [Page43]
+; <L>1950<pc>064<k1>colour<k2>colour
+; {{avalaMtrM->avalaMb||20161010|||print unclear}}
+10901 old Ⓑ{@4@} <s>patAkA, DvajaH, ketuH</s>. ‘C(olour) blind’, <ab>a.</ab> <s>varRavivekAkzama</s>, ‘to come off with flying c(olour)s’ <s>vijayin</s> <ab>a.</ab> <s>BU</s> 1 <ab>P</ab>, <s>patAkAM udDunvat</s> <ab>a.</ab> <s>Agam</s> 1 <ab>P</ab>; <s>kAryasidDiMprakaw</s> 10, ‘to come out in oneʼs true c(olour)s’ <s>svaBAvaM prakaw</s> 10; ‘fast c(olour)’ <s>sTAyin</s> <ab>a.</ab> <s>varRaH</s>; ‘to fight under false c(olour)s’, <s>svahetugopanAya vyAjaM puraskf</s> 8 <ab>U</ab>; ‘to give c(olour)’ <s>ucitatvaM Aruh</s> <ab>c.</ab>; ‘high c(olour)’ <s>tAmravarRaH</s>; ‘to lone c(olour)’ <s>vivarRa</s> <ab>a.</ab> <s>BU</s> 1 <ab>P</ab>, <s>nazwasOMdarya</s> <ab>a.</ab> <s>BU</s> 1 <ab>P</ab>; ‘off c(olour)’ <s>nazwaprakarzaH</s>; ‘to paint in bright c(olour)s’ <s>BUz</s> 10, <s>atiSayoktyA vad</s> 1 <ab>P</ab>; ‘to show oneʼs c(olour)s’, <s>svarUpaM-svaBAvaM-AsTA</s> 1 <ab>P</ab>; ‘to stick to oneʼs c(olour)’, <ab>s.</ab> [Page65] <s>svapakzaM-svamataM-{{dfqaM->dfQaM||20161010|||}} avalaMb</s> 1 <ab>A</ab>; ‘under c(olour) of’ (in <ab>comp.</ab>) <ab>ex.</ab> by <s>vyAjena</s> or <s>CadmanA</s>; ‘without c(olour)’ <s>nirvyAjaM</s>.
+;
+10901 new Ⓑ{@4@} <s>patAkA, DvajaH, ketuH</s>. ‘C(olour) blind’, <ab>a.</ab> <s>varRavivekAkzama</s>, ‘to come off with flying c(olour)s’ <s>vijayin</s> <ab>a.</ab> <s>BU</s> 1 <ab>P</ab>, <s>patAkAM udDunvat</s> <ab>a.</ab> <s>Agam</s> 1 <ab>P</ab>; <s>kAryasidDiMprakaw</s> 10, ‘to come out in oneʼs true c(olour)s’ <s>svaBAvaM prakaw</s> 10; ‘fast c(olour)’ <s>sTAyin</s> <ab>a.</ab> <s>varRaH</s>; ‘to fight under false c(olour)s’, <s>svahetugopanAya vyAjaM puraskf</s> 8 <ab>U</ab>; ‘to give c(olour)’ <s>ucitatvaM Aruh</s> <ab>c.</ab>; ‘high c(olour)’ <s>tAmravarRaH</s>; ‘to lone c(olour)’ <s>vivarRa</s> <ab>a.</ab> <s>BU</s> 1 <ab>P</ab>, <s>nazwasOMdarya</s> <ab>a.</ab> <s>BU</s> 1 <ab>P</ab>; ‘off c(olour)’ <s>nazwaprakarzaH</s>; ‘to paint in bright c(olour)s’ <s>BUz</s> 10, <s>atiSayoktyA vad</s> 1 <ab>P</ab>; ‘to show oneʼs c(olour)s’, <s>svarUpaM-svaBAvaM-AsTA</s> 1 <ab>P</ab>; ‘to stick to oneʼs c(olour)’, <ab>s.</ab> [Page65] <s>svapakzaM-svamataM-{{dfqaM->dfQaM||20161010|||}} {{avalaMtrM->avalaMb||20161010|||print unclear}}</s> 1 <ab>A</ab>; ‘under c(olour) of’ (in <ab>comp.</ab>) <ab>ex.</ab> by <s>vyAjena</s> or <s>CadmanA</s>; ‘without c(olour)’ <s>nirvyAjaM</s>.
+; <L>2218<pc>080<k1>convex<k2>convex
+; {{nyUbjatA,->nyubjatA,||20161211|||}}
+12800 old Ⓝ{@[Convex]ity@},Ⓒ<lex>s.</lex>Ⓓ<s>nyubjatA, ABogaH</s>.
+;
+12800 new Ⓝ{@[Convex]ity@},Ⓒ<lex>s.</lex>Ⓓ<s>{{nyUbjatA,->nyubjatA,||20161211|||}} ABogaH</s>.
+; <L>2562<pc>092<k1>dash<k2>dash
+; {{vidf->vidF||20170505|||}}
+; vidF  NOT CHANGED OK
+; 14794 old <L>2562<pc>092<k1>dash<k2>dash
+;
+; 14794 new <L>2562<pc>092<k1>dash<k2>dash
+;
+; 14795 old {@Dash@}¦,Ⓒ<lex>v. t.</lex>Ⓓ<s>raBasA prakzip</s> 6 <ab>P</ab> or <s>pat</s> <ab>c.</ab>, <s>A-pratyA-han</s> 2 <ab>U</ab>; ‘d(ash)ed her head against a rock’ <s>prastaraM tasyAH SiraH AjaGne</s>.
+;
+; 14795 new {@Dash@}¦,Ⓒ<lex>v. t.</lex>Ⓓ<s>raBasA prakzip</s> 6 <ab>P</ab> or <s>pat</s> <ab>c.</ab>, <s>A-pratyA-han</s> 2 <ab>U</ab>; ‘d(ash)ed her head against a rock’ <s>prastaraM tasyAH SiraH AjaGne</s>.
+;
+; 14796 old Ⓑ{@2@} <s>mfd</s> 9 <ab>P</ab>, <s>praBaMj</s> 7 <ab>P</ab>, <s>KaMqaSaH kf</s> 8 <ab>U</ab>, <s>cUrR</s> 10, <s>{{vidf->vidF||20170505|||}}</s> 10; ‘the ship was d(ash)ed to pieces’ <s>potaH KaMqaSo BagnaH, -sahasraDA vi-dIrRaH</s>, (<s>pratiGAtena</s>) <s>SakalIkftaH</s>.
+;
+; 14796 new Ⓑ{@2@} <s>mfd</s> 9 <ab>P</ab>, <s>praBaMj</s> 7 <ab>P</ab>, <s>KaMqaSaH kf</s> 8 <ab>U</ab>, <s>cUrR</s> 10, <s>{{vidf->{{vidf->vidF||20170505|||}}||20170505|||}}</s> 10; ‘the ship was d(ash)ed to pieces’ <s>potaH KaMqaSo BagnaH, -sahasraDA vi-dIrRaH</s>, (<s>pratiGAtena</s>) <s>SakalIkftaH</s>.
+;
+; 14797 old Ⓑ{@3@} <s>avakF</s> 6 <ab>P</ab>; <s>ukz</s> 1 <ab>P</ab>, <s>sic</s> 6 <ab>P</ab>.
+;
+; 14797 new Ⓑ{@3@} <s>avakF</s> 6 <ab>P</ab>; <s>ukz</s> 1 <ab>P</ab>, <s>sic</s> 6 <ab>P</ab>.
+;
+; 14798 old Ⓑ{@4@} <s>saMmiSr</s> 10.
+;
+; 14798 new Ⓑ{@4@} <s>saMmiSr</s> 10.
+;
+; 14799 old Ⓑ{@5@} <s>vinaS</s> <ab>c.</ab>, <s>vyAmfj</s> 2 <ab>P</ab> or <ab>c.</ab>, <s>vilup</s> <ab>c.</ab>
+;
+; 14799 new Ⓑ{@5@} <s>vinaS</s> <ab>c.</ab>, <s>vyAmfj</s> 2 <ab>P</ab> or <ab>c.</ab>, <s>vilup</s> <ab>c.</ab>
+;
+; 14800 old Ⓔ<lex>v. i.</lex>Ⓓ(against) <s>Apat</s> 1 <ab>P</ab>, <s>A-samA-han</s>.
+;
+; 14800 new Ⓔ<lex>v. i.</lex>Ⓓ(against) <s>Apat</s> 1 <ab>P</ab>, <s>A-samA-han</s>.
+;
+14801 old Ⓑ{@2@} <s>SakalIBU</s> 1 <ab>P</ab>, <s>vidF-praBaMj</s> <ab>pass.</ab>; ‘d(ash) off’ <s>javena palAy</s> 1 <ab>A</ab> or <s>apasf</s> 1 <ab>P</ab>.
+;
+14801 new Ⓑ{@2@} <s>SakalIBU</s> 1 <ab>P</ab>, <s>{{vidf->vidF||20170505|||}}-praBaMj</s> <ab>pass.</ab>; ‘d(ash) off’ <s>javena palAy</s> 1 <ab>A</ab> or <s>apasf</s> 1 <ab>P</ab>.
+;
+; 14802 old Ⓔ<lex>s.</lex>Ⓓ<s>saMGawwaH, samAGAtaH, aBiGAtaH, nizpezaH, saMmardaH</s>.
+;
+; 14802 new Ⓔ<lex>s.</lex>Ⓓ<s>saMGawwaH, samAGAtaH, aBiGAtaH, nizpezaH, saMmardaH</s>.
+;
+; 14803 old Ⓑ{@2@} <s>prahAraH, AGAtaH, AkramaH</s>.
+;
+; 14803 new Ⓑ{@2@} <s>prahAraH, AGAtaH, AkramaH</s>.
+;
+; 14804 old Ⓑ{@3@} <s>prAgalByaM, DIratA, utsAhaH</s>. 
+;
+; 14804 new Ⓑ{@3@} <s>prAgalByaM, DIratA, utsAhaH</s>. 
+;
+; <L>2868<pc>106<k1>die<k2>die
+; {{niHsatva->niHsattva||20160822|||}}
+; niHsattva  NOT CHANGED FIXED
+; 16652 old <L>2868<pc>106<k1>die<k2>die
+;
+; 16652 new <L>2868<pc>106<k1>die<k2>die
+;
+; 16653 old {@Die@}¦,Ⓒ<lex>v. i.</lex>Ⓓ<s>mf</s> 6 <ab>A</ab>, <s>prARAn-asUn-jIvitaM tyaj</s> 1 <ab>P</ab> or <s>utsfj</s> 6 <ab>P</ab> or <s>hA</s> 3 <ab>P</ab>, <s>paMcatvaM yA</s> 2 <ab>P</ab> or <s>gam</s> 1 <ab>P</ab>, <s>uparam</s> 1 <ab>P</ab>; <s>parAsu-gatAsu</s> <ab>a.</ab> <s>BU</s> 1 <ab>P</ab>, <s>dehaM-tanuM tyaj, pra-i</s> 2 <ab>P</ab>, <s>vipad</s> 4 <ab>A</ab>, <s>saMsTA</s> 1 <ab>A</ab>, <s>pramI</s> <ab>pass.</ab>
+;
+; 16653 new {@Die@}¦,Ⓒ<lex>v. i.</lex>Ⓓ<s>mf</s> 6 <ab>A</ab>, <s>prARAn-asUn-jIvitaM tyaj</s> 1 <ab>P</ab> or <s>utsfj</s> 6 <ab>P</ab> or <s>hA</s> 3 <ab>P</ab>, <s>paMcatvaM yA</s> 2 <ab>P</ab> or <s>gam</s> 1 <ab>P</ab>, <s>uparam</s> 1 <ab>P</ab>; <s>parAsu-gatAsu</s> <ab>a.</ab> <s>BU</s> 1 <ab>P</ab>, <s>dehaM-tanuM tyaj, pra-i</s> 2 <ab>P</ab>, <s>vipad</s> 4 <ab>A</ab>, <s>saMsTA</s> 1 <ab>A</ab>, <s>pramI</s> <ab>pass.</ab>
+;
+; 16654 old Ⓑ{@2@} <s>vinaS</s> 4 <ab>P</ab>, <s>pralI</s> 4 <ab>A</ab>, <s>DvaMs</s> 1 <ab>A</ab>, <s>kzi</s> <ab>pass.</ab>, <s>avasad</s> 1 <ab>P</ab>.
+;
+; 16654 new Ⓑ{@2@} <s>vinaS</s> 4 <ab>P</ab>, <s>pralI</s> 4 <ab>A</ab>, <s>DvaMs</s> 1 <ab>A</ab>, <s>kzi</s> <ab>pass.</ab>, <s>avasad</s> 1 <ab>P</ab>.
+;
+; 16655 old Ⓑ{@3@} <s>mlE</s> 1 <ab>P</ab>, <s>viSF</s> <ab>pass.</ab>
+;
+; 16655 new Ⓑ{@3@} <s>mlE</s> 1 <ab>P</ab>, <s>viSF</s> <ab>pass.</ab>
+;
+; 16656 old Ⓝ{@Dead@},Ⓒ<lex>a.</lex>Ⓓ<s>mfta, uparata, saMsTita, preta, pareta, parAsu, gatAsu, vipanna, gataprARa, vicetana, prARahIna, pramIta</s>.
+;
+; 16656 new Ⓝ{@Dead@},Ⓒ<lex>a.</lex>Ⓓ<s>mfta, uparata, saMsTita, preta, pareta, parAsu, gatAsu, vipanna, gataprARa, vicetana, prARahIna, pramIta</s>.
+;
+; 16657 old Ⓑ{@2@} <s>niScala, niScezwa, jaqa, nistejas, {{niHsatva->niHsattva||20160822|||}}, asAra, nizPala</s>.
+;
+; 16657 new Ⓑ{@2@} <s>niScala, niScezwa, jaqa, nistejas, {{niHsatva->{{niHsatva->niHsattva||20160822|||}}||20160822|||}}, asAra, nizPala</s>.
+;
+; 16658 old Ⓑ{@3@} <s>supta, stabDa</s> (as of limbs); ‘d(ead) body’ <s>SavaM, mftaSarIraM</s>; <s>kuRapaH</s>. ‘d(ead) language’ <s>apracalitA BAzA</s>; ‘d(ead) sleep’ <s>Gora-gAQa-nidrA</s>; ‘d(ead) loss’ <s>paripUrRA-sakalA hAniH</s>; ‘d(ead) letter’ <s>luptArTaM vacanaM</s>, ‘d(ead) soul’ <s>niraBimAnaH AtmA</s>.
+;
+; 16658 new Ⓑ{@3@} <s>supta, stabDa</s> (as of limbs); ‘d(ead) body’ <s>SavaM, mftaSarIraM</s>; <s>kuRapaH</s>. ‘d(ead) language’ <s>apracalitA BAzA</s>; ‘d(ead) sleep’ <s>Gora-gAQa-nidrA</s>; ‘d(ead) loss’ <s>paripUrRA-sakalA hAniH</s>; ‘d(ead) letter’ <s>luptArTaM vacanaM</s>, ‘d(ead) soul’ <s>niraBimAnaH AtmA</s>.
+;
+; 16659 old Ⓔ<lex>s.</lex>Ⓓ(Of night) <s>maDyarAtraH, niSITaH, arDarAtraH</s>.
+;
+; 16659 new Ⓔ<lex>s.</lex>Ⓓ(Of night) <s>maDyarAtraH, niSITaH, arDarAtraH</s>.
+;
+; 16660 old Ⓑ{@2@} <s>maDyaM</s>; <i>See</i> {@Depth@}.
+;
+; 16660 new Ⓑ{@2@} <s>maDyaM</s>; <i>See</i> {@Depth@}.
+;
+; 16661 old Ⓝ{@[Dead]en@},Ⓒ<lex>v. t.</lex>Ⓓ<s>durbalIkf</s>. 8 <ab>U</ab>, <s>SiTilIkf, tejo hf</s> 1 <ab>P</ab>, <s>naS</s> <ab>c.</ab>, [Page107] <s>mlAnIkf</s>.
+;
+; 16661 new Ⓝ{@[Dead]en@},Ⓒ<lex>v. t.</lex>Ⓓ<s>durbalIkf</s>. 8 <ab>U</ab>, <s>SiTilIkf, tejo hf</s> 1 <ab>P</ab>, <s>naS</s> <ab>c.</ab>, [Page107] <s>mlAnIkf</s>.
+;
+; 16662 old Ⓔ<lex>v. i.</lex>Ⓓ<s>mlE</s> 1 <ab>P</ab>, <s>SITilIBU</s>.
+;
+; 16662 new Ⓔ<lex>v. i.</lex>Ⓓ<s>mlE</s> 1 <ab>P</ab>, <s>SITilIBU</s>.
+;
+; 16663 old Ⓝ{@[Dead]ly@},Ⓒ<lex>a.</lex>Ⓓ<s>prARApahAraka, jIvitApaha, mArAtmaka, ni-DanakArin, prARAMtaka, prARahArin, prARanASaka</s>, <s>jIvitaGna</s> (<s>GnI</s> <ab>f.</ab>).
+;
+; 16663 new Ⓝ{@[Dead]ly@},Ⓒ<lex>a.</lex>Ⓓ<s>prARApahAraka, jIvitApaha, mArAtmaka, ni-DanakArin, prARAMtaka, prARahArin, prARanASaka</s>, <s>jIvitaGna</s> (<s>GnI</s> <ab>f.</ab>).
+;
+; 16664 old Ⓑ{@2@} <s>aSAmya</s>. ‘d(eadly) enmity’ <s>AmaraRAMtikaM vEraM, aSAmyaM vEraM</s>. ‘d(eadly) poison’ <s>hAlA(la)halaM vizaM</s>.
+;
+; 16664 new Ⓑ{@2@} <s>aSAmya</s>. ‘d(eadly) enmity’ <s>AmaraRAMtikaM vEraM, aSAmyaM vEraM</s>. ‘d(eadly) poison’ <s>hAlA(la)halaM vizaM</s>.
+;
+; 16665 old Ⓔ<lex>adv.</lex>Ⓓ<s>mftavat</s>; <s>prARAM-tikaM</s>; ‘d(eadly) wounded’ <s>Binnamarman</s>; ‘d(eadly) pale’ <s>pretasavarRa</s>.
+;
+; 16665 new Ⓔ<lex>adv.</lex>Ⓓ<s>mftavat</s>; <s>prARAM-tikaM</s>; ‘d(eadly) wounded’ <s>Binnamarman</s>; ‘d(eadly) pale’ <s>pretasavarRa</s>.
+;
+; 16666 old Ⓝ{@[Deadly]ness@},Ⓒ<lex>s.</lex>Ⓓ<s>dOrbalyaM, {{niHsatva->niHsattva||20160822|||}}tA, jaqatvaM, staMBaH</s>; <s>vEkalyaM, virakti</s> <ab>f.</ab>, <s>SiTilatA</s>.
+;
+; 16666 new Ⓝ{@[Deadly]ness@},Ⓒ<lex>s.</lex>Ⓓ<s>dOrbalyaM, {{niHsatva->{{niHsatva->niHsattva||20160822|||}}||20160822|||}}tA, jaqatvaM, staMBaH</s>; <s>vEkalyaM, virakti</s> <ab>f.</ab>, <s>SiTilatA</s>.
+;
+; 16667 old Ⓝ{@Death@},Ⓒ<lex>s.</lex>Ⓓ<s>maraRaM, mftyuH, uparamaH, niDanaH-naM, aMtaH, paMcatvaM-tA, saMsTiti</s> <ab>f.</ab>, <s>kAlaDarmaH, dizwAMtaH, pralayaH, atyayaH, nASaH, prARanASaH, tanutyAgaH</s>, <ab>&c.</ab>
+;
+; 16667 new Ⓝ{@Death@},Ⓒ<lex>s.</lex>Ⓓ<s>maraRaM, mftyuH, uparamaH, niDanaH-naM, aMtaH, paMcatvaM-tA, saMsTiti</s> <ab>f.</ab>, <s>kAlaDarmaH, dizwAMtaH, pralayaH, atyayaH, nASaH, prARanASaH, tanutyAgaH</s>, <ab>&c.</ab>
+;
+; 16668 old Ⓑ{@2@} <s>yamaH, kAlaH, kftAMtaH</s>.
+;
+; 16668 new Ⓑ{@2@} <s>yamaH, kAlaH, kftAMtaH</s>.
+;
+; 16669 old Ⓑ{@3@} <s>vaDaH, GAtaH, vyApAdanaM</s>; ‘he was pelted to d(eath)’ <s>salozWaGAtaM hataH</s>; ‘he was sentenced to d(eath)’ <s>tasya prARadaMqa AdizwaH</s>; ‘to put to d(eath)’ <s>han</s> 2 <ab>P</ab>, <s>vyApad</s> <ab>c.</ab>, <s>vaDaM AdiS</s> 6 <ab>P</ab>; ‘a violent d(eath)’ <s>apamftyuH</s>; <s>apaGAtaH</s>; ‘angel of d(eath)’ <s>yamadUtaH</s>; ‘d(eath) by fasting’ <s>prAyaH, prAyopaveSanaM</s>; ‘d(eath) bed’ <s>mftyu SayyA</s>.
+;
+; 16669 new Ⓑ{@3@} <s>vaDaH, GAtaH, vyApAdanaM</s>; ‘he was pelted to d(eath)’ <s>salozWaGAtaM hataH</s>; ‘he was sentenced to d(eath)’ <s>tasya prARadaMqa AdizwaH</s>; ‘to put to d(eath)’ <s>han</s> 2 <ab>P</ab>, <s>vyApad</s> <ab>c.</ab>, <s>vaDaM AdiS</s> 6 <ab>P</ab>; ‘a violent d(eath)’ <s>apamftyuH</s>; <s>apaGAtaH</s>; ‘angel of d(eath)’ <s>yamadUtaH</s>; ‘d(eath) by fasting’ <s>prAyaH, prAyopaveSanaM</s>; ‘d(eath) bed’ <s>mftyu SayyA</s>.
+;
+; 16670 old Ⓝ{@[Death]less@},Ⓒ<lex>a.</lex>Ⓓ<s>amara, anaSvara, amartya, cirasTAyin</s>.
+;
+; 16670 new Ⓝ{@[Death]less@},Ⓒ<lex>a.</lex>Ⓓ<s>amara, anaSvara, amartya, cirasTAyin</s>.
+;
+; <L>3466<pc>133<k1>empty<k2>empty
+; {{riktattA->riktatA||20161211|||}}
+20268 old Ⓝ{@[Empty]ness@},Ⓒ<lex>s.</lex>Ⓓ<s>riktatA, SUnyatA</s>; <s>niHsAratA</s>, <ab>&c.</ab>
+;
+20268 new Ⓝ{@[Empty]ness@},Ⓒ<lex>s.</lex>Ⓓ<s>{{riktattA->riktatA||20161211|||}}, SUnyatA</s>; <s>niHsAratA</s>, <ab>&c.</ab>
+; <L>3764<pc>146<k1>exhaust<k2>exhaust
+; {{gKanna->Kinna||20161017|||}}
+21993 old Ⓑ{@3@} <s>SrAMta, klAMta, Kinna, avasanna, glAna</s>.
+;
+21993 new Ⓑ{@3@} <s>SrAMta, klAMta, {{gKanna->Kinna||20161017|||}}, avasanna, glAna</s>.
+; <L>3944<pc>157<k1>feeble<k2>feeble
+; {{niHsatva->niHsattva||20160822|||}}
+; niHsattva  NOT CHANGED  OK
+; 23196 old <L>3944<pc>157<k1>feeble<k2>feeble
+;1
+; 23196 new <L>3944<pc>157<k1>feeble<k2>feeble
+;
+; 23197 old {@Feeble@}¦,Ⓒ<lex>a.</lex>Ⓓ<s>durbala, aSakta, SaktihIna, nirbala</s>, <s>kzIRaSakti, alpaSakti, alpabala-vIrya-sattva, kzIRa, avasanna, kzAma, asamarTa, SiTilabala {{niHsatva->niHsattva||20160822|||}}</s>.
+;
+; 23197 new {@Feeble@}¦,Ⓒ<lex>a.</lex>Ⓓ<s>durbala, aSakta, SaktihIna, nirbala</s>, <s>kzIRaSakti, alpaSakti, alpabala-vIrya-sattva, kzIRa, avasanna, kzAma, asamarTa, SiTilabala {{niHsatva->{{niHsatva->niHsattva||20160822|||}}||20160822|||}}</s>.
+;
+; 23198 old Ⓝ{@[Feeble]ness@},Ⓒ<lex>s.</lex>Ⓓ<s>dOrbalyaM, kzIRatA, alpa-balaM, alpavIryaM, tejohAni</s> <ab>f.</ab>, <s>vIryahAniH, asAmarTyaM, avasAdaH, aSakti</s> <ab>f.</ab>, <s>SaktikzayaH, sattvanASaH, {{niHsatva->niHsattva||20160822|||}}tA</s>.
+;
+; 23198 new Ⓝ{@[Feeble]ness@},Ⓒ<lex>s.</lex>Ⓓ<s>dOrbalyaM, kzIRatA, alpa-balaM, alpavIryaM, tejohAni</s> <ab>f.</ab>, <s>vIryahAniH, asAmarTyaM, avasAdaH, aSakti</s> <ab>f.</ab>, <s>SaktikzayaH, sattvanASaH, {{niHsatva->{{niHsatva->niHsattva||20160822|||}}||20160822|||}}tA</s>.
+;
+; 23199 old Ⓝ{@Feebly@},Ⓒ<lex>adv.</lex>Ⓓ<s>durba-latayA, alpaSaktyA, maMdaM</s>. 
+;
+; 23199 new Ⓝ{@Feebly@},Ⓒ<lex>adv.</lex>Ⓓ<s>durba-latayA, alpaSaktyA, maMdaM</s>. 
+;
+; <L>4586<pc>186<k1>good<k2>good
+; {{satvaguRaH->sattvaguRaH||20160906|||}}
+27028 old Ⓑ{@3@} <s>suSIlatA, dayA, kfpAlutvaM, sadBAvaH, sOjanyaM, sujanatA</s>; ‘tendency to g(oodness)’ <s>sattvaguRaH</s>.
+;
+27028 new Ⓑ{@3@} <s>suSIlatA, dayA, kfpAlutvaM, sadBAvaH, sOjanyaM, sujanatA</s>; ‘tendency to g(oodness)’ <s>{{satvaguRaH->sattvaguRaH||20160906|||}}</s>.
+; <L>4754<pc>194<k1>half<k2>half
+; {{arDeduH->arDeMduH||20161220|||}}
+28017 old Ⓔ<lex>s.</lex>Ⓓ<s>arDaH-rDaM, arDaBAgaH, arDAMSaH</s>; in <ab>comp.</ab> <ab>ex.</ab> by <s>arDa</s>; <s>arDAMgaM, pUrvArDaH</s>, <ab>&c.</ab>; ‘a year and a h(alf)’ <s>sArDavatsaraH</s>; ‘h(alf) eaten’ <s>arDaBukta</s>; <s>arDavivfta, arDacCinna</s>, <ab>&c.</ab>; ‘h(alf)-brother’ <s>vEmAtreyaH, sApatnaH, anyo-{{daryaMH->daryaH||20161220|||}}, vEmAtraH</s>; ‘h(alf)-blood’ <s>Binnodara, Binna-garBa, anyodarya</s>; ‘h(alf)-dead’ <s>mftakalpa-prAya, maraRonmuKa, Asannamftyu, mumUrzu, kaMWagataprARa</s>; ‘h(alf)-hearted’ <s>nirutsAha, utsAhahIna, AsTA-rahita</s>; ‘h(alf) moon’ <s>arDeMduH, caMdrArDaH</s>; ‘h(alf)-sister’ <s>vEmAtreyI, vEmAtrI, anyodaryA</s>; ‘h(alf)-starved’ <s>kzuDAvasannaprAya, kzutkzAmakalpa</s>; ‘h(alf) way’ <s>arDamArge-paTe, maDyamArge</s>; ‘h(alf) year’ <s>arDavarzaM</s>; ‘h(alf) yearly’ <s>zARmAsika-ArDavArzika</s> (<s>kI</s> <ab>f.</ab>); ‘h(alf) a bread is better than no loaf’ <s>sarvanASe samutpanne arDaM tyajati paMqitaH</s> or <s>arDena kurute kAryaM</s>.
+;
+28017 new Ⓔ<lex>s.</lex>Ⓓ<s>arDaH-rDaM, arDaBAgaH, arDAMSaH</s>; in <ab>comp.</ab> <ab>ex.</ab> by <s>arDa</s>; <s>arDAMgaM, pUrvArDaH</s>, <ab>&c.</ab>; ‘a year and a h(alf)’ <s>sArDavatsaraH</s>; ‘h(alf) eaten’ <s>arDaBukta</s>; <s>arDavivfta, arDacCinna</s>, <ab>&c.</ab>; ‘h(alf)-brother’ <s>vEmAtreyaH, sApatnaH, anyo-{{daryaMH->daryaH||20161220|||}}, vEmAtraH</s>; ‘h(alf)-blood’ <s>Binnodara, Binna-garBa, anyodarya</s>; ‘h(alf)-dead’ <s>mftakalpa-prAya, maraRonmuKa, Asannamftyu, mumUrzu, kaMWagataprARa</s>; ‘h(alf)-hearted’ <s>nirutsAha, utsAhahIna, AsTA-rahita</s>; ‘h(alf) moon’ <s>{{arDeduH->arDeMduH||20161220|||}}, caMdrArDaH</s>; ‘h(alf)-sister’ <s>vEmAtreyI, vEmAtrI, anyodaryA</s>; ‘h(alf)-starved’ <s>kzuDAvasannaprAya, kzutkzAmakalpa</s>; ‘h(alf) way’ <s>arDamArge-paTe, maDyamArge</s>; ‘h(alf) year’ <s>arDavarzaM</s>; ‘h(alf) yearly’ <s>zARmAsika-ArDavArzika</s> (<s>kI</s> <ab>f.</ab>); ‘h(alf) a bread is better than no loaf’ <s>sarvanASe samutpanne arDaM tyajati paMqitaH</s> or <s>arDena kurute kAryaM</s>.
+; <L>5090<pc>211<k1>hypocrite<k2>hypocrite
+; {{Cadmana->CadmanA||20170120|||Since Adv. 3s likely}}
+29989 old Ⓝ{@[Hypocrit]ically@},Ⓒ<lex>adv.</lex>Ⓓ<s>sadaMBaM, sakapawaM, savyAjaM</s>; <s>dAMBikavat, CadmanA</s>.
+;
+29989 new Ⓝ{@[Hypocrit]ically@},Ⓒ<lex>adv.</lex>Ⓓ<s>sadaMBaM, sakapawaM, savyAjaM</s>; <s>dAMBikavat, {{Cadmana->CadmanA||20170120|||Since Adv. 3s likely}}</s>.
+; <L>5230<pc>218<k1>impotent<k2>impotent
+; {{niHsatva->niHsattva||20160822|||twice}}
+; niHsattva  NOT CHANGED  OK
+; 30765 old <L>5230<pc>218<k1>impotent<k2>impotent
+;
+; 30765 new <L>5230<pc>218<k1>impotent<k2>impotent
+;
+; 30766 old {@Impotent@}¦,Ⓒ<lex>a.</lex>Ⓓ<s>nirbala, durbala, aSakta, {{niHsatva->niHsattva||20160822|||twice}}</s>; <i>See</i> {@Feeble@}.
+;
+; 30766 new {@Impotent@}¦,Ⓒ<lex>a.</lex>Ⓓ<s>nirbala, durbala, aSakta, {{niHsatva->{{niHsatva->niHsattva||20160822|||twice}}||20160822|||twice}}</s>; <i>See</i> {@Feeble@}.
+;
+; 30767 old Ⓑ{@2@} <s>klIba, puMstvahIna, napuMsaka</s>, <s>nizpOruza</s>.
+;
+; 30767 new Ⓑ{@2@} <s>klIba, puMstvahIna, napuMsaka</s>, <s>nizpOruza</s>.
+;
+; 30768 old Ⓑ{@3@} <s>nizPala, nirarTaka, vyarTa, vfTA-muDA-</s> in <ab>comp.</ab>
+;
+; 30768 new Ⓑ{@3@} <s>nizPala, nirarTaka, vyarTa, vfTA-muDA-</s> in <ab>comp.</ab>
+;
+; 30769 old Ⓝ{@[Impotent]ly@},Ⓒ<lex>adv.</lex>Ⓓ<s>durbalaM, nirvIryaM, {{niHsatvaM->niHsattvaM||20160822|||}}</s>.
+;
+; 30769 new Ⓝ{@[Impotent]ly@},Ⓒ<lex>adv.</lex>Ⓓ<s>durbalaM, nirvIryaM, {{niHsatvaM->{{niHsatva->niHsattva||20160822|||twice}}M||20160822|||}}</s>.
+;
+; 30770 old Ⓝ{@Impotency@},Ⓒ<lex>s.</lex>Ⓓ<s>dOrbalyaM, {{niHsatva->niHsattva||20160822|||}}M</s>, <s>vIryABAvaH, klIbatA, apOruzaM, puMstvABAvaH, vEklavyaM</s>. 
+;
+; 30770 new Ⓝ{@Impotency@},Ⓒ<lex>s.</lex>Ⓓ<s>dOrbalyaM, {{niHsatva->{{niHsatva->niHsattva||20160822|||twice}}||20160822|||}}M</s>, <s>vIryABAvaH, klIbatA, apOruzaM, puMstvABAvaH, vEklavyaM</s>. 
+;
+; <L>6199<pc>259<k1>life<k2>life
+; {{satvaM->sattvaM||20160906|||}}
+; sattvaM  NOT CHANGED FIXED
+; 36199 old <L>6199<pc>259<k1>life<k2>life
+;
+; 36199 new <L>6199<pc>259<k1>life<k2>life
+;
+; 36200 old {@Life@}¦,Ⓒ<lex>s.</lex>Ⓓ<s>jIvanaM, jIvitaM, {{prARavAraRaM->prARaDAraRaM||20170120|||Print vague. cf mwe - mw}}, asu-DAraRaM</s>.
+;
+; 36200 new {@Life@}¦,Ⓒ<lex>s.</lex>Ⓓ<s>jIvanaM, jIvitaM, {{prARavAraRaM->prARaDAraRaM||20170120|||Print vague. cf mwe - mw}}, asu-DAraRaM</s>.
+;
+36201 old Ⓑ{@2@} <s>jIvaH, sattvaM, jIvitaM, cEtanyaM</s> [Page260] <s>cetanA, prARavAyuH, prARAtman</s> <ab>m.</ab>, <s>jIvAtmA</s>; ‘endowed with l(ife)’ <s>jIvin, prARin, sajIva, sacetana</s>; ‘love of l(ife)’ <s>jIvitatfzRA, jijIvizA</s>; ‘impatience of l(ife)’ <s>jIvita-dvezaH-trAsaH</s>; ‘deprived of l(ife)’ <s>hataprARa-jIvita, nazwaprARa</s>; ‘support of l(ife)’ <s>prARayAtrA-DAraRaM-rakzaRaM</s>; ‘reckless of l(ife)’ <s>jIvitavyayin, jIvitanirapekza</s>; ‘means of l(ife)’ <s>jIvanopAyaH</s>.
+;
+36201 new Ⓑ{@2@} <s>jIvaH, {{satvaM->sattvaM||20160906|||}}, jIvitaM, cEtanyaM</s> [Page260] <s>cetanA, prARavAyuH, prARAtman</s> <ab>m.</ab>, <s>jIvAtmA</s>; ‘endowed with l(ife)’ <s>jIvin, prARin, sajIva, sacetana</s>; ‘love of l(ife)’ <s>jIvitatfzRA, jijIvizA</s>; ‘impatience of l(ife)’ <s>jIvita-dvezaH-trAsaH</s>; ‘deprived of l(ife)’ <s>hataprARa-jIvita, nazwaprARa</s>; ‘support of l(ife)’ <s>prARayAtrA-DAraRaM-rakzaRaM</s>; ‘reckless of l(ife)’ <s>jIvitavyayin, jIvitanirapekza</s>; ‘means of l(ife)’ <s>jIvanopAyaH</s>.
+;
+; 36202 old Ⓑ{@3@} (Life-time) <s>Ayus</s> <ab>n.</ab>, <s>jIvitaM, jI-vanaM, jIvitakAlaH, AyurmaryAdA, AyuHpari-mARaM</s>; ‘possessed of long l(ife)’ <s>dIrGAyus, Ayuzmat, cirAyus</s>; ‘for l(ife)’, ‘during l(ife)’ ‘all oneʼs l(ife)’ <s>yAvajjIvaM, AmaraRAt</s>; ‘in all oneʼs l(ife)’ <s>Ajanma, janmataH praBfti</s> or <s>AraBya</s>; ‘my lamp of l(ife) is nearly out’ <s>nirvARaBUyizWo me jIvitapradIpaH</s> or <s>avasita-prAyo me jIvitAvaDiH</s>.
+;
+; 36202 new Ⓑ{@3@} (Life-time) <s>Ayus</s> <ab>n.</ab>, <s>jIvitaM, jI-vanaM, jIvitakAlaH, AyurmaryAdA, AyuHpari-mARaM</s>; ‘possessed of long l(ife)’ <s>dIrGAyus, Ayuzmat, cirAyus</s>; ‘for l(ife)’, ‘during l(ife)’ ‘all oneʼs l(ife)’ <s>yAvajjIvaM, AmaraRAt</s>; ‘in all oneʼs l(ife)’ <s>Ajanma, janmataH praBfti</s> or <s>AraBya</s>; ‘my lamp of l(ife) is nearly out’ <s>nirvARaBUyizWo me jIvitapradIpaH</s> or <s>avasita-prAyo me jIvitAvaDiH</s>.
+;
+; 36203 old Ⓑ{@4@} (<ab>fig.</ab>) <s>jIvitaM, prARAH</s>, (<s>tvaM jIvitaM me</s> <ls>U. 3</ls>).
+;
+; 36203 new Ⓑ{@4@} (<ab>fig.</ab>) <s>jIvitaM, prARAH</s>, (<s>tvaM jIvitaM me</s> <ls>U. 3</ls>).
+;
+; 36204 old Ⓑ{@5@} <s>saMsAraH, BavaH, saMsfti</s> <ab>f.</ab>, <s>lokayAtrA, BUlokavAsaH, ihavAsaH</s>.
+;
+; 36204 new Ⓑ{@5@} <s>saMsAraH, BavaH, saMsfti</s> <ab>f.</ab>, <s>lokayAtrA, BUlokavAsaH, ihavAsaH</s>.
+;
+; 36205 old Ⓑ{@6@} <s>vftti</s> <ab>f.</ab>, <s>AcAraH, vyavahAraH, rIti</s> <ab>f.</ab>, <s>cezwitaM, pravfttiH, vfttaM, AcaraRaM</s>; ‘leading a virtuous l(ife)’ <s>sADuvftta, sadAcAra, puRyamArga</s>.
+;
+; 36205 new Ⓑ{@6@} <s>vftti</s> <ab>f.</ab>, <s>AcAraH, vyavahAraH, rIti</s> <ab>f.</ab>, <s>cezwitaM, pravfttiH, vfttaM, AcaraRaM</s>; ‘leading a virtuous l(ife)’ <s>sADuvftta, sadAcAra, puRyamArga</s>.
+;
+; 36206 old Ⓑ{@7@} <s>caritaM, caritraM, jIvanavfttAMtaH, caritraracanA-kaTanaM</s>.
+;
+; 36206 new Ⓑ{@7@} <s>caritaM, caritraM, jIvanavfttAMtaH, caritraracanA-kaTanaM</s>.
+;
+; 36207 old Ⓑ{@8@} <s>avasTA, daSA, sTiti</s> <ab>f.</ab>, <s>vfttiH, BAvaH, gati</s> <ab>f.</ab>
+;
+; 36207 new Ⓑ{@8@} <s>avasTA, daSA, sTiti</s> <ab>f.</ab>, <s>vfttiH, BAvaH, gati</s> <ab>f.</ab>
+;
+36208 old Ⓑ{@9@} <s>utsAhaH, vIryaM, tejas</s> <ab>n.</ab>, <s>sattvaM, rasaH</s>; ‘bring or restore to l(ife)’ <s>ujjIv</s> <ab>c.</ab>, <s>socCvAsa</s> <ab>a.</ab> <s>kf</s> 8 <ab>U</ab>, <s>asUn prAp</s> <ab>c.</ab>, (<s>parIkzitaM durlaBAnasUnprApita-vAn</s> <ls>Ka. 175</ls>); ‘come to l(ife)’ <s>ujjIv</s> 1 <ab>P</ab>; ‘active l(ife)’ <s>pravfttiH, pravftti-saMsAra-mArgaH, lokavyavahAraH</s>; ‘retired l(ife)’ <s>nivfttiH, ni-vfttimArgaH</s>; ‘he entered on a military l(ife)’ <s>yoDavfttimASrayata</s>; ‘engaging in public l(ife)’ <s>lokavyavahArapravfttiH</s>; ‘in this l(ife)’ <s>iha, ihaloke</s>; ‘the vicissitudes of l(ife)’ <s>saMsAra-cakraM-parivartanaM, daSAMtarARi</s>; ‘l(ife)-blood’ <s>prARaH, tattvaM, sAraBUtaM dravyaM</s>; ‘l(ife)-giving’ <s>prARada, jIva-da-dAyin</s>; <s>vIryada, utsAhakara</s> (<s>rI</s> <ab>f.</ab>); ‘l(ife)-guard’ <s>rAjaparicaraH, SarIra-rakzakaH</s>; ‘l(ife)-time’ <s>jIvitAvaDiH, jIvita-kAlaH</s>; ‘during oneʼs l(ife)-time’ <s>yAvajjIvaM</s>.
+;
+36208 new Ⓑ{@9@} <s>utsAhaH, vIryaM, tejas</s> <ab>n.</ab>, <s>{{satvaM->sattvaM||20160906|||}}, rasaH</s>; ‘bring or restore to l(ife)’ <s>ujjIv</s> <ab>c.</ab>, <s>socCvAsa</s> <ab>a.</ab> <s>kf</s> 8 <ab>U</ab>, <s>asUn prAp</s> <ab>c.</ab>, (<s>parIkzitaM durlaBAnasUnprApita-vAn</s> <ls>Ka. 175</ls>); ‘come to l(ife)’ <s>ujjIv</s> 1 <ab>P</ab>; ‘active l(ife)’ <s>pravfttiH, pravftti-saMsAra-mArgaH, lokavyavahAraH</s>; ‘retired l(ife)’ <s>nivfttiH, ni-vfttimArgaH</s>; ‘he entered on a military l(ife)’ <s>yoDavfttimASrayata</s>; ‘engaging in public l(ife)’ <s>lokavyavahArapravfttiH</s>; ‘in this l(ife)’ <s>iha, ihaloke</s>; ‘the vicissitudes of l(ife)’ <s>saMsAra-cakraM-parivartanaM, daSAMtarARi</s>; ‘l(ife)-blood’ <s>prARaH, tattvaM, sAraBUtaM dravyaM</s>; ‘l(ife)-giving’ <s>prARada, jIva-da-dAyin</s>; <s>vIryada, utsAhakara</s> (<s>rI</s> <ab>f.</ab>); ‘l(ife)-guard’ <s>rAjaparicaraH, SarIra-rakzakaH</s>; ‘l(ife)-time’ <s>jIvitAvaDiH, jIvita-kAlaH</s>; ‘during oneʼs l(ife)-time’ <s>yAvajjIvaM</s>.
+;
+; 36209 old Ⓝ{@[Life]less@},Ⓒ<lex>a.</lex>Ⓓ<s>gatajIvita, gatAsu, parAMsu, vyasu, gata-nazwa-prARa, hatajIvita, prARa</s> or <s>jIva-rahita</s> or <s>hIna, acezwa</s>.
+;
+; 36209 new Ⓝ{@[Life]less@},Ⓒ<lex>a.</lex>Ⓓ<s>gatajIvita, gatAsu, parAMsu, vyasu, gata-nazwa-prARa, hatajIvita, prARa</s> or <s>jIva-rahita</s> or <s>hIna, acezwa</s>.
+;
+; 36210 old Ⓑ{@2@} <s>ajIva, nirjIva, vi-a-cetana, cEtanya-hIna-rahita, niScetana</s>.
+;
+; 36210 new Ⓑ{@2@} <s>ajIva, nirjIva, vi-a-cetana, cEtanya-hIna-rahita, niScetana</s>.
+;
+; 36211 old Ⓑ{@3@} <s>niHsattva, nirutsAha, nistejas, sattva-rasa-hIna</s>.
+;
+; 36211 new Ⓑ{@3@} <s>niHsattva, nirutsAha, nistejas, sattva-rasa-hIna</s>.
+;
+; <L>6304<pc>266<k1>long<k2>long
+; {{cira, laba,->cira, laMba,||20161215|||}}
+36888 old Ⓑ{@2@} <s>dUraM, dUre, dUraparyaMtaM</s>; ‘l(ong) absent’ <s>cirapravAsin, ciragata</s>; ‘l(ong) sick’ <s>dIrGa-cira-rogin</s>; ‘living l(ong)’ <s>cirajIvin, Ayuzmat</s>; ‘l(ong) since left’ <s>ciratyakta</s>, <ab>&c.</ab>; ‘how l(ong)’ <s>kiyacciraM, kiyaMtaM kAlaM</s>; <s>kiyatkAlaM</s>; ‘how l(ong) after’ <s>kiyaccireRa</s>; ‘not very l(ong)’ <s>nAticiraM</s>; ‘very l(ong)’ <s>suciraM</s>; ‘l(ong) ago’ <s>prAgeva, pUrvameva, atItadIrGakAle</s>; ‘not l(ong) ago’ <s>nAti-cirAt prAk, anatipUrvaM</s>; ‘ere l(ong)’ <s>acireRa, acirAt</s>; ‘as l(ong) as’, ‘so l(ong)’ <s>yAvat-tAvat</s>; ‘as l(ong) as one lives’ <s>yAvajjIvaM</s>; <s>{{Amara->Amara-||20170120|||missing '-'. full word AmaraRAt}}RAt</s>; ‘the whole year l(ong)’ <s>AvarzAMtAt, varzaparyaMtaM</s>; ‘l(ong) after’ <s>bahoH kAlAt, dIrGa-kAlAnaMtaraM</s>. in <ab>comp.</ab> words <ab>ex.</ab> by <s>dIrGa, cira, laMba, dUra, Ayata</s>; ‘l(ong)-armed’ <s>dIrGaBuja, laMbahasta</s>; ‘l(ong)-bellied’ <s>laMbodara</s>; [Page267] ‘l(ong)-continuing’ <s>cirasTAyin</s>; ‘l(ong)-eyed’ <s>AyatAkza, Ayatanetra</s>; ‘l(ong)-headed’ <s>sUkzma nipuRa-mati, vidagDa, pawu</s>; ‘l(ong)-lasting’ <s>cirasTAyin, cirakAlika</s>; <i>See</i> (<ab>a.</ab>); ‘l(ong)-legged’ <s>dIrGapAda, UrDvajAnu, UrDvajYu</s>; ‘l(ong)-lived’ <s>cira(ra)jIvin, dIrGAyus, cirAyus, cirAyuzya, jEvAtfka, Ayuzmat</s>; ‘l(ong) pepper’ <s>kfzRA, upakulyA, vEdehI, mAgaDI, capalA, kaRA, u(U)zaRA, pippaliH-lI, SOMqI, kolA</s>; <s>karipippalI, kapivallI, kolavallI, SreyasI, vaSiraH</s>; ‘l(ong) pepper root’ <s>graMTikaM, pippalImUlaM, cawakASiras</s> <ab>n.</ab>; ‘l(ong)-sighted’ <s>dUra-dIrGa-dfzwi</s>; ‘l(ong)-suffering’ <s>sahizRu, sahanaSIla, kzamin, bahukzama</s>; (<ab>s.</ab>) <s>kzamA, sahizRutA, sahanaSIlatA</s>.
+;
+36888 new Ⓑ{@2@} <s>dUraM, dUre, dUraparyaMtaM</s>; ‘l(ong) absent’ <s>cirapravAsin, ciragata</s>; ‘l(ong) sick’ <s>dIrGa-cira-rogin</s>; ‘living l(ong)’ <s>cirajIvin, Ayuzmat</s>; ‘l(ong) since left’ <s>ciratyakta</s>, <ab>&c.</ab>; ‘how l(ong)’ <s>kiyacciraM, kiyaMtaM kAlaM</s>; <s>kiyatkAlaM</s>; ‘how l(ong) after’ <s>kiyaccireRa</s>; ‘not very l(ong)’ <s>nAticiraM</s>; ‘very l(ong)’ <s>suciraM</s>; ‘l(ong) ago’ <s>prAgeva, pUrvameva, atItadIrGakAle</s>; ‘not l(ong) ago’ <s>nAti-cirAt prAk, anatipUrvaM</s>; ‘ere l(ong)’ <s>acireRa, acirAt</s>; ‘as l(ong) as’, ‘so l(ong)’ <s>yAvat-tAvat</s>; ‘as l(ong) as one lives’ <s>yAvajjIvaM</s>; <s>{{Amara->Amara-||20170120|||missing '-'. full word AmaraRAt}}RAt</s>; ‘the whole year l(ong)’ <s>AvarzAMtAt, varzaparyaMtaM</s>; ‘l(ong) after’ <s>bahoH kAlAt, dIrGa-kAlAnaMtaraM</s>. in <ab>comp.</ab> words <ab>ex.</ab> by <s>dIrGa, {{cira, laba,->cira, laMba,||20161215|||}} dUra, Ayata</s>; ‘l(ong)-armed’ <s>dIrGaBuja, laMbahasta</s>; ‘l(ong)-bellied’ <s>laMbodara</s>; [Page267] ‘l(ong)-continuing’ <s>cirasTAyin</s>; ‘l(ong)-eyed’ <s>AyatAkza, Ayatanetra</s>; ‘l(ong)-headed’ <s>sUkzma nipuRa-mati, vidagDa, pawu</s>; ‘l(ong)-lasting’ <s>cirasTAyin, cirakAlika</s>; <i>See</i> (<ab>a.</ab>); ‘l(ong)-legged’ <s>dIrGapAda, UrDvajAnu, UrDvajYu</s>; ‘l(ong)-lived’ <s>cira(ra)jIvin, dIrGAyus, cirAyus, cirAyuzya, jEvAtfka, Ayuzmat</s>; ‘l(ong) pepper’ <s>kfzRA, upakulyA, vEdehI, mAgaDI, capalA, kaRA, u(U)zaRA, pippaliH-lI, SOMqI, kolA</s>; <s>karipippalI, kapivallI, kolavallI, SreyasI, vaSiraH</s>; ‘l(ong) pepper root’ <s>graMTikaM, pippalImUlaM, cawakASiras</s> <ab>n.</ab>; ‘l(ong)-sighted’ <s>dUra-dIrGa-dfzwi</s>; ‘l(ong)-suffering’ <s>sahizRu, sahanaSIla, kzamin, bahukzama</s>; (<ab>s.</ab>) <s>kzamA, sahizRutA, sahanaSIlatA</s>.
+; <L>8315<pc>362<k1>proceed<k2>proceed
+; {{gacCatmu->gacCatsu||20170120|||}}
+48822 old Ⓑ{@3@} <s>vyavahAraH, kAryaM</s>; ‘in p(rocess) of time’ <s>kAlakrameRa, dinezu gacCatsu, gacCatA kAlena</s>.
+;
+48822 new Ⓑ{@3@} <s>vyavahAraH, kAryaM</s>; ‘in p(rocess) of time’ <s>kAlakrameRa, dinezu {{gacCatmu->gacCatsu||20170120|||}}, gacCatA kAlena</s>.
+; <L>10392<pc>468<k1>throw<k2>throw
+; {{{#yAMpayati#}->{#yApayati#}||20161211|||}}
+; {#yApayati#}  NOT CHANGED FIXED
+;    {{<s>yAMpayati</s>-><s>yApayati</s>||20161211|||}}
+; 61711 old <L>10392<pc>468<k1>throw<k2>throw
+;
+; 61711 new <L>10392<pc>468<k1>throw<k2>throw
+;
+; 61712 old {@Throw@}¦,Ⓒ<lex>v. t.</lex>Ⓓ<s>pra-, kzip</s> 6 <ab>P</ab>, <s>pra-, as</s> 4 <ab>P</ab>, <s>pat</s> <ab>c.</ab>, <s>pra-, muc</s> 6 <ab>P</ab>, <s>visfj</s> 6 <ab>P</ab>, <s>Ir</s> <ab>c.</ab> <s>prez</s> <ab>c.</ab>, (with <ab>loc.</ab> of place); ‘t(hrow) a glance’ <s>dfzwiM-cakzuH-kzip</s> or <s>dA</s> 3 <ab>U</ab> or <s>pat</s> <ab>c.</ab>; ‘t(hrow) into disorder’ <s>piMjalI-AkulI-kf</s> 8 <ab>U</ab>, <s>vyUhaM BaMj</s> 7 <ab>P</ab>; ‘t(hrow) dice’ <s>akzAn Avap</s> 1 <ab>P</ab> or <s>pat</s> <ab>c.</ab>
+;
+; 61712 new {@Throw@}¦,Ⓒ<lex>v. t.</lex>Ⓓ<s>pra-, kzip</s> 6 <ab>P</ab>, <s>pra-, as</s> 4 <ab>P</ab>, <s>pat</s> <ab>c.</ab>, <s>pra-, muc</s> 6 <ab>P</ab>, <s>visfj</s> 6 <ab>P</ab>, <s>Ir</s> <ab>c.</ab> <s>prez</s> <ab>c.</ab>, (with <ab>loc.</ab> of place); ‘t(hrow) a glance’ <s>dfzwiM-cakzuH-kzip</s> or <s>dA</s> 3 <ab>U</ab> or <s>pat</s> <ab>c.</ab>; ‘t(hrow) into disorder’ <s>piMjalI-AkulI-kf</s> 8 <ab>U</ab>, <s>vyUhaM BaMj</s> 7 <ab>P</ab>; ‘t(hrow) dice’ <s>akzAn Avap</s> 1 <ab>P</ab> or <s>pat</s> <ab>c.</ab>
+;
+; 61713 old Ⓝ{@[Throw] about@},Ⓐ<s>ut-vi-kzip, ita-stataH cal</s> <ab>c.</ab>; <s>bAhUtkzepaM</s> ‘t(hrow)ing about the arms’.
+;
+; 61713 new Ⓝ{@[Throw] about@},Ⓐ<s>ut-vi-kzip, ita-stataH cal</s> <ab>c.</ab>; <s>bAhUtkzepaM</s> ‘t(hrow)ing about the arms’.
+;
+61714 old Ⓝ{@[Throw] away@},Ⓐ<s>niH-vi-kzip, apAs</s>, [Page469] <s>apa-hA</s> 3 <ab>P</ab>, <s>apavyaD</s> 4 <ab>P</ab>, <s>tyaj</s> 1 <ab>P</ab>; (time) <s>kzip, hf</s> 1 <ab>P</ab>, {{<s>yAM</s>-><s>yA</s>||20161211|||}} <ab>c.</ab> (<s>yApayati</s>).
+;
+61714 new Ⓝ{@[Throw] away@},Ⓐ<s>niH-vi-kzip, apAs</s>, [Page469] <s>apa-hA</s> 3 <ab>P</ab>, <s>apavyaD</s> 4 <ab>P</ab>, <s>tyaj</s> 1 <ab>P</ab>; (time) <s>kzip, hf</s> 1 <ab>P</ab>, {{<s>yAM</s>-><s>yA</s>||20161211|||}} <ab>c.</ab> ({{<s>yAMpayati</s>-><s>yApayati</s>||20161211|||}}).
+;
+; 61715 old Ⓑ{@2@} <s>niras, pratyAKyA</s> 2 <ab>P</ab>; <i>See</i> {@Reject@}; ‘it was t(hrow)ing words away’ <s>nirarTakaM-moGaM-eva tad BAzaRaM, vAgAyAsamAtrakaM BAzaRaM</s>; ‘kindness was not thrown away upon him’ <s>sonugrahaM kftajYatayAsmarat</s>; ‘to be thrown away upon’ <s>viPalIBU</s> 1 <ab>P</ab>, <s>viPalatAM gam</s> 1 <ab>P</ab>, <s>layaM-kzayaM-nASaM-gam-yA</s> <ab>&c.</ab>; <s>gatA nASaM tArA upakftamasADAviva jane</s> (<ls>Mr. 5</ls>); <s>asatpuruzaseveva dfzwirviPalatAM gatA</s> (<ls>Mr. 1</ls>).
+;
+; 61715 new Ⓑ{@2@} <s>niras, pratyAKyA</s> 2 <ab>P</ab>; <i>See</i> {@Reject@}; ‘it was t(hrow)ing words away’ <s>nirarTakaM-moGaM-eva tad BAzaRaM, vAgAyAsamAtrakaM BAzaRaM</s>; ‘kindness was not thrown away upon him’ <s>sonugrahaM kftajYatayAsmarat</s>; ‘to be thrown away upon’ <s>viPalIBU</s> 1 <ab>P</ab>, <s>viPalatAM gam</s> 1 <ab>P</ab>, <s>layaM-kzayaM-nASaM-gam-yA</s> <ab>&c.</ab>; <s>gatA nASaM tArA upakftamasADAviva jane</s> (<ls>Mr. 5</ls>); <s>asatpuruzaseveva dfzwirviPalatAM gatA</s> (<ls>Mr. 1</ls>).
+;
+; 61716 old Ⓝ{@[Throw] down@},Ⓐ<s>pat</s> <ab>c.</ab>, <s>aDaH kzip</s> or <s>pat</s>; <s>pra-BraMS</s> <ab>c.</ab>, <s>pracyu</s> <ab>c.</ab>
+;
+; 61716 new Ⓝ{@[Throw] down@},Ⓐ<s>pat</s> <ab>c.</ab>, <s>aDaH kzip</s> or <s>pat</s>; <s>pra-BraMS</s> <ab>c.</ab>, <s>pracyu</s> <ab>c.</ab>
+;
+; 61717 old Ⓝ{@[Throw] off@}Ⓐ<s>niH-pra-kzip, ava-nir-DU</s> 5, 9 <ab>U</ab>, <s>nirAkf, apavyaD, apa-sf</s> <ab>c.</ab>; ‘t(hrow) one off his guard’ <s>asAvaDAna</s> <ab>a.</ab> <s>kf</s>; ‘t(hrow) off the veil or mask’ <s>svarUpaM prakawIkf</s> or <s>vi-vf</s> 5 <ab>U</ab> or <s>prakAS</s> <ab>c.</ab>
+;
+; 61717 new Ⓝ{@[Throw] off@}Ⓐ<s>niH-pra-kzip, ava-nir-DU</s> 5, 9 <ab>U</ab>, <s>nirAkf, apavyaD, apa-sf</s> <ab>c.</ab>; ‘t(hrow) one off his guard’ <s>asAvaDAna</s> <ab>a.</ab> <s>kf</s>; ‘t(hrow) off the veil or mask’ <s>svarUpaM prakawIkf</s> or <s>vi-vf</s> 5 <ab>U</ab> or <s>prakAS</s> <ab>c.</ab>
+;
+; 61718 old Ⓝ{@[Throw] out@},Ⓐ{@Reject@}, <ab>q. v.</ab>
+;
+; 61718 new Ⓝ{@[Throw] out@},Ⓐ{@Reject@}, <ab>q. v.</ab>
+;
+; 61719 old Ⓑ{@2@} <s>niH-, sf</s> <ab>c.</ab>, <s>apAs</s>.
+;
+; 61719 new Ⓑ{@2@} <s>niH-, sf</s> <ab>c.</ab>, <s>apAs</s>.
+;
+; 61720 old Ⓑ{@3@} (Hints) <s>sUc</s> 10, <s>upa-kzip, upanyas, vyaMj</s> <ab>c.</ab>
+;
+; 61720 new Ⓑ{@3@} (Hints) <s>sUc</s> 10, <s>upa-kzip, upanyas, vyaMj</s> <ab>c.</ab>
+;
+; 61721 old Ⓝ{@[Throw] up@},Ⓐ<s>udas, utkzip</s> <ab>&c.</ab>; (from the stomach) <s>udvam</s> 1 <ab>P</ab>, <s>ud-gF</s> 6 <ab>P</ab>; ‘I have thrown a wall around’ <s>upakzipto mayA BittibaMDaH</s> (<ls>M. 5</ls>).
+;
+; 61721 new Ⓝ{@[Throw] up@},Ⓐ<s>udas, utkzip</s> <ab>&c.</ab>; (from the stomach) <s>udvam</s> 1 <ab>P</ab>, <s>ud-gF</s> 6 <ab>P</ab>; ‘I have thrown a wall around’ <s>upakzipto mayA BittibaMDaH</s> (<ls>M. 5</ls>).
+;
+; 61722 old Ⓔ<lex>s.</lex>Ⓓ<s>pra-, kzepaH-paRaM, prAsanaM, preraRaM</s>; <ab>&c.</ab>
+;
+; 61722 new Ⓔ<lex>s.</lex>Ⓓ<s>pra-, kzepaH-paRaM, prAsanaM, preraRaM</s>; <ab>&c.</ab>
+;
+; 61723 old Ⓝ{@[Throw]er@},Ⓒ<lex>s.</lex>Ⓓ<s>kzeptf</s> <ab>m.</ab>, <s>prAsakaH</s>.
+;
+; 61723 new Ⓝ{@[Throw]er@},Ⓒ<lex>s.</lex>Ⓓ<s>kzeptf</s> <ab>m.</ab>, <s>prAsakaH</s>.
+;

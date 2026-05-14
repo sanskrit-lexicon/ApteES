@@ -1,0 +1,38 @@
+228c228
+< <L>228<pc>010<k1>all
+---
+> <L>228<pc>010<k1>ail
+577c577
+< <L>577<pc>021<k1>assafoetida
+---
+> <L>577<pc>021<k1>asafoetida
+724d723
+< <L>724<pc>026<k1>bacchanalian
+1352c1351
+< <L>1352<pc>046<k1>caeesura
+---
+> <L>1352<pc>046<k1>caesura
+1521d1519
+< <L>1521<pc>051<k1>catalepsy
+2166c2164
+< <L>2166<pc>076<k1>consubstantlal
+---
+> <L>2166<pc>076<k1>consubstantial
+2511d2508
+< <L>2511<pc>090<k1>curtsey
+2593d2589
+< <L>2593<pc>094<k1>decadency
+2725d2720
+< <L>2725<pc>100<k1>denovo
+5779c5774
+< <L>5777<pc>240<k1>Irradiate
+---
+> <L>5777<pc>240<k1>irradiate
+7564d7558
+< <L>7562<pc>328<k1>pained
+7638a7633
+> <L>7636.1<pc>330<k1>parallelopiped
+8671d8665
+< <L>8669<pc>381<k1>reception
+11315a11310
+> <L>11310.1<pc>499<k1>wrist

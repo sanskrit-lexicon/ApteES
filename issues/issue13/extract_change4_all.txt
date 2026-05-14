@@ -1,0 +1,162 @@
+156	advance	{{tpUMrvaM->tpUrvaM||20161211|||}}
+533	armorial	{{kulacinhasaMbaMDin->kulacihnasaMbaMDin||20170120|||}}
+578	assail	{{thing->king||20171023|||dozErnfpaH}}
+599	asterisk	{{tArakAcinhaM->tArakAcihnaM||20170120|||}}
+740	bailiff	{{AseDdf->AsedDf||20161010|||}}
+835	be	{{satvaH->sattvaH||20160906|||}}
+1021	bind	{{nAhaMmeBir->nAhameBir||20161215|||}}
+1079	blossom	{{mukulEHsaMnnadDa->mukulEH sannadDa||20170120|||}}
+1088	blunt	{{atIRakztA->atIkzRatA||20170221|||}}
+1226	bring	{{janH->jan||20170120|||}}
+1226	bring	{{upAnA->upAnI||20170120|||}}
+1228	brisk	{{satvaM->sattvaM||20160906|||}}
+1256	brush	{{vartiMkA->vartikA||20170105|||}}
+1348	cadence	{{ninhAdaH->nihrAdaH||20170120|||}}
+1393	campaign	{{samaraBUBi->samaraBUmi||20161116|||}}
+1610	chamois	{{mfwu->mfdu||20170105|||}}
+1719	chronicle	{{yaTAkramM->yaTAkramaM||20161027|||}}
+1789	clamour	{{ut-A-kuS->ut-A-kruS||20161215|||}}
+1806	clay	{{mfw->mfd||20170105|||}}
+1833	clod	{{lozWeH->lozWEH||20161220|||}}
+1867	coat	{{kulacinhaM->kulacihnaM||20170120|||}}
+1933	collide	{{prativAtaH->pratiGAtaH||20170505|||GAtaH more reasonable than vAtaH for collison}}
+1950	colour	{{dfqaM->dfQaM||20161010|||}}
+1950	colour	{{avalaMtrM->avalaMb||20161010|||print unclear}}
+1968	comfort	{{SokApahartF->SokApahartf||20170505|||}}
+2160	constrain	{{av-ruD->ava-ruD||20161116|||}}
+2172	contain	{{praharpaH->praharzaH||20170505|||}}
+2183	contiguity	{{saMnnikarzaH->sannikarzaH||20170120|||}}
+2190	contract	{{A-saM-kuca->A-saM-kuc||20161224|||}}
+2217	convert	{{vikfMti->vikfti||20170505|||for 'conversion'}}
+2218	convex	{{nyUbja,->nyubja,||20161211|||}}
+2218	convex	{{nyUbjatA,->nyubjatA,||20161211|||}}
+2251	coriander	{{kustumbaru->kustuMbarI||20170505|||'I' for coriander plant.}}
+2313	counsel	{{upadezF->upadezwf||20161017|||print blurred}}
+2562	dash	{{vidf->vidF||20170505|||}}
+2562	dash	{{vidf->vidF||20170505|||}}
+2582	debark	{{utF->uttF||20161116|||}}
+2650	defer	{{vyApekzaH->vyAkzepaH||20170505|||}}
+2653	define	{{cinh->cihn||20170120|||}}
+2681	deliberate	{{mApradaH->pramAdaH||20170505|||}}
+2691	deliver	{{samaf->samf||20170505|||}}
+2698	demand	{{deside.->desid.||20210112|||common abbreviation desiderative}}
+2759	depress	{{satvaBraMSaH->sattvaBraMSaH||20160906|||}}
+2767	deride	{{niBatsanaM->nirBartsanaM||20161202|||}}
+2816	detract	{{pESUnyaM->pESunyaM||20161211|||}}
+2868	die	{{niHsatva->niHsattva||20160822|||}}
+2868	die	{{niHsatva->niHsattva||20160822|||}}
+2963	discord	{{viBidna->viBid||20161215|||}}
+2990	disenchant	{{ud-hf->udDf||20161017|||}}
+3073	disrupt	{{vidf->vidF||20170505|||}}
+3099	distinguish	{{viSezacinhaM->viSezacihnaM||20170120|||}}
+3101	distract	{{vidf->vidF||20170505|||}}
+3226	drive	{{ap-as->apa-as||20170120|||}}
+3245	dry	{{niHsatva->niHsattva||20160822|||}}
+3255	due	{{karaRaM-->kAraRaM-||20161215|||print vague}}
+3466	empty	{{niHsatva->niHsattva||20160822|||}}
+3466	empty	{{riktattA->riktatA||20161211|||}}
+3509	enervate	{{SIRa-->kzIRa-||20161202|||}}
+3528	enlarge	{{bfhaRaM->bfMhaRaM||20170105|||type=p - cf MWE 'enlargement'}}
+3569	entity	{{satvaM->sattvaM||20160906|||}}
+3764	exhaust	{{DarmakarmAMRi->DarmakarmARi||20161202|||}}
+3764	exhaust	{{gKanna->Kinna||20161017|||}}
+3802	explode	{{vidf->vidF||20170505|||}}
+3873	faint	{{niHsatva->niHsattva||20160822|||}}
+3879	fall	{{aBidra->aBidru||20170105|||}}
+3944	feeble	{{niHsatva->niHsattva||20160822|||}}
+3944	feeble	{{niHsatva->niHsattva||20160822|||}}
+4045	fire	{{satvaM->sattvaM||20160906|||}}
+4133	flourish	{{saM-FD->saM-fD||20161027|||}}
+4158	fog	{{kUjJawikAcCanna->kujJawikAcCanna||20161202|||}}
+4277	frequent	{{yaNalugaMtaM->yaNlugaMtaM||20161211|||Missing virAma on yaN}}
+4309	froth	{{satva->sattva||20160822|||}}
+4493	gibber	{{prajalpitaM, mfzATakaM->prajalpitaM, mfzArTakaM||20161116|||}}
+4533	glean	{{saMgrahH->saMgrahaH||20161027|||}}
+4566	gnash	{{daMtEMrdatAn->daMtErdaMtAn||20161201|||order of anunsvAra, 'r' wrong in print}}
+4586	good	{{SramamAtradAyaPaM->SramamAtradAyakaM||20161211|||dAyaPaM -> dAyakaM}}
+4586	good	{{satvaguRaH->sattvaguRaH||20160906|||}}
+4663	grind	{{daMtEMrdatAnnizpizya->daMtErdaMtAnnizpizya||20161201|||same as above}}
+4723	gush	{{stra->sru||20170105|||}}
+4754	half	{{daryaMH->daryaH||20161220|||}}
+4754	half	{{arDeduH->arDeMduH||20161220|||}}
+4964	hollow	{{niHsatva->niHsattva||20160822|||}}
+5041	humiliate	{{aBiBUM->aBiBU||20161211|||}}
+5090	hypocrite	{{dABikaH->dAmBikaH||20170120|||}}
+5090	hypocrite	{{Cadmana->CadmanA||20170120|||Since Adv. 3s likely}}
+5090	hypocrite	{{kapawaDa{?}->kapawaDarma||20170120|||print unclear cf. MWE under hypocrisy}}
+5173	impair	{{niHsatva->niHsattva||20160822|||}}
+5230	impotent	{{niHsatva->niHsattva||20160822|||twice}}
+5230	impotent	{{niHsatvaM->niHsattvaM||20160822|||}}
+5230	impotent	{{niHsatva->niHsattva||20160822|||}}
+5420	indomitable	{{urusatva->urusattva||20160906|||}}
+5522	injure	{{nfSasa->nfSaMsa||20161116|||}}
+5542	innovate	{{kxy->kxp||20161017|||}}
+5753	invidious	{{IzyoM-asUyA-kara->IrzyA-asUyA-kara||20170120|||}}
+5778	irrational	{{varjita-hIga->varjita-hIna||20161202|||}}
+5781	irredeemable	{{aniDkreya->anizkreya||20161010|||}}
+5856	jejune	{{niHsatva->niHsattva||20160822|||}}
+5976	knot	{{cakraMH->cakraM||20170109|||}}
+6039	lank	{{darGideha->dIrGadeha||20170105|||}}
+6091	lay	{{DfliM->DUliM||20170105|||}}
+6099	league	{{sIgan->saMgin||20161224|||Thanks to sergeA for this one.}}
+6101	lean	{{dattahastAvalaMbAM->dattahastAvalaMbaM||20161116|||}}
+6154	lest	{{pralomyase->praloByase||20161220|||}}
+6199	life	{{prARavAraRaM->prARaDAraRaM||20170120|||Print vague. cf mwe - mw}}
+6199	life	{{satvaM->sattvaM||20160906|||}}
+6199	life	{{satvaM->sattvaM||20160906|||}}
+6200	lift	{{rudgrIvaH->udgrIvaH||20170829|||}}
+6203	light	{{laGu-SIGra-gati, dratagati->laGu-SIGra-gati, drutagati||20161211|||}}
+6236	linseywoolsey	{{niHsatva->niHsattva||20160822|||}}
+6304	long	{{Amara->Amara-||20170120|||missing '-'. full word AmaraRAt}}
+6304	long	{{cira, laba,->cira, laMba,||20161215|||}}
+6304	long	{{iCA->icCA||20161215|||}}
+6304	long	{{reRa, vistaraSaH->-reRa, vistaraSaH||20170120|||indicates 3s ending of prev. line 'suvistaraM'}}
+6432	malevolent	{{aBidragDa->aBidrugDa||20170829|||}}
+6538	match	{{anurpamaM->anupamaM||20161211|||}}
+7102	night	{{rAzwrIkA->rAzwrikA||20161027|||cf. MW solanum = night-shade = rAzwrikA}}
+7324	one	{{ekpakzIya->ekapakzIya||20161215|||}}
+7377	organ	{{iMdriyeH->iMdriyEH||20161215|||}}
+7729	pause	{{vi-up-ram->vi-upa-ram||20230605|||}}
+7730	pave	{{BUBiM->BUmiM||20161116|||}}
+7971	pious	{{DarmAcAMra->DarmAcAra||20161017|||}}
+8021	please	{{kAmacAMrin->kAmacArin||20161220|||}}
+8043	plough	{{vidf->vidF||20170505|||}}
+8064	pock	{{cinhaM->cihnaM||20170120|||}}
+8261	present	{{saMnniDaH->sanniDiH||20170120|||}}
+8268	presume	{{paMtidevatAmAnyaH->patidevatAmAnyaH||20170221|||anusvara wrong}}
+8315	proceed	{{ninittaM->nimittaM||20170120|||}}
+8315	proceed	{{gacCatmu->gacCatsu||20170120|||}}
+8390	prostrate	{{sAMzwAMgapraRAmaH->sAzwAMgapraRAmaH||20161202|||}}
+8484	pusillanimous	{{kApuruza, klIMba->kApuruza, klIba||20170109|||scan shows anusvAra}}
+8583	rage	{{kuD->kruD||20161215|||}}
+8772	rejuvenate	{{satvaM->sattvaM||20160906|||}}
+8805	remove	{{geneology->genealogy||20210112|||spelling error}}
+8885	restore	{{satva-bala-varDana->sattva-bala-varDana||20160822|||}}
+8918	revere	{{mAnapuraHmara->mAnapuraHsara||20170109|||}}
+8922	review	{{-nacaM->-canaM||20170120|||}}
+8941	rich	{{satva-sAra->sattva-sAra||20160822|||}}
+8958	rigour	{{tIzRadaMqa->tIkzRadaMqa||20161220|||}}
+9197	scheme	{{kXp->kxp||20161017|||}}
+9208	scion	{{navaRllavaH->navapallavaH||20170109|||}}
+9250	scrutiny	{{sUkzmanirUMpaRaM->sUkzmanirUpaRaM||20170120|||}}
+9302	select	{{vFM->vF||20161201|||}}
+9354	serve	{{atilAlanapUMrza->atilAlanapUrvaM||20161211|||}}
+9372	shade	{{cast->‘cast||20170109|||Print missing left quote}}
+9386	share	{{dfHKaM-->duHKaM-||20161201|||}}
+9560	slip	{{apamfp-gam->apasfp-gam||20170105|||scan unclear}}
+9770	spout	{{<s>niHsfM</s>-><s>niHsf</s>||20161224|||}}
+9891	still	{{bakayatraM->bakayaMtraM||20170105|||}}
+9893	stimulate	{{tejAverDin->tejovarDin||20170105|||}}
+9939	street	{{raTMyA->raTyA||20161027|||}}
+10018	subtract	{{viyuMj->viyuj||20170120|||Print vague. cf AP viyuj}}
+10021	succeed	{{AnupUfvyaRa->AnupUrvyeRa||20161010|||}}
+10191	table	{{UDvarBUmi->UrDvaBUmi||20161201|||}}
+10384	thrive	{{saMfD->samfD||20161202|||anusvAra before vowel is error}}
+10392	throw	{{<s>yAM</s>-><s>yA</s>||20161211|||}}
+10392	throw	{{<s>yAMpayati</s>-><s>yApayati</s>||20161211|||}}
+10418	time	{{by this t->by this t(ime)||20170120|||print missing period}}
+10663	turn	{{<s>pariRaB</s>-><s>pariRam</s>||20161202|||}}
+10906	use	{{up-yuj->upa-yuj||20161220|||}}
+11064	visible	{{dfMzwi->dfzwi||20161202|||}}
+11094	volume	{{aMtagartaM->aMtargataM||20161224|||}}
+11140	war	{{kzAtraDarmAH->kzatraDarmAH||20170221|||cf MW kzatraDarma}}

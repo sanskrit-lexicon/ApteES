@@ -1,0 +1,4 @@
+5090	hypocrite	{{kapawaDa{?}->kapawaDarma||20170120|||print unclear cf. MWE under hypocrisy}}
+5230	impotent	{{niHsatva->niHsattva||20160822|||twice}}
+6199	life	{{satvaM->sattvaM||20160906|||}}
+6304	long	{{iCA->icCA||20161215|||}}

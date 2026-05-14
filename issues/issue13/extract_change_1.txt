@@ -1,0 +1,16 @@
+1226	bring	{{upAnA->upAnI||20170120|||}}
+1950	colour	{{avalaMtrM->avalaMb||20161010|||print unclear}}
+2218	convex	{{nyUbjatA,->nyubjatA,||20161211|||}}
+2562	dash	{{vidf->vidF||20170505|||}}
+2868	die	{{niHsatva->niHsattva||20160822|||}}
+3466	empty	{{riktattA->riktatA||20161211|||}}
+3764	exhaust	{{gKanna->Kinna||20161017|||}}
+3944	feeble	{{niHsatva->niHsattva||20160822|||}}
+4586	good	{{satvaguRaH->sattvaguRaH||20160906|||}}
+4754	half	{{arDeduH->arDeMduH||20161220|||}}
+5090	hypocrite	{{Cadmana->CadmanA||20170120|||Since Adv. 3s likely}}
+5230	impotent	{{niHsatva->niHsattva||20160822|||twice}}
+6199	life	{{satvaM->sattvaM||20160906|||}}
+6304	long	{{cira, laba,->cira, laMba,||20161215|||}}
+8315	proceed	{{gacCatmu->gacCatsu||20170120|||}}
+10392	throw	{{{#yAMpayati#}->{#yApayati#}||20161211|||}}

@@ -1,0 +1,5 @@
+; <L>6304<pc>266<k1>long<k2>long
+; {{reRa, vistaraSaH->-reRa, vistaraSaH||20170120|||indicates 3s ending of prev. line 'suvistaraM'}}
+36900 old Ⓑ{@4@} <s>cira-dIrGa-kAlaH, kAla-dErGyaM</s>; ‘to such a l(ength)’ <s>etAvatparyaMtaM, yAvat</s> (with <ab>acc.</ab>); ‘for a l(ength) of time’ <s>ciraM, cirakAlaM</s>; ‘to a great l(ength)’ <s>atimAtraM, ati-maryAdaM</s>; ‘at l(ength)’ <s>savistaraM, vistareRa, suvistaraM -reRa, vistaraSaH, asaMkzepataH</s>.
+;
+36900 new Ⓑ{@4@} <s>cira-dIrGa-kAlaH, kAla-dErGyaM</s>; ‘to such a l(ength)’ <s>etAvatparyaMtaM, yAvat</s> (with <ab>acc.</ab>); ‘for a l(ength) of time’ <s>ciraM, cirakAlaM</s>; ‘to a great l(ength)’ <s>atimAtraM, ati-maryAdaM</s>; ‘at l(ength)’ <s>savistaraM, vistareRa, suvistaraM {{reRa, vistaraSaH->-reRa, vistaraSaH||20170120|||indicates 3s ending of prev. line 'suvistaraM'}}, asaMkzepataH</s>.
