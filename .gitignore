@@ -4,3 +4,7 @@
 *.pyc
 # temporary files
 temp*
+
+# audit sidecars
+.contributing_old.md
+.contributing_audit.txt
