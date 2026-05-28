@@ -1,20 +1,17 @@
-ApteES
-======
+# ApteES
 
-Apte English-Sanskrit Dictionary
+Sanskrit dictionary digitization and corrections repository in the Sanskrit Lexicon project.
 
-The issues of this repository pertain to the digitized versin of this dictionary at 
-http://www.sanskrit-lexicon.uni-koeln.de/.
+## Issues
 
-To facilitate corrections to this digitization, a subsidiary version has been created on
-the Wikisource web-site.  This repository may also contain programs and procedures 
-developed to coordinate the Wikisource version and the Cologne version.
-> Work on the Wikisource version was suspended in 2014.
-  On Cologne server, see directory scans/AEScan/2014/wikisource/.
-  
-## ae_saninvert
-(Oct 2016)
-This is an approach to finding spelling errors in the Sanskrit words of
-Apte English-Sanskrit Dictionary.  
+This repository uses the Sanskrit Lexicon unified issue taxonomy with:
+- **9 type labels**: link-target, link-splitting, markup, text-correction, content-enhancement, encoding, scan-quality, bug, question
+- **3 severity levels**: minor, medium, hard
+- **4 milestones**: Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements
 
-For description, see https://github.com/sanskrit-lexicon/ApteES/issues/6.
+## GitHub Issue Conventions
+
+All issues follow the unified taxonomy. See [CLAUDE.md](CLAUDE.md) for details.
+
+---
+*Updated by Cologne Issue Runbook*

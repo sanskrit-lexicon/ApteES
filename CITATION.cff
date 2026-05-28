@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+type: dataset
+title: Apte Student's English-Sanskrit Dictionary
+message: If you use this dataset, please cite both the digital edition and the printed source it digitises.
+license: CC-BY-SA-4.0
+repository-code: https://github.com/sanskrit-lexicon/ApteES
+date-released: 1884-01-01
+version: 1.0.0
+keywords:
+  - sanskrit
+  - lexicon
+  - cdsl
+  - cologne-digital-sanskrit-lexicon
+  - dictionary
+  - eng-skt
+authors:
+  - name: "Cologne Digital Sanskrit Lexicon project contributors"
+    website: https://www.sanskrit-lexicon.uni-koeln.de/
+preferred-citation:
+  type: book
+  title: Apte Student's English-Sanskrit Dictionary
+  year: 1884
+  authors:
+    - family-names: "Apte"
+      given-names: "V.S."
+  notes: "Same as AE; in GitHub"
