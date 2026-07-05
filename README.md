@@ -1,5 +1,7 @@
 # ApteES — Apte *The Student's English-Sanskrit Dictionary* (1884)
 
+_Created: 15-07-2014 · Last updated: 05-07-2026_
+
 Development and correction repository for **Vaman Shivram Apte's *The Student's English-Sanskrit Dictionary***, an English→Sanskrit dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/ae/ae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ae/ae.txt) (English headwords); this repository holds the development, correction, and enrichment work.
 
 A **reverse-direction** dictionary: English headwords (in `{@…@}`) with Sanskrit equivalents (SLP1, in `<s>…</s>`) and circled sense markers (Ⓐ, Ⓑ …). One of several English→Sanskrit works in CDSL (alongside the Monier-Williams *MWE* 1851 and Borooah *BOR* 1877). Its markup differs from the Sanskrit→X dictionaries — see **Data format** in [CLAUDE.md](CLAUDE.md).
@@ -18,6 +20,28 @@ A **reverse-direction** dictionary: English headwords (in `{@…@}`) with Sanskr
 | `hwspellcheck/` | `hwspellcheck/` working files |
 | `issues/` | Per-issue working files |
 | `transcode/` | `transcode/` working files |
+
+## Usage example
+
+A real entry from [`csl-orig/v02/ae/ae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ae/ae.txt) — line 65, the "abduct" entry:
+
+```
+65:{@Abduct@}¦,Ⓒ<lex>v. t.</lex>Ⓓ<s>apahf</s> 1 <ab>P</ab>.
+```
+
+To correct a typo in this line (e.g. `apahf` → `apahR`, a transcoding fix), write a change file in the standard paired-line format and apply it with `updateByLine.py`:
+
+```
+; issueNNN: fix SLP1 typo in "abduct" (apahf -> apahR)
+65 old {@Abduct@}¦,Ⓒ<lex>v. t.</lex>Ⓓ<s>apahf</s> 1 <ab>P</ab>.
+65 new {@Abduct@}¦,Ⓒ<lex>v. t.</lex>Ⓓ<s>apahR</s> 1 <ab>P</ab>.
+```
+
+```sh
+python updateByLine.py ae.txt change_65.txt ae_corrected.txt
+```
+
+(Illustrative — no actual defect at this line; the correction workflow above is exact, only the fictitious typo is invented to demonstrate the change-file mechanics.)
 
 ## Timeline
 
@@ -142,3 +166,5 @@ flowchart LR
 
 ---
 *Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
+
+_Dr. Mārcis Gasūns_
