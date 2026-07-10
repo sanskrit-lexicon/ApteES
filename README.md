@@ -1,25 +1,25 @@
 # ApteES — Apte *The Student's English-Sanskrit Dictionary* (1884)
 
-_Created: 15-07-2014 · Last updated: 05-07-2026_
+_Created: 15-07-2014 · Last updated: 11-07-2026_
 
 Development and correction repository for **Vaman Shivram Apte's *The Student's English-Sanskrit Dictionary***, an English→Sanskrit dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/ae/ae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ae/ae.txt) (English headwords); this repository holds the development, correction, and enrichment work.
 
-A **reverse-direction** dictionary: English headwords (in `{@…@}`) with Sanskrit equivalents (SLP1, in `<s>…</s>`) and circled sense markers (Ⓐ, Ⓑ …). One of several English→Sanskrit works in CDSL (alongside the Monier-Williams *MWE* 1851 and Borooah *BOR* 1877). Its markup differs from the Sanskrit→X dictionaries — see **Data format** in [CLAUDE.md](CLAUDE.md).
+A **reverse-direction** dictionary: English headwords (in `{@…@}`) with Sanskrit equivalents (SLP1, in `<s>…</s>`) and circled sense markers (Ⓐ, Ⓑ …). One of several English→Sanskrit works in CDSL (alongside the Monier-Williams *MWE* 1851 and Borooah *BOR* 1877). Its markup differs from the Sanskrit→X dictionaries — see **Data format** in [CLAUDE.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/CLAUDE.md).
 
 ## Documentation
 
-- [CLAUDE.md](CLAUDE.md) — repository guide and data-format reference.
-- [DATA_DICTIONARY.md](DATA_DICTIONARY.md) — markup tag reference.
-- [CONTRIBUTING.md](CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- [CLAUDE.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/CLAUDE.md) — repository guide and data-format reference.
+- [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/DATA_DICTIONARY.md) — markup tag reference.
+- [CONTRIBUTING.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/CODE_OF_CONDUCT.md)
 
 ## Contents
 
 | Path | Purpose |
 |---|---|
-| `ae_saninvert/` | `ae_saninvert/` working files |
-| `hwspellcheck/` | `hwspellcheck/` working files |
-| `issues/` | Per-issue working files |
-| `transcode/` | `transcode/` working files |
+| [`ae_saninvert/`](https://github.com/sanskrit-lexicon/ApteES/tree/main/ae_saninvert) | Inversion scripts (`invert1.py`, `invert2.py`) building a Sanskrit-side index, with ngram filtering (`filter_ngram.py`) to sort found vs. not-found headwords |
+| [`hwspellcheck/`](https://github.com/sanskrit-lexicon/ApteES/tree/main/hwspellcheck) | Headword spellcheck pass — extracted headword lists plus `check1.py`/`prep1.py` and Google-assisted correction files |
+| [`transcode/`](https://github.com/sanskrit-lexicon/ApteES/tree/main/transcode) | SLP1 ↔ Devanāgarī transcoding scripts (`ae_transcode.py`, `transcoder.py`) producing `ae_deva.txt` |
+| [`issues/`](https://github.com/sanskrit-lexicon/ApteES/tree/main/issues) | Per-issue working files (`issue9`, `issue11`–`issue14`, `markup_fix`) |
 
 ## Usage example
 
@@ -41,7 +41,7 @@ To correct a typo in this line (e.g. `apahf` → `apahR`, a transcoding fix), wr
 python updateByLine.py ae.txt change_65.txt ae_corrected.txt
 ```
 
-(Illustrative — no actual defect at this line; the correction workflow above is exact, only the fictitious typo is invented to demonstrate the change-file mechanics.)
+(Illustrative — no actual defect at this line; only the fictitious typo is invented to demonstrate the change-file mechanics.) The full 8-stage correction workflow, change-file format, and every gotcha (BOM, `<LEND>`, CRLF, line-count mismatch) are documented canonically in [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md) — follow that, not a re-description here.
 
 ## Timeline
 
@@ -50,6 +50,8 @@ python updateByLine.py ae.txt change_65.txt ae_corrected.txt
 | 2014 | Repository activity begins (first tracked issues) |
 | 2016–2024 | Ongoing corrections, markup, and comparison work |
 | 2026-05 | Issue taxonomy, citation metadata, documentation |
+| 2026-06 | v0.1.0 release; CC BY-SA 4.0 legalcode migration ([CHANGELOG.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/CHANGELOG.md)) |
+| 2026-07 | GitHub Pages landing page ([index.html](https://github.com/sanskrit-lexicon/ApteES/blob/main/index.html)); README refresh |
 
 ## Projects & Milestones
 
@@ -134,8 +136,8 @@ pie showData
 
 | Contributor | Commits |
 |---|---|
+| gasyoun (Mārcis Gasūns) | 39 |
 | funderburkjim | 21 |
-| gasyoun (Mārcis Gasūns) | 19 |
 
 ## Source
 
@@ -145,7 +147,7 @@ pie showData
 - **Year(s)**: 1884 (1st ed.); CDSL digitisation from the 1920 edition
 - **Language pair**: English → Sanskrit
 - **License (digital edition)**: CC BY-SA 4.0
-- See [CITATION.cff](CITATION.cff) for machine-readable citation.
+- See [CITATION.cff](https://github.com/sanskrit-lexicon/ApteES/blob/main/CITATION.cff) for machine-readable citation.
 
 ## Encoding
 
