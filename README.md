@@ -8,6 +8,7 @@ A **reverse-direction** dictionary: English headwords (in `{@…@}`) with Sanskr
 
 ## Documentation
 
+- [docs/TOOLING_MANUAL.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/docs/TOOLING_MANUAL.md) — **operator manual**: the three tool pipelines (inversion, spellcheck, transcode) end-to-end, issue-folder map, symptom→cure, maintainer appendix (metadoc: [docs/TOOLING_MANUAL.meta.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/docs/TOOLING_MANUAL.meta.md)).
 - [CLAUDE.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/CLAUDE.md) — repository guide and data-format reference.
 - [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/DATA_DICTIONARY.md) — markup tag reference.
 - [CONTRIBUTING.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/CODE_OF_CONDUCT.md)
