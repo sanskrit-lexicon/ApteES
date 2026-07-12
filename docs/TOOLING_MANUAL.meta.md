@@ -27,7 +27,7 @@ correction workflow.
 ## Provenance
 
 - Authored 11-07-2026 by Fable 5 (`claude-fable-5`) executing handoff
-  [H521-Fable_ApteES_tooling_manual_10.07.26.md](https://github.com/gasyoun/Uprava/blob/main/handoffs/H521-Fable_ApteES_tooling_manual_10.07.26.md)
+  [H521-Fable_ApteES_tooling_manual_10.07.26.md](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H521-Fable_ApteES_tooling_manual_10.07.26.md)
   (manual-coverage census batch H501–H531).
 - Modelled on the gold-standard operator manual
   [RussianRamayana Litpam-Indexator MANUAL.md](https://github.com/gasyoun/RussianRamayana/blob/main/Litpam-Indexator/docs/indesign-pipeline/MANUAL.md).
@@ -105,7 +105,7 @@ correction workflow.
   [hwnorm1](https://github.com/sanskrit-lexicon/hwnorm1) snapshot, or the
   current `csl-orig` `ae.txt`) and records the new counts here, plus routine
   Cologne-org maintainers doing the census-batch upkeep that produced this
-  manual (handoff [H521](https://github.com/gasyoun/Uprava/blob/main/handoffs/H521-Fable_ApteES_tooling_manual_10.07.26.md)).
+  manual (handoff [H521](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H521-Fable_ApteES_tooling_manual_10.07.26.md)).
   A human (Dr. Mārcis Gasūns) owns the org and arbitrates any backlog item
   above requiring a judgment call (e.g. whether to build the IAST edition,
   backlog #3).
