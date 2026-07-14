@@ -62,6 +62,66 @@ correction workflow.
   logs (issue13's print-change transfer is the most involved).
 - No live re-execution this pass (see Provenance).
 
+## Intended use / known misuse
+
+- **For:** onboarding a new operator/contributor to run the three ApteES
+  tool pipelines from the manual alone — transcode round-trip, ae_saninvert
+  Sanskrit-side inversion + hwnorm1/n-gram validation, and hwspellcheck
+  English-headword spellcheck — and to understand how their outputs feed the
+  csl-orig batched-PR correction workflow via `updateByLine.py`.
+- **For:** a maintainer deciding whether to re-run a pipeline, by reading
+  which parts are re-runnable/deterministic (transcode) versus one-time
+  2014–2016 studies whose *outputs*, not procedures, are the durable value
+  (ae_saninvert, hwspellcheck).
+- **Misuse — treating the recorded counts as current.** The 11,363→1,562→281→77
+  headword-error chain and the 155→2/961→781 n-gram figures are from the
+  *executed historical runs*, not live measurements; re-running against a
+  freshly built `ae.xml` or a refreshed hwnorm1 snapshot (backlog #2) will
+  produce different numbers — see [Known limitations](#known-limitations).
+- **Misuse — running `invert1.py` without a locally built `ae.xml`.** The
+  manual is explicit that this is an external artifact (produced by
+  csl-pywork's `generate_dict.sh ae` or downloaded from the Cologne AE scan
+  page); the tool is not self-contained.
+- **Misuse — editing `csl-orig/v02/ae/ae.txt` directly from a candidate
+  file.** Every pipeline in this manual terminates in a *change file*
+  applied by `updateByLine.py` and delivered as a consolidated batch PR per
+  the [csl-corrections correction workflow](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md)
+  — the `…prob.txt`/`spellchkLine.txt` outputs are candidates for human
+  review, not corrections to apply straight to the canonical text.
+- **Not for:** general Sanskrit lexicographic guidance — see
+  [README.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/README.md)
+  for what the repo/dictionary is, and
+  [CLAUDE.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/CLAUDE.md)
+  for the AI/code-session entry-format contract; this manual covers
+  operating the tools only.
+
+## Maintenance & sunset plan
+
+- **Owning repo:** [sanskrit-lexicon/ApteES](https://github.com/sanskrit-lexicon/ApteES)
+  (the tool pipelines and this manual live together; no separate pipeline
+  repo owns them).
+- **Keeps it alive:** whichever operator next re-runs a pipeline against
+  fresh inputs (a rebuilt `ae.xml`, a refreshed
+  [hwnorm1](https://github.com/sanskrit-lexicon/hwnorm1) snapshot, or the
+  current `csl-orig` `ae.txt`) and records the new counts here, plus routine
+  Cologne-org maintainers doing the census-batch upkeep that produced this
+  manual (handoff [H521](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H521-Fable_ApteES_tooling_manual_10.07.26.md)).
+  A human (Dr. Mārcis Gasūns) owns the org and arbitrates any backlog item
+  above requiring a judgment call (e.g. whether to build the IAST edition,
+  backlog #3).
+- **Archived/ended looks like:** the manual becomes historical-only if
+  ApteES's three tool pipelines are superseded by a newer, unified Cologne
+  tooling stack (there is no such migration planned as of this writing), or
+  if the AE dictionary text itself is fully corrected and the correction
+  workflow it feeds is retired. Until then, the manual is maintained
+  in place — updated counts/backlog items get folded into
+  [docs/TOOLING_MANUAL.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/docs/TOOLING_MANUAL.md)
+  and this metadoc's revision history, not rewritten from scratch.
+
+## Deprecation status
+
+`active`
+
 ## Related documents
 
 - [README.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/README.md) — repo overview + worked change-file example
@@ -75,5 +135,6 @@ correction workflow.
 | Date | Change | By |
 |---|---|---|
 | 11-07-2026 | Initial manual + this metadoc authored (H521); all dirs read first-hand; 6 traps recorded | Fable 5 (`claude-fable-5`) |
+| 11-07-2026 | template v2 backfill (H663) | Sonnet 5 (`claude-sonnet-5`) |
 
 _Dr. Mārcis Gasūns_
