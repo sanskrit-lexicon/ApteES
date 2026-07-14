@@ -2,11 +2,11 @@
 
 ApteES is part of the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon) project — corrections and enhancements for the Cologne digitisation of *Apte Sanskrit–English Dictionary (Extended)*.
 
-> Inherits the [Sanskrit Lexicon org-wide contribution standard](https://github.com/sanskrit-lexicon/COLOGNE/blob/master/CONTRIBUTING.md). This file documents anything **repo-specific** on top of it.
+> Inherits the [Sanskrit Lexicon org-wide contribution standard](https://github.com/sanskrit-lexicon/COLOGNE/blob/main/CONTRIBUTING.md). This file documents anything **repo-specific** on top of it.
 
 ## Reporting issues
 
-Use the issue templates in `.github/ISSUE_TEMPLATE/`. Each issue gets exactly one **type** label, one **severity** label, and one **milestone** — see the [org-wide taxonomy](https://github.com/sanskrit-lexicon/COLOGNE/blob/master/CONTRIBUTING.md#issue-taxonomy--dictionary-repos).
+Use the issue templates in `.github/ISSUE_TEMPLATE/`. Each issue gets exactly one **type** label, one **severity** label, and one **milestone** — see the [org-wide taxonomy](https://github.com/sanskrit-lexicon/COLOGNE/blob/main/CONTRIBUTING.md#issue-taxonomy--dictionary-repos).
 
 Before opening:
 1. Search existing issues (including closed) for similar patterns.

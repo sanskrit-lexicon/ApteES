@@ -2,7 +2,7 @@
 
 _Created: 15-07-2014 · Last updated: 11-07-2026_
 
-Development and correction repository for **Vaman Shivram Apte's *The Student's English-Sanskrit Dictionary***, an English→Sanskrit dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/ae/ae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ae/ae.txt) (English headwords); this repository holds the development, correction, and enrichment work.
+Development and correction repository for **Vaman Shivram Apte's *The Student's English-Sanskrit Dictionary***, an English→Sanskrit dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/ae/ae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/ae/ae.txt) (English headwords); this repository holds the development, correction, and enrichment work.
 
 A **reverse-direction** dictionary: English headwords (in `{@…@}`) with Sanskrit equivalents (SLP1, in `<s>…</s>`) and circled sense markers (Ⓐ, Ⓑ …). One of several English→Sanskrit works in CDSL (alongside the Monier-Williams *MWE* 1851 and Borooah *BOR* 1877). Its markup differs from the Sanskrit→X dictionaries — see **Data format** in [CLAUDE.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/CLAUDE.md).
 
@@ -24,7 +24,7 @@ A **reverse-direction** dictionary: English headwords (in `{@…@}`) with Sanskr
 
 ## Usage example
 
-A real entry from [`csl-orig/v02/ae/ae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ae/ae.txt) — line 65, the "abduct" entry:
+A real entry from [`csl-orig/v02/ae/ae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/ae/ae.txt) — line 65, the "abduct" entry:
 
 ```
 65:{@Abduct@}¦,Ⓒ<lex>v. t.</lex>Ⓓ<s>apahf</s> 1 <ab>P</ab>.

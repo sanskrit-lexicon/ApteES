@@ -44,7 +44,7 @@ Two consequences drive all three tools:
    them — hence `hwspellcheck`.
 
 The canonical text is
-[csl-orig `v02/ae/ae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ae/ae.txt)
+[csl-orig `v02/ae/ae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/ae/ae.txt)
 (dictionary code `ae`; repo name ApteES). Corrections never land there
 directly: change files (`NNN old` / `NNN new` pairs, `;` comments, also
 `ins`/`del`) are applied with `updateByLine.py` and delivered per the
