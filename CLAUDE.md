@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **ApteES** is the development and correction repository for **Vaman Shivram Apte's *The Student's English-Sanskrit Dictionary***, an English→Sanskrit dictionary, within the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL).
 
-- **Canonical source text**: [`csl-orig/v02/ae/ae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ae/ae.txt) (English headwords) — corrections are applied to that file, not stored here.
+- **Canonical source text**: [`csl-orig/v02/ae/ae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/ae/ae.txt) (English headwords) — corrections are applied to that file, not stored here.
 - This repository holds **development artifacts**: corrections, markup, comparison, and per-issue working files.
 - A **reverse-direction** dictionary: English headwords (in `{@…@}`) with Sanskrit equivalents (SLP1, in `<s>…</s>`) and circled sense markers (Ⓐ, Ⓑ …). One of several English→Sanskrit works in CDSL (alongside the Monier-Williams *MWE* 1851 and Borooah *BOR* 1877). Its markup differs from the Sanskrit→X dictionaries — see **Data format** in [CLAUDE.md](CLAUDE.md).
 
