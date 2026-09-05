@@ -1,3 +1,5 @@
+_Created: 15-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -8,7 +10,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 - **Canonical source text**: [`csl-orig/v02/ae/ae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/ae/ae.txt) (English headwords) — corrections are applied to that file, not stored here.
 - This repository holds **development artifacts**: corrections, markup, comparison, and per-issue working files.
-- A **reverse-direction** dictionary: English headwords (in `{@…@}`) with Sanskrit equivalents (SLP1, in `<s>…</s>`) and circled sense markers (Ⓐ, Ⓑ …). One of several English→Sanskrit works in CDSL (alongside the Monier-Williams *MWE* 1851 and Borooah *BOR* 1877). Its markup differs from the Sanskrit→X dictionaries — see **Data format** in [CLAUDE.md](CLAUDE.md).
+- A **reverse-direction** dictionary: English headwords (in `{@…@}`) with Sanskrit equivalents (SLP1, in `<s>…</s>`) and circled sense markers (Ⓐ, Ⓑ …). One of several English→Sanskrit works in CDSL (alongside the Monier-Williams *MWE* 1851 and Borooah *BOR* 1877). Its markup differs from the Sanskrit→X dictionaries — see **Data format** in [CLAUDE.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/CLAUDE.md).
 
 ## Architecture
 
@@ -38,7 +40,7 @@ Supports `new` (replace), `ins` (insert after), `del` (delete). All files UTF-8 
 
 ## Data format
 
-ApteES entries use standard CDSL Sanskrit-lexicography markup. See [DATA_DICTIONARY.md](DATA_DICTIONARY.md) for the full tag reference.
+ApteES entries use standard CDSL Sanskrit-lexicography markup. See [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/ApteES/blob/main/DATA_DICTIONARY.md) for the full tag reference.
 
 | Tag | Role |
 |---|---|
@@ -78,3 +80,5 @@ This repository uses the Cologne dictionary-repo issue taxonomy. Every issue has
 - **Milestone** (4): Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements
 
 See the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md) for label definitions and the type→milestone mapping.
+
+_Dr. Mārcis Gasūns_

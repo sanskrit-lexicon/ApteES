@@ -1,3 +1,5 @@
+_Created: 28-05-2026 · Last updated: 05-09-2026_
+
 # Contributing to ApteES
 
 ApteES is part of the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon) project — corrections and enhancements for the Cologne digitisation of *Apte Sanskrit–English Dictionary (Extended)*.
@@ -15,10 +17,12 @@ Before opening:
 
 ## Submitting a correction (PR)
 
-Corrections are never made directly to source files — they are expressed as change files applied by scripts. See [`CLAUDE.md`](CLAUDE.md) for the change-file format and the `updateByLine.py` workflow.
+Corrections are never made directly to source files — they are expressed as change files applied by scripts. See [`CLAUDE.md`](https://github.com/sanskrit-lexicon/ApteES/blob/main/CLAUDE.md) for the change-file format and the `updateByLine.py` workflow.
 
 PR checklist:
 - [ ] Correction verified against the canonical print edition
 - [ ] Change file uses the documented `NNN old / NNN new` format
 - [ ] No unrelated changes mixed in
 - [ ] Issue number referenced in the PR title or body
+
+_Dr. Mārcis Gasūns_
