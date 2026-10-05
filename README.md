@@ -1,5 +1,7 @@
 # ApteES — Apte *The Student's English-Sanskrit Dictionary* (1884)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151284.svg)](https://doi.org/10.5281/zenodo.23151284)
+
 _Created: 15-07-2014 · Last updated: 11-07-2026_
 
 Development and correction repository for **Vaman Shivram Apte's *The Student's English-Sanskrit Dictionary***, an English→Sanskrit dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/ae/ae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/ae/ae.txt) (English headwords); this repository holds the development, correction, and enrichment work.
